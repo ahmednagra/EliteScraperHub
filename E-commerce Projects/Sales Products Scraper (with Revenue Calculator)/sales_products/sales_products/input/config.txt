@@ -1,0 +1,5 @@
+scraperapi_key== http://scraperapi:673e5f7e3d0ac17fee7e9ac63b848bb1:@proxy-server.scraperapi.com:8001
+discord_webhook_url== https://discord.com/api/webhooks/1133267322384154756/Z9BOgvoV1dlA92S-ajqi56cYRZBz6NGfwhpmmopfY1B4gSNc960GYzNPgW746bPOrdYh
+
+
+client__discord_webhook_url== https://discord.com/api/webhooks/1107241293723213864/oNkeBbWjJG1oxMfJ-QaZB4ydYAU-zMKLVKmkscAIwl8WGbWmuBUpZN5unICvxCvBYC3w

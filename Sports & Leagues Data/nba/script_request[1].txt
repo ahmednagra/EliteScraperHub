@@ -1,0 +1,45 @@
+I would like you to write a web scraper for the 2015-16 NBA season through the 2023-24 NBA season. You should save game-by-game statistics from both players and teams. 
+
+You should do this by iterating through each date of each season, encoding the date, season type, and statistic type into the URL, as in "https://www.nba.com/stats/players/advanced?Season=2015-16&SeasonType=Regular+Season&DateFrom=10%2F27%2F2015&DateTo=10%2F27%2F2015". You should collect both team and player statistics, and save each game's statistics as one row in a CSV file corresponding to a particular player or a particular team. Thus, the file structure should be as follows:
+DATA
+--- TEAM
+------ ATLANTA HAWKS.csv
+------ BOSTON CELTICS.csv
+------ ...
+--- PLAYER
+------ A.J. GREEN.csv
+------ A.J. HAMMONS.csv
+------ ...
+
+I would like the following data items for each team:
+Under General/Advanced, I would like PACE and PIE.
+
+Under Tracking/Passing, I would like PASSES MADE. This should be saved as PASSES_MADE.
+
+Under Tracking/Touches, I would like AVG SEC PER TOUCH. This should be saved as SEC_TOUCH.
+
+Under Tracking/Rebounding, I would like ADJUSTED REB CHANCE %. This should be saved as ADJ_REB_CHANCE_%.
+
+Under Tracking/Offensive Rebounding, I would like ADJUSTED REB CHANCE %. This should be saved as ADJ_OFF_REB_CHANCE_%.
+
+Under Tracking/Defensive Rebounding, I would like ADJUSTED REB CHANCE %. This should be saved as ADJ_DEF_REB_CHANCE_%.
+
+Under Tracking/Speed and Distance, I would like AVG SPEED OFF. This should be saved as AVG_SPEED_OFF.
+
+Under Shooting/Distance Range==By Zone, I would like FGM and FGA from all zones other than LEFT CORNER 3 and RIGHT CORNER 3. In other words, I would like FGM and FGA from RESTRICTED AREA,	IN THE PAINT (NON-RA), MID-RANGE, CORNER 3, and ABOVE THE BREAK 3. These should be saved as FGM_RA, FGA_RA, FGM_PAINT, FGA_PAINT, FGM_MID-RANGE, FGA_MID-RANGE, FGM_CORNER, FGA_CORNER, FGM_AB, FGA_AB. Note that this probably must be dealt with differently because of the multi-level headers on the webpage.
+
+Under Hustle, I would like DEFLECTIONS and SCREEN ASSISTS PTS. These should be saved as DEFLECTIONS and SCREEN_AST_PTS.
+
+Under Tracking/Shooting Efficiency, I would like DRIVE PTS, C&S PTS, PULL UP PTS, PAINT TOUCH PTS, POST TOUCH PTS, ELBOW TOUCH PTS. These should be saved as DRIVE_PTS, C&S_PTS, PULL_UP_PTS, PAINT_TOUCH_PTS, POST_TOUCH_PTS, and ELBOW_TOUCH_PTS.
+
+I would like all of the above data items for each team. I would also like:
+
+Under Defense Dashboard/2 Pointers, I would like FREQ%, DFGM, DFGA, and FG%. These should be saved as OPP_2PT_FREQ_%, OPP_2PT_DFGM, OPP_2PT_DFGA, and OPP_2PT_FG_%.
+
+Under Defense Dashboard/3 Pointers, I would like FREQ%, DFGM, DFGA, and FG%. These should be saved as OPP_3PT_FREQ_%, OPP_3PT_DFGM, OPP_3PT_DFGA, and OPP_3PT_FG_%.
+
+Thus, the columns in each team's CSV file should be:
+DATE, SEASON, GAME_TYPE, PACE, PIE, PASSES_MADE, SEC_TOUCH, ADJ_REB_CHANCE_%, ADJ_OFF_REB_CHANCE_%, ADJ_DEF_REB_CHANCE_%, AVG_SPEED_OFF, FGM_RA, FGA_RA, FGM_PAINT, FGA_PAINT, FGM_MID-RANGE, FGA_MID-RANGE, FGM_CORNER, FGA_CORNER, FGM_AB, FGA_AB, DEFLECTIONS, SCREEN_AST_PTS, DRIVE_PTS, C&S_PTS, PULL_UP_PTS, PAINT_TOUCH_PTS, POST_TOUCH_PTS, ELBOW_TOUCH_PTS.
+
+The columns in each player's CSV file should be:
+DATE, SEASON, GAME_TYPE, PACE, PIE, PASSES_MADE, SEC_TOUCH, ADJ_REB_CHANCE_%, ADJ_OFF_REB_CHANCE_%, ADJ_DEF_REB_CHANCE_%, AVG_SPEED_OFF, FGM_RA, FGA_RA, FGM_PAINT, FGA_PAINT, FGM_MID-RANGE, FGA_MID-RANGE, FGM_CORNER, FGA_CORNER, FGM_AB, FGA_AB, DEFLECTIONS, SCREEN_AST_PTS, DRIVE_PTS, C&S_PTS, PULL_UP_PTS, PAINT_TOUCH_PTS, POST_TOUCH_PTS, ELBOW_TOUCH_PTS, OPP_2PT_FREQ_%, OPP_2PT_DFGM, OPP_2PT_DFGA, OPP_2PT_FG_%.

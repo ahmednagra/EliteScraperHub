@@ -1,0 +1,17 @@
+[INIT] Script started at 30-12-2024 22:04:23
+
+Total Records found in the Excel file determination_database are :824
+
+Publication Ref: 64TACD2019  not has valid URL
+Publication Ref: 70TACD2021  not has valid URL
+Publication Ref: 71TACD2021  not has valid URL
+Publication Ref: 72TACD2021  not has valid URL
+Publication Ref: 73TACD2021  not has valid URL
+Publication Ref: 74TACD2021  not has valid URL
+Publication Ref: 75TACD2021  not has valid URL
+Failed to download PDF. HTTP Status: 200, Content-Type: text/html
+
+
+Total Items Scraped:1021
+Spider Started from :30-12-2024 22:04:23
+Spider Stopped at :30-12-2024 22:04:53

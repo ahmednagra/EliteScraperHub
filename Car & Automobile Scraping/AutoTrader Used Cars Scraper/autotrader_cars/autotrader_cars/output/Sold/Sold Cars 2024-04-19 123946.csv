@@ -1,0 +1,17 @@
+Title,Make,Model,Year,Vin,Location,Condition,Price,Average Market Price,Main Image,Options,Mileage,Trim,Color,Body Type,Fuel Type,Engine,Drive Train,City Fuel Economy,Highway Fuel Economy,Combined Fuel Economy,Dealer Name,Dealer City,Dealer State,Dealer Zip,Dealer Rating,Dealer Phone,URL,Status,Scraped Date
+GMC Yukon Denali,GMC,Yukon,2023,1GKS1DKL5PR440925,,Used,78310,76826.0,https://images.autotrader.com/hn/c/15d4acc40e8748309dfd435cdf7ebff6.jpg,"Interiorcolor = [Interior Color: Brown]
+Transmission = [Transmission: 10-Speed Automatic]
+Color = [Exterior Color: Blue]
+Fueltype = [Fuel Type: Gasoline]
+Mpg = [MPG: 14 City / 20 Highway]
+Engine = [Engine: 8-Cylinder]
+Drivetype = [Drive Type: 2 Wheel Drive - Rear]
+Mileage = [Miles: 6,712]","6,712",YUKON|Denali,Midnight Blue Metallic,SUV,Gasoline,8-Cylinder,2 wheel drive - rear,14,20,,Garber Automall,Green Cove Springs,FL,32043,,18665041841,https://www.autotrader.com/cars-for-sale/vehicle/710141649,Good,2024-04-19 123132
+Genesis GV80 3.5T,Genesis,GV80,2021,KMUHCESC6MU046040,,Used,41333,,https://images.autotrader.com/hn/c/d360c5debfdf47f1a9a327bdd77d1716.jpg,"Interiorcolor = [Interior Color: Unavail]
+Transmission = [Transmission: 8-Speed Automatic]
+Color = [Exterior Color: Silver]
+Fueltype = [Fuel Type: Gasoline]
+Mpg = [MPG: 18 City / 23 Highway]
+Engine = [Engine: 6-Cylinder Turbo]
+Drivetype = [Drive Type: All Wheel Drive]
+Mileage = [Miles: 54,896]","54,896",GENGV80|3.5T,Savile Silver,SUV,Gasoline,6-Cylinder Turbo,All wheel drive,18,23,,Genesis of Columbus OH,Columbus,OH,43231,,3802511944,https://www.autotrader.com/cars-for-sale/vehicle/709102015,,2024-04-19 123132

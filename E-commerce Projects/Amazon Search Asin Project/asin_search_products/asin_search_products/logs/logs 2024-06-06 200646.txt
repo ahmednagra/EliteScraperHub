@@ -1,0 +1,13 @@
+Spider "asin_search" Started at "2024-06-06 200646"
+
+58 : Total Input Asins Numbers
+Spider "asin_search" Total Asins Are Scraped: "38"
+
+Spider "asin_search" was started at "2024-06-06 200646"
+Spider "asin_search" closed at "2024-06-06 201435"
+
+
+Spider Error:: 
+
+
+

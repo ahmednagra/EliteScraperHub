@@ -1,0 +1,2 @@
+python perfume_seprate_info.py
+pause

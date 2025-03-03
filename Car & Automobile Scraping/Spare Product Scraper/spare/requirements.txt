@@ -1,0 +1,4 @@
+itemadapter==0.8.0
+openpyxl==3.1.2
+Requests==2.31.0
+Scrapy==2.10.1

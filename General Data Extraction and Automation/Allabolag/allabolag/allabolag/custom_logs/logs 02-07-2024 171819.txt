@@ -1,0 +1,110 @@
+Script Started at "02-07-2024 17:18:20"
+
+Advokatbyråer Has Total Companies : 3946
+Juridisk Verksamhet, Övrig Has Total Companies : 3400
+Skatterådgivning Has Total Companies : 467
+Revision Has Total Companies : 1575
+Redovisning & Bokföring , Country : gotland , Employs :1 - 4 Has Total Companies : 54
+Redovisning & Bokföring , Country : gotland , Employs :0 Has Total Companies : 110
+Redovisning & Bokföring , Country : blekinge , Employs :0 Has Total Companies : 133
+Redovisning & Bokföring , Country : jämtland , Employs :0 Has Total Companies : 220
+Redovisning & Bokföring , Country : kalmar , Employs :0 Has Total Companies : 221
+Redovisning & Bokföring , Country : kronoberg , Employs :0 Has Total Companies : 229
+Redovisning & Bokföring , Country : västernorrland , Employs :0 Has Total Companies : 248
+Redovisning & Bokföring , Country : västmanland , Employs :0 Has Total Companies : 252
+Redovisning & Bokföring , Country : västerbotten , Employs :0 Has Total Companies : 265
+Redovisning & Bokföring , Country : norrbotten , Employs :0 Has Total Companies : 286
+Redovisning & Bokföring , Country : gävleborg , Employs :0 Has Total Companies : 286
+Redovisning & Bokföring , Country : värmland , Employs :0 Has Total Companies : 286
+Redovisning & Bokföring , Country : örebro , Employs :0 Has Total Companies : 297
+Redovisning & Bokföring , Country : södermanland , Employs :0 Has Total Companies : 346
+Redovisning & Bokföring , Country : dalarna , Employs :0 Has Total Companies : 348
+Redovisning & Bokföring , Country : jönköping , Employs :0 Has Total Companies : 364
+Redovisning & Bokföring , Country : östergötland , Employs :0 Has Total Companies : 407
+Redovisning & Bokföring , Country : uppsala , Employs :0 Has Total Companies : 503
+Redovisning & Bokföring , Country : halland , Employs :0 Has Total Companies : 509
+Redovisning & Bokföring , Country : skåne , Employs :0 Has Total Companies : 1712
+Redovisning & Bokföring , Country : västra götaland , Employs :0 Has Total Companies : 2044
+Redovisning & Bokföring , Country : stockholm , Employs :0 Has Total Companies : 4493
+Redovisning & Bokföring , Country : blekinge , Employs :1 - 4 Has Total Companies : 84
+Redovisning & Bokföring , Country : kronoberg , Employs :1 - 4 Has Total Companies : 117
+Redovisning & Bokföring , Country : kalmar , Employs :1 - 4 Has Total Companies : 135
+Redovisning & Bokföring , Country : jämtland , Employs :1 - 4 Has Total Companies : 117
+Redovisning & Bokföring , Country : västernorrland , Employs :1 - 4 Has Total Companies : 137
+Redovisning & Bokföring , Country : västerbotten , Employs :1 - 4 Has Total Companies : 140
+Redovisning & Bokföring , Country : värmland , Employs :1 - 4 Has Total Companies : 170
+Redovisning & Bokföring , Country : örebro , Employs :1 - 4 Has Total Companies : 198
+Redovisning & Bokföring , Country : västmanland , Employs :1 - 4 Has Total Companies : 207
+Redovisning & Bokföring , Country : jönköping , Employs :1 - 4 Has Total Companies : 226
+Redovisning & Bokföring , Country : östergötland , Employs :1 - 4 Has Total Companies : 266
+Redovisning & Bokföring , Country : halland , Employs :1 - 4 Has Total Companies : 349
+Redovisning & Bokföring , Country : skåne , Employs :1 - 4 Has Total Companies : 1117
+Redovisning & Bokföring , Country : uppsala , Employs :1 - 4 Has Total Companies : 330
+Redovisning & Bokföring , Country : västra götaland , Employs :1 - 4 Has Total Companies : 1422
+Redovisning & Bokföring , Country : stockholm , Employs :1 - 4 Has Total Companies : 3598
+Redovisning & Bokföring , Country : södermanland , Employs :1 - 4 Has Total Companies : 228
+Konsultverksamhet Avseende Företags Org. , Country : blekinge , Employs :1 - 4 Has Total Companies : 197
+Konsultverksamhet Avseende Företags Org. , Country : jämtland , Employs :1 - 4 Has Total Companies : 242
+Konsultverksamhet Avseende Företags Org. , Country : kronoberg , Employs :1 - 4 Has Total Companies : 288
+Konsultverksamhet Avseende Företags Org. , Country : västernorrland , Employs :1 - 4 Has Total Companies : 330
+Konsultverksamhet Avseende Företags Org. , Country : norrbotten , Employs :1 - 4 Has Total Companies : 334
+Konsultverksamhet Avseende Företags Org. , Country : kalmar , Employs :1 - 4 Has Total Companies : 316
+Konsultverksamhet Avseende Företags Org. , Country : västerbotten , Employs :1 - 4 Has Total Companies : 375
+Konsultverksamhet Avseende Företags Org. , Country : gävleborg , Employs :1 - 4 Has Total Companies : 381
+Konsultverksamhet Avseende Företags Org. , Country : värmland , Employs :1 - 4 Has Total Companies : 414
+Konsultverksamhet Avseende Företags Org. , Country : örebro , Employs :1 - 4 Has Total Companies : 438
+Konsultverksamhet Avseende Företags Org. , Country : södermanland , Employs :1 - 4 Has Total Companies : 513
+Konsultverksamhet Avseende Företags Org. , Country : västmanland , Employs :1 - 4 Has Total Companies : 515
+Konsultverksamhet Avseende Företags Org. , Country : jönköping , Employs :1 - 4 Has Total Companies : 590
+Konsultverksamhet Avseende Företags Org. , Country : uppsala , Employs :1 - 4 Has Total Companies : 860
+Konsultverksamhet Avseende Företags Org. , Country : halland , Employs :1 - 4 Has Total Companies : 928
+Konsultverksamhet Avseende Företags Org. , Country : skåne , Employs :1 - 4 Has Total Companies : 3402
+Konsultverksamhet Avseende Företags Org. , Country : västra götaland , Employs :1 - 4 Has Total Companies : 3919
+Konsultverksamhet Avseende Företags Org. , Country : östergötland , Employs :1 - 4 Has Total Companies : 881
+Konsultverksamhet Avseende Företags Org. , Country : dalarna , Employs :1 - 4 Has Total Companies : 441
+Patentbyråer Has Total Companies : 336
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (250000-5000000) Has Total Companies : 3
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (50000-250000) Has Total Companies : 18
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (50-500) Has Total Companies : 2616
+Konsultverksamhet Avseende Företags Org. , Country : gotland , Employs :0 Has Total Companies : 196
+Konsultverksamhet Avseende Företags Org. , Country : blekinge , Employs :0 Has Total Companies : 358
+Konsultverksamhet Avseende Företags Org. , Country : jämtland , Employs :0 Has Total Companies : 430
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (25250-50000) Has Total Companies : 31
+Konsultverksamhet Avseende Företags Org. , Country : kronoberg , Employs :0 Has Total Companies : 469
+Konsultverksamhet Avseende Företags Org. , Country : kalmar , Employs :0 Has Total Companies : 555
+Konsultverksamhet Avseende Företags Org. , Country : västernorrland , Employs :0 Has Total Companies : 608
+Konsultverksamhet Avseende Företags Org. , Country : gävleborg , Employs :0 Has Total Companies : 613
+Konsultverksamhet Avseende Företags Org. , Country : västmanland , Employs :0 Has Total Companies : 677
+Konsultverksamhet Avseende Företags Org. , Country : värmland , Employs :0 Has Total Companies : 688
+Konsultverksamhet Avseende Företags Org. , Country : örebro , Employs :0 Has Total Companies : 716
+Konsultverksamhet Avseende Företags Org. , Country : dalarna , Employs :0 Has Total Companies : 731
+Konsultverksamhet Avseende Företags Org. , Country : västerbotten , Employs :0 Has Total Companies : 740
+Konsultverksamhet Avseende Företags Org. , Country : södermanland , Employs :0 Has Total Companies : 815
+Konsultverksamhet Avseende Företags Org. , Country : jönköping , Employs :0 Has Total Companies : 911
+Konsultverksamhet Avseende Företags Org. , Country : östergötland , Employs :0 Has Total Companies : 1111
+Konsultverksamhet Avseende Företags Org. , Country : halland , Employs :0 Has Total Companies : 1219
+Konsultverksamhet Avseende Företags Org. , Country : skåne , Employs :0 Has Total Companies : 5471
+Konsultverksamhet Avseende Företags Org. , Country : uppsala , Employs :0 Has Total Companies : 1448
+Konsultverksamhet Avseende Företags Org. , Country : västra götaland , Employs :0 Has Total Companies : 6230
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (0-3) Has Total Companies : 1470
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :1 - 4, Ranges: (3-50) Has Total Companies : 581
+Redovisning & Bokföring , Country : dalarna , Employs :1 - 4 Has Total Companies : 192
+Konsultverksamhet Avseende Företags Org. , Country : norrbotten , Employs :0 Has Total Companies : 648
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (250000-5000000) Has Total Companies : 7
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (50000-250000) Has Total Companies : 33
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (500-50000) Has Total Companies : 2503
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (50-500) Has Total Companies : 4639
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (3-50) Has Total Companies : 2465
+Redovisning & Bokföring , Country : gävleborg , Employs :1 - 4 Has Total Companies : 158
+Redovisning & Bokföring , Country : norrbotten , Employs :1 - 4 Has Total Companies : 153
+Konsultverksamhet Avseende Företags Org. , Country : gotland , Employs :1 - 4 Has Total Companies : 118
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (1-3) Has Total Companies : 65
+Konsultverksamhet Avseende Företags Org. , Country : stockholm , Employs :0, Ranges: (0-1) Has Total Companies : 2001
+
+
+From Total Companies 92357 , Companies are scraped:0
+allabolag_scraper Total Duplicate Company found : 0
+
+
+Spider "allabolag_scraper" was started at "02-07-2024 171819"
+Spider "allabolag_scraper" closed at "2024-07-02 172339"

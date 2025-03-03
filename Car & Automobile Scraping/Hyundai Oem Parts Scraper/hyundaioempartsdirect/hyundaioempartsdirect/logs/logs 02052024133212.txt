@@ -1,0 +1,57 @@
+Spider "new_hyundai_oem" Started at "02052024133212"
+
+
+Category: Air Filters found total Product :74
+
+Category: Body found total Product :146
+
+Category: Bumpers found total Product :218
+
+Category: Brakes found total Product :292
+
+Category: Engine Parts found total Product :367
+
+Category: Ignition found total Product :442
+
+Category: Induction Components found total Product :517
+
+Category: Lighting found total Product :592
+
+Category: Mirror Parts found total Product :666
+
+Category: Oil Filters found total Product :738
+
+Category: Radiator & Cooling found total Product :813
+
+Category: Shocks & Struts found total Product :888
+
+Category: Wheels & Rims found total Product :962
+
+Category: Wiper Blades found total Product :1034
+
+Category: Car Covers found total Product :1036
+
+Category: Cargo Organizers found total Product :1103
+
+Category: Cargo Trays found total Product :1169
+
+Category: Exterior Accessories found total Product :1237
+
+Category: Floor Mats found total Product :1300
+
+Category: Interior Accessories found total Product :1371
+
+Category: Mud Guards found total Product :1442
+
+Category: Roof Racks found total Product :1515
+
+Category: Wheel Accessories found total Product :1590
+
+Spider "new_hyundai_oem" was started at "02052024133212"
+Spider "new_hyundai_oem" closed at "2024-05-02 133341"
+
+
+Spider Error:: 
+
+
+

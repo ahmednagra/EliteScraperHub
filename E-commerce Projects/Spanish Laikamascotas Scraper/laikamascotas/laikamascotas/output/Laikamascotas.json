@@ -1,0 +1,1083 @@
+{
+    "data": {
+        "header": {
+            "user_id": null,
+            "percent_membership": 15,
+            "free_delivery_start": null,
+            "slug_error": {
+                "error": false,
+                "city": {
+                    "id": 1105,
+                    "name": "Santiago de Chile",
+                    "text_cvv": "Hola por seguridad y para que tu pedido salga bien necesitamos validar tu c\u00f3digo CVV, este c\u00f3digo no ser\u00e1 almacenado en ning\u00fan lado",
+                    "phone": "966008300",
+                    "whatsapp": "0000",
+                    "short_name": "Santiago",
+                    "youtube": "https://www.youtube.com/channel/UCkrKbsmprlng__rjsYiSiRw/featured",
+                    "facebook": "https://www.facebook.com/laikamascotaschile/",
+                    "instagram": "https://www.instagram.com/laikamascotas_chile/?hl=",
+                    "slug": "santiago-chile",
+                    "logo_web": "https://laikapp.s3.amazonaws.com/dev_images_general/phpgW0ZAD",
+                    "avatar": "https://laikapp.s3.amazonaws.com/general/avatar_cl.png",
+                    "enabled_membership": 1,
+                    "enabled_vetcare": 1,
+                    "enabled_billing": false,
+                    "required_billing_purchase": false,
+                    "blog": "https://blog.laikamascotas.cl/",
+                    "email": "servicioalcliente@laikamascotas.cl",
+                    "address_format": 3,
+                    "nacional": 0,
+                    "enabled_municipality": false,
+                    "free_delivery_no_apply": "para que tu env\u00edo sea gratis!",
+                    "free_delivery_apply": "\u00a1Genial! tu env\u00edo es GRATIS",
+                    "before_free_delivery_no_apply": "\u00a1Faltan",
+                    "membership": {
+                        "id": 9,
+                        "name": "Membres\u00eda Chile",
+                        "benefits": "15% a 20% de descuento siempre en todos los productos\nEstas apadrinando a un peludo. Por cada compra donar\u00e1s un porcentaje",
+                        "value": 5000,
+                        "image": "https://laikapp.s3.amazonaws.com/dev_images_general/1606940412laikamemberimg.png",
+                        "acquired": false,
+                        "final_date": null,
+                        "start_date": null,
+                        "total_monthly_savings_member": null,
+                        "total_savings_member": 0,
+                        "value_monthly": 417,
+                        "kit": null,
+                        "membership_variables": [
+                            {
+                                "variable": {
+                                    "id": 1,
+                                    "name": "% a 20% de descuento siempre en todos los productos",
+                                    "__typename": "Variable"
+                                },
+                                "variable_id": 1,
+                                "value": "15",
+                                "is_primary": 1,
+                                "__typename": "MembershipVariable"
+                            },
+                            {
+                                "variable": {
+                                    "id": 30,
+                                    "name": "Estas apadrinando a un peludo. Por cada compra donar\u00e1s un porcentaje",
+                                    "__typename": "Variable"
+                                },
+                                "variable_id": 30,
+                                "value": "0",
+                                "is_primary": 1,
+                                "__typename": "MembershipVariable"
+                            }
+                        ],
+                        "__typename": "Membership"
+                    },
+                    "__typename": "City"
+                },
+                "__typename": "SlugError"
+            },
+            "popular_searches_brands": [],
+            "pet": {
+                "id": 1,
+                "slug": "dog",
+                "name": "Perro",
+                "__typename": "Pet"
+            },
+            "countries": {
+                "id": 3,
+                "name": "Chile",
+                "url_domain": "https://laikamascotas.cl/",
+                "logo_web": "https://laikapp.s3.amazonaws.com/dev_images_general/phpgW0ZAD",
+                "avatar": "https://laikapp.s3.amazonaws.com/general/avatar_cl.png",
+                "short_name": "CL",
+                "code_country": 56,
+                "currency": "CLP",
+                "cities": [
+                    {
+                        "name": "Otra Ciudad",
+                        "id": 1122,
+                        "phone": "+56966008300",
+                        "slug": "otra-chile",
+                        "nacional": 1,
+                        "enabled_municipality": false,
+                        "__typename": "City"
+                    },
+                    {
+                        "name": "Santiago de Chile",
+                        "id": 1105,
+                        "phone": "966008300",
+                        "slug": "santiago-chile",
+                        "nacional": 0,
+                        "enabled_municipality": false,
+                        "__typename": "City"
+                    },
+                    {
+                        "name": "Chicureo",
+                        "id": 1162,
+                        "phone": "96660083000",
+                        "slug": "chicureo",
+                        "nacional": 0,
+                        "enabled_municipality": false,
+                        "__typename": "City"
+                    }
+                ],
+                "__typename": "Country"
+            },
+            "categories_dog": [
+                {
+                    "id": 126,
+                    "name": "imPETdibles",
+                    "slug": "impetdibles",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/4fa0941b527c25f2b27732ad7d05c626_1695913060.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/024ea90c34679a6c9c6b66a11b76a66d_1695913060.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 356,
+                            "name": "Verano",
+                            "slug": "verano",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 630,
+                            "name": "Petchef",
+                            "slug": "petchef-perro",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 632,
+                            "name": "Alimento Peso Saludable",
+                            "slug": "alimento-light",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 633,
+                            "name": "Snacks Naturales",
+                            "slug": "snacks-naturales",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 33,
+                    "name": "Alimento",
+                    "slug": "alimento",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_alimento-min.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/images_categories/ICONS_COTEGORY_ALIMENTOS.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 228,
+                            "name": "Seco",
+                            "slug": "seco",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 229,
+                            "name": "H\u00famedo",
+                            "slug": "humedo",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 230,
+                            "name": "Natural",
+                            "slug": "natural",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 420,
+                            "name": "Veterinario",
+                            "slug": "veterinario",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 35,
+                    "name": "Snacks",
+                    "slug": "snacks",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_snacks-min.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281170Categoria_snack.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 392,
+                            "name": "Masticables",
+                            "slug": "masticables",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 393,
+                            "name": "Cuidado dental",
+                            "slug": "cuidado-dental",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 394,
+                            "name": "Galletas y pasteler\u00eda",
+                            "slug": "galletas-y-pasteleria",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 395,
+                            "name": "Huesos y naturales",
+                            "slug": "huesos-y-naturales",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 396,
+                            "name": "Cremosos y aderezos",
+                            "slug": "cremosos-y-aderezos",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 128,
+                    "name": "Happy Flash",
+                    "slug": "happy-flash",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/7d9d6543711848274c427e17e9eeab49_1696348226.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/d08e224c071bce0c8463791c59d2efc1_1696348226.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 568,
+                            "name": "Happy Flash",
+                            "slug": "happy-flash",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 44,
+                    "name": "Farmapet",
+                    "slug": "farmapet",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_farmacia.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281860Categoria_farmacia.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 256,
+                            "name": "Antiinflamatorios",
+                            "slug": "antiinflamatorios",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 259,
+                            "name": "Antiparasitarios",
+                            "slug": "antiparasitarios",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 261,
+                            "name": "Collares",
+                            "slug": "collares",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 262,
+                            "name": "Dermatol\u00f3gicos",
+                            "slug": "dermatologicos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 263,
+                            "name": "Digestivos",
+                            "slug": "digestivos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 264,
+                            "name": "Hep\u00e1ticos",
+                            "slug": "hepaticos2",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 267,
+                            "name": "Oft\u00e1lmicos",
+                            "slug": "oftalmicos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 268,
+                            "name": "\u00d3ticos",
+                            "slug": "oticos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 269,
+                            "name": "Suplementos y vitaminas",
+                            "slug": "suplementos-y-vitaminas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 272,
+                            "name": "Medicina homeop\u00e1tica",
+                            "slug": "medicina-homeopatica",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 363,
+                            "name": "Post operatorios",
+                            "slug": "post-operatorios",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 563,
+                            "name": "Cuidado Articular",
+                            "slug": "articular",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 565,
+                            "name": "Sustituto L\u00e1cteo",
+                            "slug": "sustituto-lacteo",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 37,
+                    "name": "Accesorios",
+                    "slug": "accesorios",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_accesorios.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281239Categoria_accesorio.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 279,
+                            "name": "Comederos y bebederos",
+                            "slug": "comederos-y-bebederos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 448,
+                            "name": "Correas",
+                            "slug": "correas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 449,
+                            "name": "Arneses y pecheras",
+                            "slug": "arneses-y-pecheras",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 450,
+                            "name": "Collares y bozales",
+                            "slug": "collares-y-bozales",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 452,
+                            "name": "Transportadoras y bolsos",
+                            "slug": "transportadoras-y-bolsos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 454,
+                            "name": "Casas y viajes",
+                            "slug": "casas-y-viajes",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 474,
+                            "name": "Ropa",
+                            "slug": "ropa",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 475,
+                            "name": "Camas y complementos",
+                            "slug": "camas-ycomplementos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 545,
+                            "name": "Disfraces",
+                            "slug": "disfraces",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 39,
+                    "name": "Juguetes",
+                    "slug": "juguetes",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_juguetes.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281387Categoria_juguetes.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 237,
+                            "name": "Interactivos",
+                            "slug": "interactivos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 238,
+                            "name": "Peluches",
+                            "slug": "peluches",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 365,
+                            "name": "Mordedores y cuerdas",
+                            "slug": "mordedores",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 366,
+                            "name": "Pelotas y lanzadores",
+                            "slug": "pelotas-y-lanzadores",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 41,
+                    "name": "Cuidado e Higiene",
+                    "slug": "cuidado-e-higiene",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_higiene.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281694Categoria_higiene_2.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 243,
+                            "name": "Cuidado oral",
+                            "slug": "cuidado-oral",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 424,
+                            "name": "Bolsas y residuos",
+                            "slug": "bolsas-y-residuos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 425,
+                            "name": "Cepillos y peines",
+                            "slug": "cepillos-y-peines",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 426,
+                            "name": "Sabanillas y toallitas",
+                            "slug": "sabanillas-y-toallitas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 427,
+                            "name": "Shampoos y jabones",
+                            "slug": "shampoo-y-jabones",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 428,
+                            "name": "Hogar y entrenamiento",
+                            "slug": "hogar-y-entrenamiento",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 429,
+                            "name": "Colonias y desodorantes",
+                            "slug": "colonias-y-desodorantes",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 430,
+                            "name": "Cuidado de patitas y piel",
+                            "slug": "cuidado-de-patitas-y-piel",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 124,
+                    "name": "Remates de Bodega",
+                    "slug": "remates-de-bodega",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/d28a65823172a4249010a54d7a0e4970_1695244167.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/34b0cff2af3764c1351e025820ca7e17_1695244167.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 559,
+                            "name": "Pr\u00f3ximos a Vencer",
+                            "slug": "proximos-a-vencer",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 130,
+                    "name": "Marcas Exclusivas",
+                    "slug": "marcas-exclusivas",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/f5bcda5608e4720358d2f5262b20c590_1696348279.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/d620ffe36ac71acd0eea33c240eae3cf_1696348279.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 564,
+                            "name": "Besties",
+                            "slug": "besties",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                }
+            ],
+            "categories_cat": [
+                {
+                    "id": 127,
+                    "name": "imPETdibles",
+                    "slug": "impetdibles",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/4fa0941b527c25f2b27732ad7d05c626_1695913060.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/024ea90c34679a6c9c6b66a11b76a66d_1695913060.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 356,
+                            "name": "Verano",
+                            "slug": "verano",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 631,
+                            "name": "Petchef",
+                            "slug": "petchef",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 632,
+                            "name": "Alimento Peso Saludable",
+                            "slug": "alimento-light",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 633,
+                            "name": "Snacks Naturales",
+                            "slug": "snacks-naturales",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 34,
+                    "name": "Alimento",
+                    "slug": "alimento",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_alimento-min.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/images_categories/ICONS_COTEGORY_ALIMENTOS.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 228,
+                            "name": "Seco",
+                            "slug": "seco",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 229,
+                            "name": "H\u00famedo",
+                            "slug": "humedo",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 230,
+                            "name": "Natural",
+                            "slug": "natural",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 420,
+                            "name": "Veterinario",
+                            "slug": "veterinario",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 43,
+                    "name": "Arenas",
+                    "slug": "arenas",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_arenas.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281771Categoria_arena.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 250,
+                            "name": "Arenas",
+                            "slug": "arenas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 251,
+                            "name": "Areneros y palas",
+                            "slug": "areneros-y-palas",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 36,
+                    "name": "Snacks",
+                    "slug": "snacks",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_snacks-min.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281170Categoria_snack.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 392,
+                            "name": "Masticables",
+                            "slug": "masticables",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 393,
+                            "name": "Cuidado dental",
+                            "slug": "cuidado-dental",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 399,
+                            "name": "Galletas y rellenos",
+                            "slug": "galletas-y-rellenos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 400,
+                            "name": "Cremosos y aderezos",
+                            "slug": "cremosos-y-aderezos",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 129,
+                    "name": "Happy Flash",
+                    "slug": "happy-flash",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/7d9d6543711848274c427e17e9eeab49_1696348226.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/d08e224c071bce0c8463791c59d2efc1_1696348226.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 568,
+                            "name": "Happy Flash",
+                            "slug": "happy-flash",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 45,
+                    "name": "Farmapet",
+                    "slug": "farmapet",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_farmacia.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281860Categoria_farmacia.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 259,
+                            "name": "Antiparasitarios",
+                            "slug": "antiparasitarios",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 262,
+                            "name": "Dermatol\u00f3gicos",
+                            "slug": "dermatologicos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 263,
+                            "name": "Digestivos",
+                            "slug": "digestivos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 264,
+                            "name": "Hep\u00e1ticos",
+                            "slug": "hepaticos2",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 267,
+                            "name": "Oft\u00e1lmicos",
+                            "slug": "oftalmicos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 268,
+                            "name": "\u00d3ticos",
+                            "slug": "oticos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 269,
+                            "name": "Suplementos y vitaminas",
+                            "slug": "suplementos-y-vitaminas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 272,
+                            "name": "Medicina homeop\u00e1tica",
+                            "slug": "medicina-homeopatica",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 363,
+                            "name": "Post operatorios",
+                            "slug": "post-operatorios",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 563,
+                            "name": "Cuidado Articular",
+                            "slug": "articular",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 565,
+                            "name": "Sustituto L\u00e1cteo",
+                            "slug": "sustituto-lacteo",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 38,
+                    "name": "Accesorios",
+                    "slug": "accesorios",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_accesorios.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281239Categoria_accesorio.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 455,
+                            "name": "Collares",
+                            "slug": "collares",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 456,
+                            "name": "Correas y arneses",
+                            "slug": "correas-y-arneses",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 457,
+                            "name": "Comederos y bebederos",
+                            "slug": "comederos-y-bebederos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 458,
+                            "name": "Camas y casas",
+                            "slug": "camas-y-casas",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 460,
+                            "name": "Transportadoras y bolsos",
+                            "slug": "transportadoras-y-bolsos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 474,
+                            "name": "Ropa",
+                            "slug": "ropa",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 545,
+                            "name": "Disfraces",
+                            "slug": "disfraces",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 40,
+                    "name": "Juguetes",
+                    "slug": "juguetes",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_juguetes.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281387Categoria_juguetes.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 237,
+                            "name": "Interactivos",
+                            "slug": "interactivos",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 239,
+                            "name": "Rascadores",
+                            "slug": "rascadores",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 368,
+                            "name": "Peluches y pelotas",
+                            "slug": "peluches-y-ratones",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 42,
+                    "name": "Cuidado e Higiene",
+                    "slug": "cuidado-e-higiene",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/images_categories/categoria_higiene.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/1614281694Categoria_higiene_2.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 243,
+                            "name": "Cuidado oral",
+                            "slug": "cuidado-oral",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 425,
+                            "name": "Cepillos y peines",
+                            "slug": "cepillos-y-peines",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 427,
+                            "name": "Shampoos y jabones",
+                            "slug": "shampoo-y-jabones",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 428,
+                            "name": "Hogar y entrenamiento",
+                            "slug": "hogar-y-entrenamiento",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 429,
+                            "name": "Colonias y desodorantes",
+                            "slug": "colonias-y-desodorantes",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 430,
+                            "name": "Cuidado de patitas y piel",
+                            "slug": "cuidado-de-patitas-y-piel",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 125,
+                    "name": "Remates de Bodega",
+                    "slug": "remates-de-bodega",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/d28a65823172a4249010a54d7a0e4970_1695244167.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/34b0cff2af3764c1351e025820ca7e17_1695244167.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 559,
+                            "name": "Pr\u00f3ximos a Vencer",
+                            "slug": "proximos-a-vencer",
+                            "__typename": "TypeProduct"
+                        },
+                        {
+                            "id": 634,
+                            "name": "Productos con Detalle",
+                            "slug": "productos-con-detalle",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                },
+                {
+                    "id": 131,
+                    "name": "Marcas Exclusivas",
+                    "slug": "marcas-exclusivas",
+                    "img_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/f5bcda5608e4720358d2f5262b20c590_1696348279.png",
+                    "icon": "https://laikapp.s3.amazonaws.com/dev_images_categories/d620ffe36ac71acd0eea33c240eae3cf_1696348279.png",
+                    "show": true,
+                    "type_products": [
+                        {
+                            "id": 564,
+                            "name": "Besties",
+                            "slug": "besties",
+                            "__typename": "TypeProduct"
+                        }
+                    ],
+                    "__typename": "Category"
+                }
+            ],
+            "active_membership": null,
+            "free_sample": null,
+            "brands_dog": [
+                {
+                    "id": 884,
+                    "name": "TOPK9",
+                    "slug": "topk9",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1631546943Untitled-1.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1631546943Untitled-1.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 1023,
+                    "name": "ROYAL CANIN",
+                    "slug": "royal-canin",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1648041747LOGO.jpg",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1648041747LOGO.jpg",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 741,
+                    "name": "TASTE OF THE WILD",
+                    "slug": "taste-of-the-wild",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834357laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834357laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 716,
+                    "name": "OVEN BAKED TRADITION",
+                    "slug": "oven-baked-tradition",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617212185laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617212185laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 722,
+                    "name": "DOG CHOW",
+                    "slug": "dog-chow",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617727880laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617727880laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 877,
+                    "name": "CHAMPION DOG",
+                    "slug": "champion-dog",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1629231862champion%20dog.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1629231862champion%20dog.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 713,
+                    "name": "MASTER DOG",
+                    "slug": "master-dog",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617211870laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617211870laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 898,
+                    "name": "PURINA ONE",
+                    "slug": "purina-one",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1634569581PURINA%20ONE.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1634569581PURINA%20ONE.png",
+                    "show": true,
+                    "__typename": "Brand"
+                }
+            ],
+            "brands_cat": [
+                {
+                    "id": 884,
+                    "name": "TOPK9",
+                    "slug": "topk9",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1631546943Untitled-1.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1631546943Untitled-1.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 712,
+                    "name": "MASTER CAT",
+                    "slug": "master-cat",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617211768laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617211766laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 1023,
+                    "name": "ROYAL CANIN",
+                    "slug": "royal-canin",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1648041747LOGO.jpg",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1648041747LOGO.jpg",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 741,
+                    "name": "TASTE OF THE WILD",
+                    "slug": "taste-of-the-wild",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834357laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834357laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 716,
+                    "name": "OVEN BAKED TRADITION",
+                    "slug": "oven-baked-tradition",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617212185laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617212185laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 878,
+                    "name": "CHAMPION CAT",
+                    "slug": "champion-cat",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1629231915champion%20cat.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1629231915champion%20cat.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 898,
+                    "name": "PURINA ONE",
+                    "slug": "purina-one",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1634569581PURINA%20ONE.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1634569581PURINA%20ONE.png",
+                    "show": true,
+                    "__typename": "Brand"
+                },
+                {
+                    "id": 738,
+                    "name": "BRAVECTO",
+                    "slug": "bravecto",
+                    "image_app": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834161laika.png",
+                    "image_web": "https://laikamascotas.cl/cdn-cgi/image/onerror=redirect,format=auto,fit=scale-down,width=500,quality=80/https://laikapp.s3.amazonaws.com/dev_images_categories/1617834161laika.png",
+                    "show": true,
+                    "__typename": "Brand"
+                }
+            ],
+            "services": [],
+            "__typename": "Header"
+        }
+    }
+}

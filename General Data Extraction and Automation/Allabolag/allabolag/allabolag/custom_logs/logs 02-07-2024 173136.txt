@@ -1,0 +1,142 @@
+Script Started at "02-07-2024 17:31:37"
+
+Drivning Has Total Companies : 4385
+Djuruppfödning, Övrig Has Total Companies : 1162
+Fjäderfä, Uppfödning Has Total Companies : 203
+Äggproduktion Has Total Companies : 424
+Växter, Bearbetning Has Total Companies : 45
+Virkesmätning Has Total Companies : 8
+Tobaksodling Has Total Companies : 1
+Blandat Jordbruk , Country : gotland , Employs :0 Has Total Companies : 794
+Blandat Jordbruk , Country : blekinge , Employs :0 Has Total Companies : 910
+Blandat Jordbruk , Country : västmanland , Employs :0 Has Total Companies : 978
+Blandat Jordbruk , Country : jämtland , Employs :0 Has Total Companies : 1147
+Blandat Jordbruk , Country : södermanland , Employs :0 Has Total Companies : 1153
+Växtodling , Country : gotland , Employs :0 Has Total Companies : 147
+Växtodling , Country : blekinge , Employs :0 Has Total Companies : 171
+Växtodling , Country : västmanland , Employs :0 Has Total Companies : 242
+Växtodling , Country : södermanland , Employs :0 Has Total Companies : 271
+Växtodling , Country : kronoberg , Employs :0 Has Total Companies : 286
+Växtodling , Country : jämtland , Employs :0 Has Total Companies : 309
+Växtodling , Country : norrbotten , Employs :0 Has Total Companies : 314
+Växtodling , Country : kalmar , Employs :0 Has Total Companies : 336
+Växtodling , Country : dalarna , Employs :0 Has Total Companies : 350
+Växtodling , Country : örebro , Employs :0 Has Total Companies : 356
+Växtodling , Country : stockholm , Employs :0 Has Total Companies : 364
+Växtodling , Country : uppsala , Employs :0 Has Total Companies : 382
+Växtodling , Country : östergötland , Employs :0 Has Total Companies : 406
+Växtodling , Country : halland , Employs :0 Has Total Companies : 421
+Växtodling , Country : gävleborg , Employs :0 Has Total Companies : 392
+Växtodling , Country : västernorrland , Employs :0 Has Total Companies : 463
+Växtodling , Country : jönköping , Employs :0 Has Total Companies : 465
+Växtodling , Country : västerbotten , Employs :0 Has Total Companies : 591
+Växtodling , Country : värmland , Employs :0 Has Total Companies : 735
+Växtodling , Country : skåne , Employs :0 Has Total Companies : 1202
+Växtodling , Country : västra götaland , Employs :0 Has Total Companies : 1866
+Blandat Jordbruk , Country : dalarna , Employs :0 Has Total Companies : 1159
+Blandat Jordbruk , Country : örebro , Employs :0 Has Total Companies : 1309
+Blandat Jordbruk , Country : norrbotten , Employs :0 Has Total Companies : 1357
+Blandat Jordbruk , Country : gävleborg , Employs :0 Has Total Companies : 1547
+Blandat Jordbruk , Country : kronoberg , Employs :0 Has Total Companies : 1425
+Blandat Jordbruk , Country : kalmar , Employs :0 Has Total Companies : 1622
+Blandat Jordbruk , Country : västerbotten , Employs :0 Has Total Companies : 1663
+Blandat Jordbruk , Country : uppsala , Employs :0 Has Total Companies : 1767
+Blandat Jordbruk , Country : jönköping , Employs :0 Has Total Companies : 2027
+Blandat Jordbruk , Country : halland , Employs :0 Has Total Companies : 2042
+Blandat Jordbruk , Country : östergötland , Employs :0 Has Total Companies : 2098
+Blandat Jordbruk , Country : västernorrland , Employs :0 Has Total Companies : 2112
+Blandat Jordbruk , Country : värmland , Employs :0 Has Total Companies : 2173
+Blandat Jordbruk , Country : stockholm , Employs :0 Has Total Companies : 2201
+Blandat Jordbruk , Country : skåne , Employs :0 Has Total Companies : 5195
+Sötvattensfiske Has Total Companies : 212
+Sällskapsdjur, Uppfödning Has Total Companies : 883
+Svampodling Has Total Companies : 72
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (250000-5000000) Has Total Companies : 0
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (50000-250000) Has Total Companies : 0
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (500-50000) Has Total Companies : 1250
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (50-500) Has Total Companies : 2287
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (3-50) Has Total Companies : 2674
+Blandat Jordbruk , Country : västra götaland , Employs :0, Ranges: (0-3) Has Total Companies : 2363
+Socketbetsodling Has Total Companies : 245
+Smågrisuppfödning Has Total Companies : 410
+Slaktsvinuppfödning Has Total Companies : 404
+Skogsskötsel Has Total Companies : 5368
+Skogsbruk Has Total Companies : 2579
+Service Till Växtodling Has Total Companies : 2999
+Service Till Skogsbruk Has Total Companies : 1586
+Service Till Husdjursskötsel Has Total Companies : 4970
+Saltvattensfiske Has Total Companies : 1019
+Renskötsel Has Total Companies : 1441
+Potatisodling Has Total Companies : 685
+Plantskoleväxter, Odling Has Total Companies : 397
+Skogsförvaltning , Country : gotland , Employs :0 Has Total Companies : 455
+Skogsförvaltning , Country : södermanland , Employs :0 Has Total Companies : 1208
+Skogsförvaltning , Country : västmanland , Employs :0 Has Total Companies : 1445
+Skogsförvaltning , Country : blekinge , Employs :0 Has Total Companies : 1938
+Skogsförvaltning , Country : uppsala , Employs :0 Has Total Companies : 2414
+Skogsförvaltning , Country : örebro , Employs :0 Has Total Companies : 2747
+Skogsförvaltning , Country : östergötland , Employs :0 Has Total Companies : 3106
+Skogsförvaltning , Country : halland , Employs :0 Has Total Companies : 3287
+Skogsförvaltning , Country : skåne , Employs :0 Has Total Companies : 4740
+Skogsförvaltning , Country : kalmar , Employs :0 Has Total Companies : 4869
+Skogsförvaltning , Country : gävleborg , Employs :0 Has Total Companies : 5948
+Skogsförvaltning , Country : jämtland , Employs :0 Has Total Companies : 6316
+Skogsförvaltning , Country : kronoberg , Employs :0 Has Total Companies : 6338
+Skogsförvaltning , Country : västernorrland , Employs :0 Has Total Companies : 6873
+Skogsförvaltning , Country : jönköping , Employs :0 Has Total Companies : 7962
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (250000-5000000) Has Total Companies : 1
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (250000-5000000) Has Total Companies : 0
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (250000-5000000) Has Total Companies : 1
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (250000-5000000) Has Total Companies : 2
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (250000-5000000) Has Total Companies : 2
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (50000-250000) Has Total Companies : 0
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (500-50000) Has Total Companies : 862
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (50-500) Has Total Companies : 3401
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (3-50) Has Total Companies : 3854
+Skogsförvaltning , Country : västra götaland , Employs :0, Ranges: (0-3) Has Total Companies : 4915
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (50000-250000) Has Total Companies : 1
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (500-50000) Has Total Companies : 322
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (50-500) Has Total Companies : 2012
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (3-50) Has Total Companies : 2157
+Skogsförvaltning , Country : dalarna , Employs :0, Ranges: (0-3) Has Total Companies : 7094
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (50000-250000) Has Total Companies : 0
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (500-50000) Has Total Companies : 410
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (50-500) Has Total Companies : 2054
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (3-50) Has Total Companies : 1869
+Skogsförvaltning , Country : värmland , Employs :0, Ranges: (0-3) Has Total Companies : 5189
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (50000-250000) Has Total Companies : 0
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (500-50000) Has Total Companies : 218
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (50-500) Has Total Companies : 1438
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (3-50) Has Total Companies : 1980
+Skogsförvaltning , Country : norrbotten , Employs :0, Ranges: (0-3) Has Total Companies : 5497
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (50000-250000) Has Total Companies : 2
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (500-50000) Has Total Companies : 418
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (50-500) Has Total Companies : 1753
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (3-50) Has Total Companies : 2097
+Skogsförvaltning , Country : stockholm , Employs :0, Ranges: (0-3) Has Total Companies : 4476
+Nötkreatur & Bufflar, Övriga Has Total Companies : 7189
+Mjölkproduktion & Nötkreatursuppfödning Has Total Companies : 5333
+Kamel- & Kameldjursuppfödning Has Total Companies : 33
+Jakt Has Total Companies : 1580
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (50000-250000) Has Total Companies : 0
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (250000-5000000) Has Total Companies : 0
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (500-50000) Has Total Companies : 355
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (50-500) Has Total Companies : 2525
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (3-50) Has Total Companies : 2996
+Skogsförvaltning , Country : västerbotten , Employs :0, Ranges: (0-3) Has Total Companies : 7216
+Hästuppfödning Has Total Companies : 2159
+Grönsaker, Växthusodling Has Total Companies : 412
+Grönsaker, Frilandsodling Has Total Companies : 938
+Får- & Getuppfödning Has Total Companies : 2663
+Fruktodling Has Total Companies : 266
+Frukt, Bär & Nötter, Odling Has Total Companies : 327
+Fiskodling Has Total Companies : 220
+Fiberväxtodling Has Total Companies : 10
+
+
+From Total Companies 240595 , Companies are scraped:0
+allabolag_scraper Total Duplicate Company found : 0
+
+
+Spider "allabolag_scraper" was started at "02-07-2024 173136"
+Spider "allabolag_scraper" closed at "2024-07-02 173633"

@@ -1,0 +1,30 @@
+script that will scrape all the perfumes data from https://www.fragrantica.com/
+
+
+Fields to scrape in Excel/CSV:
+- Perfume URL
+- Perfume Title
+- Brand Name
+- Rating
+- Votes Count
+- Main Accords
+- Short Description
+- Long Description
+- Pros
+- Cons
+- Top Notes
+- Middle Notes
+- Base Notes
+- Perfumers
+- Images
+
+
+
+Sample Product URL:
+https://www.fragrantica.com/perfume/Amouage/Dia-Woman-1109.html
+
+
+Video Explanation: https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-secured-attachments/messaging_message/attachment/19a37e044bb8d6e3cdb74ea3f5505486-1694015860486/Coolcam0906-1855?__cld_token__=exp=1694087192~hmac=c6ca095c1c574053183ab920276b0e8d495963d9635f28ce9972d65e74ee641e
+
+
+Once the script build for this website above, also test it to see if it works with https://www.fragranticarabia.com/

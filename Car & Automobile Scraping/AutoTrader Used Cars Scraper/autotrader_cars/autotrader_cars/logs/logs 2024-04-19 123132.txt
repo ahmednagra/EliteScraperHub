@@ -1,0 +1,60 @@
+Spider "autotrader2" Started at "2024-04-19 123132"
+
+Unwanted Makes to Skip: mercedes-benz,  honda,  amc
+Unwanted Models to Skip: model1, model2
+Unwanted Years to Skip: 2000,  2010, 2015, 2016, 2017, 2018, 2019, 2020,  2008
+
+
+Make "mercedes-benz" Skipped as it was added inside the unwanted.txt file
+Total "0" Cars scraped for spider "autotrader2"
+Total "0" Duplicate Cars Skipped for spider "autotrader2"
+Spider "autotrader2" was started at "2024-04-19 123132"
+Spider "autotrader2" closed at "2024-04-19 123136"
+
+
+Spider "autotrader" Started at "2024-04-19 123132"
+
+Unwanted Makes to Skip: mercedes-benz,  honda,  amc
+Unwanted Models to Skip: model1, model2
+Unwanted Years to Skip: 2000,  2010, 2015, 2016, 2017, 2018, 2019, 2020,  2008
+
+
+Make "mercedes-benz" Skipped as it was added inside the unwanted.txt file
+Searching make "GMC" for Cars to scrape
+Make "GMC" have total "60188" Used cars on web
+Year "2016" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2017" Skipped as it was added inside the unwanted.txt file
+Year "2019" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2018" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+
+
+Searching make "GENESIS" for Cars to scrape
+Make "GENESIS" have total "3829" Used cars on web
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+Year "2020" Skipped as it was added inside the unwanted.txt file
+
+
+Searching make "GEO" for Cars to scrape
+Make "GEO" have total "12" Used cars on web
+
+
+Total "3992" Cars scraped for spider "autotrader"
+Total "0" Duplicate Cars Skipped for spider "autotrader"
+Spider "autotrader" was started at "2024-04-19 123132"
+Spider "autotrader" closed at "2024-04-19 123221"
+
+

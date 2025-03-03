@@ -1,0 +1,3 @@
+https://quotes.toscrape.com/tag/deep-thoughts/page/1/
+https://quotes.toscrape.com/tag/simile/page/1/ 
+https://quotes.toscrape.com/tag/edison/page/1/

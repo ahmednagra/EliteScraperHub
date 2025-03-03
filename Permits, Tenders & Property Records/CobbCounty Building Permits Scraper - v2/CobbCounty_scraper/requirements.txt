@@ -1,0 +1,6 @@
+itemadapter==0.8.0
+msedge_selenium_tools==3.141.4
+Requests==2.32.2
+Scrapy==2.10.1
+selenium==4.21.0
+user_agent==0.1.10

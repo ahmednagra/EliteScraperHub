@@ -1,0 +1,34 @@
+Each parsed section is stored to a PDF file and a paired PDF.metadata.json file.
+The PDF file should be named as ‘sXXcXXpXX_legislation.PDF', e.g. s38c1p1_tca1997 which represents section 38 chapter 1 part 1 for TCA1997;
+ or 'schedXX_legislation.PDF’ for the schedules in legislation e.g. sched1_tca1997.
+
+Note that there may be parts/sections under the individual schedule, but ignore them and save everything in the same
+ schedule into one single file.
+
+The matched PDF.metadata.json should have the same name as PDF file, i.e. 'sXXcXXpXX_legislation.PDF.metadata.json'.
+The elements in the json file should look like below:
+{ "legislation": string, //e.g. "TCA 1997",
+ "part index": string, //e.g. "Part 3",
+ "part title": string, //e.g. "Provisions Relating to the Schedule C Charge and Government and Other Public Securities",
+ "chapter index": string, //e.g. "Chapter 1",
+ "chapter title": string, //e.g. "Principal provisions relating to the Schedule C charge",
+ "section index": string // e.g. "Section 38",
+ "schedule index": string //e.g. "Schedule 1". When it’s the schedule, you should leave all 'part index', 'part title', 'chapter index', 'chapter title', 'section index' as empty.
+ "section title": string // e.g. "Supplementary Provisions Concerning the Extension of Charge to Tax to Profits and Income Derived From Activities Carried on and Employments Exercised on the Continental Shelf",
+ "summary": string // leave this as empty. }
+
+
+
+A clarification file: https://www.loom.com/share/493596f1664645b4aecf3dc6954bfd6b?sid=39df38c4-c3a6-478c-9b82-3748ad9a5f58
+
+
+
+After you finish TCA 1997; then do the same for the following four other legislations in the same way.
+VAT 2010: https://www.irishstatutebook.ie/eli/2010/act/31/enacted/en/html
+Stamp duty 1999: https://www.irishstatutebook.ie/eli/1999/act/31/enacted/en/html
+CAT 2003: https://www.irishstatutebook.ie/eli/2003/act/1/enacted/en/html
+Company Act 2014: https://www.irishstatutebook.ie/eli/2014/act/38/enacted/en/html
+
+
+
+Thanks.

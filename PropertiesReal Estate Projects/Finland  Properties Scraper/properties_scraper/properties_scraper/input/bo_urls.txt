@@ -1,0 +1,4 @@
+https://bo.fi/asunnot/?uusi-alue%5B%5D=Ullanlinna&uusi-alue%5B%5D=Eira&uusi-alue%5B%5D=Kaivopuisto&uusi-alue%5B%5D=Kaartinkaupunki&hinta-min=&hinta-max=&pinta-ala-min=&pinta-ala-max=&ala=asuin&rakennusvuosi-min=&rakennusvuosi-max=&uudis=kaikki&jarjesta=id
+https://bo.fi/asunnot/?uusi-alue%5B0%5D=Ullanlinna&uusi-alue%5B1%5D=Eira&uusi-alue%5B2%5D=Kaivopuisto&uusi-alue%5B3%5D=Kaartinkaupunki&hinta-min=&hinta-max=&pinta-ala-min=&pinta-ala-max=&ala=asuin&rakennusvuosi-min=&rakennusvuosi-max=&uudis=kaikki&jarjesta=id&sivu=2
+https://bo.fi/asunnot/?uusi-alue%5B%5D=Punavuori&uusi-alue%5B%5D=Kamppi&hinta-min=&hinta-max=&pinta-ala-min=&pinta-ala-max=&ala=asuin&rakennusvuosi-min=&rakennusvuosi-max=&uudis=kaikki&jarjesta=id
+https://bo.fi/asunnot/?uusi-alue%5B0%5D=Punavuori&uusi-alue%5B1%5D=Kamppi&hinta-min=&hinta-max=&pinta-ala-min=&pinta-ala-max=&ala=asuin&rakennusvuosi-min=&rakennusvuosi-max=&uudis=kaikki&jarjesta=id&sivu=2

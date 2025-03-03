@@ -1,0 +1,5 @@
+Create a python program (or any other program) to automatically set background image for the video. 
+
+The sample video and image attached. 
+
+We need something similar to this video when it done https://app.clipio.com/share/1IRvGYWE/uiLCafrc

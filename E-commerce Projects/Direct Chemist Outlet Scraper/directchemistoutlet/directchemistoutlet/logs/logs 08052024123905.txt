@@ -1,0 +1,16 @@
+Spider "chemist" Started at "08052024123905"
+
+
+Spider "chemist" was started at "08052024123905"
+Spider "chemist" closed at "2024-05-08 123908"
+
+
+Spider "chemist" Found Total Products "0"
+Spider "chemist" Scraped Total Products "0"
+Spider "chemist" Duplicates Products "0"
+
+
+Spider Error:: 
+
+
+

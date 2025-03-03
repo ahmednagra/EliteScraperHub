@@ -1,0 +1,27 @@
+Scrape all products from https://www.ahscompany.com/ by going through Brand wise.
+
+It's supposed to start from the manufacturer's page. Then iterates through each brand as in hierarchy and then to the brands category and then to the Brand's collection and then to the brands collection options and into the collection options product list until the specific product. At the specific product we will scrape that page
+
+Once and it has scraped all the products from the brand it will then move on to the next brand
+
+I believe there's three different variations (types) of how the products flow from brands to product detail pages please be mindful of that and also that some of the product detail pages have variant product within them
+
+The fields to scrape into JSON are:
+product_id
+title
+price (The field with text: Your Price)
+retail_price
+brand
+stock_status
+part_number
+images
+description
+category
+sub_category
+size
+type
+material
+url
+
+
+The SRS document attached for referrence

@@ -1,0 +1,18 @@
+Spider "files_download" Started at "100520241657"
+
+
+Spider "files_download" was started at "100520241657"
+Spider "files_download" closed at "2024-05-10 174230"
+
+
+Spider "files_download" Found Total Products "18790"
+Spider "files_download" Scraped Total Products "500"
+Spider "files_download" Duplicates Products "0"
+Spider "files_download" Previously Scraped Duplicates Products "0"
+Records Inserted In Output file "Fair Work Commission" Successfully: 500 
+
+
+Spider Error:: 
+
+
+

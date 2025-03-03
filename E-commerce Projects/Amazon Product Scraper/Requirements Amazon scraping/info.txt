@@ -1,0 +1,19 @@
+Get a list of Amazon product URLs from file and scrape Title, Description and download all images. 
+There should be one separate folder for each product and the images will be downloaded in that folder for that specific product as well as the CSV file for title and description will also need to be created in that separate product folder
+
+
+With regard to Scraping the title of the listing, the "Product Details" and "About this item" sections, I have mocked up in the attachments how I would ideally like them to be scraped.
+
+The potential challenge appears to be in the "Product Description" section, where, in most cases, there are more images that are like infographics and informational, not just text.
+
+Can these images be scraped, too? Please look at the links below under Product Description."
+
+Lastly, the Videos. You mentioned being able to scrape the links to them, correct?
+
+Link 1 Men's Heated Vest
+https://www.amazon.com/dp/B0CKHHN2FJ?th=1
+
+Link 2 Robotic Vacuum
+https://www.amazon.com/dp/B0CGJC1CQ3?th=1
+
+Please see the attached mock-ups of the vest and notice my red boxes representing areas scraped. Also, look at the graphic images in the Product Description and let me know if they can be scraped as well.

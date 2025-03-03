@@ -1,0 +1,26 @@
+https://www.setin.fr/. 
+
+The scraper have to get two lists from the file, SKU and EAN numbers. 
+
+It will search by SKU, if results not found, then it will search by EAN. 
+
+The scraper will get all the variants and options combinations. 
+
+The fields to scrape are:
+
+Searched SKU
+Search EAN
+Title
+Price
+Length
+Material
+Reference Number
+Box Of (Boîte de)
+SKU
+EAN
+URL
+
+into CSV/Excel file. 
+
+
+An Example SKU is: AE2264

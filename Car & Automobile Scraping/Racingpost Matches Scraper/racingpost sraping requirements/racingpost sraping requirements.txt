@@ -1,0 +1,6 @@
+need a daily scrape of favourite horses according to the racingpost.com running in each UK and Irish Race. 
+
+Each Race on this link https://www.racingpost.com/racecards/ for Today tab.
+For example: https://www.racingpost.com/racecards/46/pontefract/2024-04-02/862300/ For every race at this venue, there is a horse in Captial letters under the "Verdict" section (see attached) 
+
+Scraped data into a format: DATE, VENUE, TIME, FAVOURITE

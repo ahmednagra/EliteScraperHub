@@ -1,0 +1,3571 @@
+Script Started at "26-06-2024 11:47:40"
+
+891 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Aj Algazal
+Successfully scraped 18 out of 18 Perfumes from the Brand: Aj Algazal
+
+890 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: El Ganso
+Successfully scraped 14 out of 12 Perfumes from the Brand: El Ganso
+
+889 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Emirates Pride
+Successfully scraped 20 out of 20 Perfumes from the Brand: Emirates Pride
+
+888 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Infumes
+Successfully scraped 4 out of 4 Perfumes from the Brand: Infumes
+
+887 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: L'auditoire
+Successfully scraped 10 out of 10 Perfumes from the Brand: L'auditoire
+
+886 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Maeve
+Successfully scraped 2 out of 2 Perfumes from the Brand: Maeve
+
+885 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Maryaj
+Successfully scraped 50 out of 50 Perfumes from the Brand: Maryaj
+
+884 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ابراهيم العجلان
+No perfumes found for brand: ابراهيم العجلان. URL: https://www.goldenscent.com/en/brands/ابراهيم العجلان.html?action=brands&id=1793
+
+883 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اترو
+Successfully scraped 1 out of 1 Perfumes from the Brand: اترو
+
+882 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اتيلير دي سير
+Successfully scraped 25 out of 25 Perfumes from the Brand: اتيلير دي سير
+
+881 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اتيليه فلو
+Successfully scraped 7 out of 7 Perfumes from the Brand: اتيليه فلو
+
+880 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اجنر
+Successfully scraped 46 out of 44 Perfumes from the Brand: اجنر
+
+879 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ارادوس برفيوم 
+Successfully scraped 18 out of 18 Perfumes from the Brand: ارادوس برفيوم 
+
+878 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اراميس
+No perfumes found for brand: اراميس. URL: https://www.goldenscent.com/en/brands/اراميس.html?action=brands&id=211
+
+877 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ارجوان الجزيرة للعود
+Successfully scraped 30 out of 30 Perfumes from the Brand: ارجوان الجزيرة للعود
+
+876 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ارض الخليج
+Successfully scraped 4 out of 4 Perfumes from the Brand: ارض الخليج
+
+875 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ارماند باسي
+Successfully scraped 9 out of 6 Perfumes from the Brand: ارماند باسي
+
+874 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اس تي ديبونت
+Successfully scraped 41 out of 42 Perfumes from the Brand: اس تي ديبونت
+
+873 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اسبين
+Successfully scraped 1 out of 1 Perfumes from the Brand: اسبين
+
+872 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: استي لودر
+Successfully scraped 24 out of 20 Perfumes from the Brand: استي لودر
+
+871 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اسكادا
+Successfully scraped 33 out of 28 Perfumes from the Brand: اسكادا
+
+870 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اسنترك موليكيولز
+Successfully scraped 15 out of 16 Perfumes from the Brand: اسنترك موليكيولز
+
+869 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اشر
+Successfully scraped 2 out of 2 Perfumes from the Brand: اشر
+
+868 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اف سان لوران
+Successfully scraped 128 out of 105 Perfumes from the Brand: اف سان لوران
+
+867 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: افون
+Successfully scraped 29 out of 28 Perfumes from the Brand: افون
+
+866 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: البا
+Successfully scraped 6 out of 6 Perfumes from the Brand: البا
+
+865 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: البداح للعود
+Successfully scraped 45 out of 45 Perfumes from the Brand: البداح للعود
+
+864 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: البراء
+Successfully scraped 9 out of 9 Perfumes from the Brand: البراء
+
+863 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: البيت الإماراتي للعود
+Successfully scraped 38 out of 35 Perfumes from the Brand: البيت الإماراتي للعود
+
+862 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: التعطير الخاص
+Successfully scraped 18 out of 18 Perfumes from the Brand: التعطير الخاص
+
+861 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الحرمين
+Successfully scraped 2 out of 2 Perfumes from the Brand: الحرمين
+
+860 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الحوت للعود
+Successfully scraped 24 out of 24 Perfumes from the Brand: الحوت للعود
+
+859 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الخريجي
+Successfully scraped 54 out of 54 Perfumes from the Brand: الخريجي
+
+858 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الدانة العربية
+Successfully scraped 5 out of 5 Perfumes from the Brand: الدانة العربية
+
+857 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الدخيل عود
+Successfully scraped 144 out of 144 Perfumes from the Brand: الدخيل عود
+
+856 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الرحيب
+Successfully scraped 4 out of 4 Perfumes from the Brand: الرحيب
+
+855 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الركن العماني
+Successfully scraped 6 out of 6 Perfumes from the Brand: الركن العماني
+
+854 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: السرتي
+Successfully scraped 22 out of 22 Perfumes from the Brand: السرتي
+
+853 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الشقرة للعطور
+Successfully scraped 23 out of 23 Perfumes from the Brand: الشقرة للعطور
+
+852 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: العبدان للعود
+Successfully scraped 5 out of 5 Perfumes from the Brand: العبدان للعود
+
+851 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: العربية للعود
+Successfully scraped 198 out of 170 Perfumes from the Brand: العربية للعود
+
+850 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: العطار غزال
+Successfully scraped 13 out of 13 Perfumes from the Brand: العطار غزال
+
+849 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: العطر الخالد
+Successfully scraped 10 out of 10 Perfumes from the Brand: العطر الخالد
+
+848 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: العمودي للعود
+Successfully scraped 18 out of 18 Perfumes from the Brand: العمودي للعود
+
+847 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الغبرة
+Successfully scraped 18 out of 18 Perfumes from the Brand: الغبرة
+
+846 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الغزال للعطور
+Successfully scraped 14 out of 14 Perfumes from the Brand: الغزال للعطور
+
+845 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الفريد فيرن
+Successfully scraped 8 out of 8 Perfumes from the Brand: الفريد فيرن
+
+844 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: القوداء عود
+Successfully scraped 8 out of 8 Perfumes from the Brand: القوداء عود
+
+843 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الماجد للعود
+Successfully scraped 148 out of 144 Perfumes from the Brand: الماجد للعود
+
+842 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: المبدع
+Successfully scraped 15 out of 15 Perfumes from the Brand: المبدع
+
+841 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: المسك الخليجي
+Successfully scraped 17 out of 17 Perfumes from the Brand: المسك الخليجي
+
+840 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: المصباح بلندز
+Successfully scraped 20 out of 20 Perfumes from the Brand: المصباح بلندز
+
+839 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الهامة العطرية
+Successfully scraped 6 out of 6 Perfumes from the Brand: الهامة العطرية
+
+838 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الوتد
+Successfully scraped 7 out of 7 Perfumes from the Brand: الوتد
+
+837 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الوليف
+No perfumes found for brand: الوليف. URL: https://www.goldenscent.com/en/brands/الوليف.html?action=brands&id=2867
+
+836 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: الونز
+Successfully scraped 25 out of 21 Perfumes from the Brand: الونز
+
+835 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اليزي ديتالي
+Successfully scraped 9 out of 10 Perfumes from the Brand: اليزي ديتالي
+
+834 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: امورعود
+Successfully scraped 8 out of 8 Perfumes from the Brand: امورعود
+
+833 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: انجل شليسر
+Successfully scraped 26 out of 21 Perfumes from the Brand: انجل شليسر
+
+832 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: انسام
+Successfully scraped 7 out of 7 Perfumes from the Brand: انسام
+
+831 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: انيشيو
+Successfully scraped 22 out of 26 Perfumes from the Brand: انيشيو
+
+830 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: اورا فرانس
+Successfully scraped 24 out of 24 Perfumes from the Brand: اورا فرانس
+
+829 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايجنت بروفيكتور
+Successfully scraped 12 out of 9 Perfumes from the Brand: ايجنت بروفيكتور
+
+828 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايري
+Successfully scraped 8 out of 8 Perfumes from the Brand: ايري
+
+827 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايسى مياكى
+Successfully scraped 64 out of 44 Perfumes from the Brand: ايسى مياكى
+
+826 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايسي سترايكس
+Successfully scraped 5 out of 5 Perfumes from the Brand: ايسي سترايكس
+
+825 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايف دي سيستيل
+Successfully scraped 1 out of 1 Perfumes from the Brand: ايف دي سيستيل
+
+824 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايكو
+No perfumes found for brand: ايكو. URL: https://www.goldenscent.com/en/brands/ايكو.html?action=brands&id=909
+
+823 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايكول
+Successfully scraped 23 out of 23 Perfumes from the Brand: ايكول
+
+822 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ايلي صعب
+Successfully scraped 40 out of 26 Perfumes from the Brand: ايلي صعب
+
+821 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إبراهيم القرشي
+Successfully scraped 10 out of 10 Perfumes from the Brand: إبراهيم القرشي
+
+820 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إبراهيم القرشي
+Successfully scraped 141 out of 111 Perfumes from the Brand: إبراهيم القرشي
+
+819 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إبريز
+Successfully scraped 3 out of 3 Perfumes from the Brand: إبريز
+
+818 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إترو ميلانو
+Successfully scraped 27 out of 27 Perfumes from the Brand: إترو ميلانو
+
+817 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إتش إف سي
+Successfully scraped 5 out of 5 Perfumes from the Brand: إتش إف سي
+
+816 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إتيات ليبري دي أورانج
+Successfully scraped 33 out of 33 Perfumes from the Brand: إتيات ليبري دي أورانج
+
+815 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إستيبان
+Successfully scraped 8 out of 8 Perfumes from the Brand: إستيبان
+
+814 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إف إس بيرفيومز
+Successfully scraped 2 out of 2 Perfumes from the Brand: إف إس بيرفيومز
+
+813 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إكزوما بارفيومز
+Successfully scraped 22 out of 22 Perfumes from the Brand: إكزوما بارفيومز
+
+812 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إكس أو إكس أو
+Successfully scraped 2 out of 2 Perfumes from the Brand: إكس أو إكس أو
+
+811 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إكليل
+Successfully scraped 4 out of 4 Perfumes from the Brand: إكليل
+
+810 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إل بروفومو
+Successfully scraped 7 out of 7 Perfumes from the Brand: إل بروفومو
+
+809 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إل تي بيفر
+Successfully scraped 2 out of 1 Perfumes from the Brand: إل تي بيفر
+
+808 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إلك
+Successfully scraped 6 out of 6 Perfumes from the Brand: إلك
+
+807 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إليزابيث أردن
+Successfully scraped 59 out of 48 Perfumes from the Brand: إليزابيث أردن
+
+806 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إليزابيث نايلور
+Successfully scraped 2 out of 3 Perfumes from the Brand: إليزابيث نايلور
+
+805 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إمباير
+Successfully scraped 2 out of 2 Perfumes from the Brand: إمباير
+
+804 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إمبر
+No perfumes found for brand: إمبر. URL: https://www.goldenscent.com/en/brands/إمبر.html?action=brands&id=4770
+
+803 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إنريكو جي
+Successfully scraped 4 out of 7 Perfumes from the Brand: إنريكو جي
+
+802 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إنستانت كوليكشن
+Successfully scraped 6 out of 6 Perfumes from the Brand: إنستانت كوليكشن
+
+801 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إنيرجي
+Successfully scraped 8 out of 8 Perfumes from the Brand: إنيرجي
+
+800 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إي سبريت دي فيرسالي
+Successfully scraped 1 out of 1 Perfumes from the Brand: إي سبريت دي فيرسالي
+
+799 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيت آند بوب
+Successfully scraped 5 out of 5 Perfumes from the Brand: إيت آند بوب
+
+798 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيثر
+Successfully scraped 6 out of 8 Perfumes from the Brand: إيثر
+
+797 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيد هاردي
+Successfully scraped 1 out of 1 Perfumes from the Brand: إيد هاردي
+
+796 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيفودي
+Successfully scraped 2 out of 2 Perfumes from the Brand: إيفودي
+
+795 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيلا كاي
+Successfully scraped 2 out of 2 Perfumes from the Brand: إيلا كاي
+
+794 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيليكتيموس
+Successfully scraped 15 out of 16 Perfumes from the Brand: إيليكتيموس
+
+793 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: إيمانويل أونغارو
+Successfully scraped 14 out of 13 Perfumes from the Brand: إيمانويل أونغارو
+
+792 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أ لاب أون فاير
+Successfully scraped 5 out of 5 Perfumes from the Brand: أ لاب أون فاير
+
+791 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أبيات العطور
+Successfully scraped 25 out of 25 Perfumes from the Brand: أبيات العطور
+
+790 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أبيركرومبي آند فيتش
+Successfully scraped 39 out of 28 Perfumes from the Brand: أبيركرومبي آند فيتش
+
+789 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أبيل أودور
+Successfully scraped 21 out of 12 Perfumes from the Brand: أبيل أودور
+
+788 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أتكينسونس
+Successfully scraped 38 out of 41 Perfumes from the Brand: أتكينسونس
+
+787 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أتيلير ماتيري
+Successfully scraped 6 out of 6 Perfumes from the Brand: أتيلير ماتيري
+
+786 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أجمل
+Successfully scraped 93 out of 93 Perfumes from the Brand: أجمل
+
+785 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أجمل أيام
+Successfully scraped 2 out of 2 Perfumes from the Brand: أجمل أيام
+
+784 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أجواء هوم
+Successfully scraped 3 out of 3 Perfumes from the Brand: أجواء هوم
+
+783 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أجواءك
+Successfully scraped 70 out of 70 Perfumes from the Brand: أجواءك
+
+782 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أحمد للعطور
+Successfully scraped 68 out of 68 Perfumes from the Brand: أحمد للعطور
+
+781 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أديداس
+Successfully scraped 9 out of 9 Perfumes from the Brand: أديداس
+
+780 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أر بي إل
+Successfully scraped 10 out of 10 Perfumes from the Brand: أر بي إل
+
+779 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أر جي للعطور
+Successfully scraped 7 out of 7 Perfumes from the Brand: أر جي للعطور
+
+778 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أرابيسك برفيومز 
+Successfully scraped 6 out of 6 Perfumes from the Brand: أرابيسك برفيومز 
+
+777 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أربينيا
+Successfully scraped 9 out of 9 Perfumes from the Brand: أربينيا
+
+776 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أركستي
+Successfully scraped 11 out of 11 Perfumes from the Brand: أركستي
+
+775 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أرماف
+Successfully scraped 25 out of 30 Perfumes from the Brand: أرماف
+
+774 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أرموند جين
+Successfully scraped 21 out of 17 Perfumes from the Brand: أرموند جين
+
+773 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أروم
+Successfully scraped 3 out of 3 Perfumes from the Brand: أروم
+
+772 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أروما
+Successfully scraped 92 out of 92 Perfumes from the Brand: أروما
+
+771 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أروما 24\7
+Successfully scraped 21 out of 13 Perfumes from the Brand: أروما 24\7
+
+770 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أروما فاكتوري
+Successfully scraped 10 out of 10 Perfumes from the Brand: أروما فاكتوري
+
+769 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أريانا جراندي
+Successfully scraped 16 out of 15 Perfumes from the Brand: أريانا جراندي
+
+768 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أريون
+Successfully scraped 274 out of 274 Perfumes from the Brand: أريون
+
+767 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أزارو
+Successfully scraped 78 out of 63 Perfumes from the Brand: أزارو
+
+766 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أسرار العود
+Successfully scraped 41 out of 41 Perfumes from the Brand: أسرار العود
+
+765 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أسينشيلز
+Successfully scraped 8 out of 8 Perfumes from the Brand: أسينشيلز
+
+764 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أصغر علي
+Successfully scraped 42 out of 42 Perfumes from the Brand: أصغر علي
+
+763 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أطايب الأصالة
+Successfully scraped 18 out of 18 Perfumes from the Brand: أطايب الأصالة
+
+762 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أطياب الأميرة
+Successfully scraped 15 out of 15 Perfumes from the Brand: أطياب الأميرة
+
+761 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أطياب النعمان
+No perfumes found for brand: أطياب النعمان. URL: https://www.goldenscent.com/en/brands/أطياب النعمان.html?action=brands&id=4155
+
+760 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أطياب ليا الكويت
+Successfully scraped 22 out of 22 Perfumes from the Brand: أطياب ليا الكويت
+
+759 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أفراح
+Successfully scraped 5 out of 5 Perfumes from the Brand: أفراح
+
+758 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أفنان الطيب
+Successfully scraped 53 out of 53 Perfumes from the Brand: أفنان الطيب
+
+757 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أفينيسينس
+Successfully scraped 6 out of 7 Perfumes from the Brand: أفينيسينس
+
+756 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أكوا دي بارما
+Successfully scraped 84 out of 66 Perfumes from the Brand: أكوا دي بارما
+
+755 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أكوا دي باريسيس
+Successfully scraped 1 out of 1 Perfumes from the Brand: أكوا دي باريسيس
+
+754 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أكوا دي سردينيا
+Successfully scraped 3 out of 3 Perfumes from the Brand: أكوا دي سردينيا
+
+753 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أكولينا
+Successfully scraped 3 out of 3 Perfumes from the Brand: أكولينا
+
+752 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ألباني نوبل
+Successfully scraped 3 out of 3 Perfumes from the Brand: ألباني نوبل
+
+751 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ألبيرتا فيريتي
+Successfully scraped 1 out of 1 Perfumes from the Brand: ألبيرتا فيريتي
+
+750 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ألكسندر جي
+Successfully scraped 30 out of 31 Perfumes from the Brand: ألكسندر جي
+
+749 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ألماس
+Successfully scraped 66 out of 67 Perfumes from the Brand: ألماس
+
+748 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أليرا
+Successfully scraped 6 out of 6 Perfumes from the Brand: أليرا
+
+747 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أليسا أشلي
+Successfully scraped 11 out of 11 Perfumes from the Brand: أليسا أشلي
+
+746 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أليكساندر مكوين
+Successfully scraped 4 out of 2 Perfumes from the Brand: أليكساندر مكوين
+
+745 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أمادو 
+Successfully scraped 40 out of 41 Perfumes from the Brand: أمادو 
+
+744 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أمواج
+Successfully scraped 64 out of 63 Perfumes from the Brand: أمواج
+
+743 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أمورينو 
+Successfully scraped 15 out of 15 Perfumes from the Brand: أمورينو 
+
+742 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أمير عشقي
+Successfully scraped 6 out of 6 Perfumes from the Brand: أمير عشقي
+
+741 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنتيكا فرينزي
+Successfully scraped 10 out of 10 Perfumes from the Brand: أنتيكا فرينزي
+
+740 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنثولوجي
+Successfully scraped 13 out of 7 Perfumes from the Brand: أنثولوجي
+
+739 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنجري بيردز
+Successfully scraped 1 out of 1 Perfumes from the Brand: أنجري بيردز
+
+738 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنجلينا
+Successfully scraped 27 out of 27 Perfumes from the Brand: أنجلينا
+
+737 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنجيلو كارولي
+Successfully scraped 13 out of 13 Perfumes from the Brand: أنجيلو كارولي
+
+736 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنطونيو أليساندريا
+Successfully scraped 4 out of 4 Perfumes from the Brand: أنطونيو أليساندريا
+
+735 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنطونيو بانديراس
+Successfully scraped 29 out of 21 Perfumes from the Brand: أنطونيو بانديراس
+
+734 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنطونيو بيوج
+Successfully scraped 2 out of 2 Perfumes from the Brand: أنطونيو بيوج
+
+733 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنفاس
+Successfully scraped 8 out of 8 Perfumes from the Brand: أنفاس
+
+732 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنفاسك دخون
+Successfully scraped 53 out of 53 Perfumes from the Brand: أنفاسك دخون
+
+731 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أنوتشي
+Successfully scraped 1 out of 1 Perfumes from the Brand: أنوتشي
+
+730 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أو باي دو لا فلور دورنجير
+Successfully scraped 5 out of 5 Perfumes from the Brand: أو باي دو لا فلور دورنجير
+
+729 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أو ماي بلانيت
+Successfully scraped 2 out of 2 Perfumes from the Brand: أو ماي بلانيت
+
+728 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوار برفيومز
+Successfully scraped 3 out of 3 Perfumes from the Brand: أوار برفيومز
+
+727 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أودين نيويورك
+Successfully scraped 3 out of 3 Perfumes from the Brand: أودين نيويورك
+
+726 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أورا ميست
+Successfully scraped 69 out of 69 Perfumes from the Brand: أورا ميست
+
+725 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أورتو باريسي
+Successfully scraped 9 out of 11 Perfumes from the Brand: أورتو باريسي
+
+724 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أورلوف
+Successfully scraped 8 out of 8 Perfumes from the Brand: أورلوف
+
+723 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوزناتشورالز
+No perfumes found for brand: أوزناتشورالز. URL: https://www.goldenscent.com/en/brands/أوزناتشورالز.html?action=brands&id=1580
+
+722 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوسكار دي لا رينتا
+Successfully scraped 19 out of 17 Perfumes from the Brand: أوسكار دي لا رينتا
+
+721 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوفينو
+No perfumes found for brand: أوفينو. URL: https://www.goldenscent.com/en/brands/أوفينو.html?action=brands&id=3030
+
+720 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوكا
+Successfully scraped 4 out of 4 Perfumes from the Brand: أوكا
+
+719 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أوكيجين برفيوم
+Successfully scraped 3 out of 3 Perfumes from the Brand: أوكيجين برفيوم
+
+718 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أول سينتس
+Successfully scraped 3 out of 3 Perfumes from the Brand: أول سينتس
+
+717 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أولفاكتيف
+Successfully scraped 1 out of 1 Perfumes from the Brand: أولفاكتيف
+
+716 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أولنتس
+Successfully scraped 4 out of 4 Perfumes from the Brand: أولنتس
+
+715 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أونسكاد
+Successfully scraped 3 out of 3 Perfumes from the Brand: أونسكاد
+
+714 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أونيكو
+Successfully scraped 1 out of 1 Perfumes from the Brand: أونيكو
+
+713 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: أيه إي برفيوم 
+Successfully scraped 4 out of 4 Perfumes from the Brand: أيه إي برفيوم 
+
+712 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آتيلير كولون
+Successfully scraped 28 out of 19 Perfumes from the Brand: آتيلير كولون
+
+711 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آدريان فيتاديني
+Successfully scraped 2 out of 2 Perfumes from the Brand: آدريان فيتاديني
+
+710 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آرت دو بارفام
+Successfully scraped 8 out of 8 Perfumes from the Brand: آرت دو بارفام
+
+709 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آرت لاندي برفيومي
+Successfully scraped 10 out of 10 Perfumes from the Brand: آرت لاندي برفيومي
+
+708 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آرليس دي نيش
+Successfully scraped 3 out of 3 Perfumes from the Brand: آرليس دي نيش
+
+707 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آن
+Successfully scraped 3 out of 3 Perfumes from the Brand: آن
+
+706 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آن جيرارد
+Successfully scraped 3 out of 3 Perfumes from the Brand: آن جيرارد
+
+705 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آنك جوتال
+Successfully scraped 4 out of 4 Perfumes from the Brand: آنك جوتال
+
+704 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آي عود
+Successfully scraped 2 out of 1 Perfumes from the Brand: آي عود
+
+703 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آيبي
+Successfully scraped 5 out of 5 Perfumes from the Brand: آيبي
+
+702 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آير-فال
+Successfully scraped 33 out of 33 Perfumes from the Brand: آير-فال
+
+701 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آيرين
+Successfully scraped 15 out of 11 Perfumes from the Brand: آيرين
+
+700 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آيزنبرج
+Successfully scraped 20 out of 18 Perfumes from the Brand: آيزنبرج
+
+699 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: آيه إتش فراجرانسز
+Successfully scraped 4 out of 4 Perfumes from the Brand: آيه إتش فراجرانسز
+
+698 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باث أند بودي وركس
+Successfully scraped 84 out of 84 Perfumes from the Brand: باث أند بودي وركس
+
+697 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باردايس ديس سينس
+Successfully scraped 12 out of 12 Perfumes from the Brand: باردايس ديس سينس
+
+696 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بارفيمار
+Successfully scraped 4 out of 4 Perfumes from the Brand: بارفيمار
+
+695 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بارفيومز جريس
+Successfully scraped 10 out of 9 Perfumes from the Brand: بارفيومز جريس
+
+694 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بارلي موي دو بارفيوم
+Successfully scraped 7 out of 7 Perfumes from the Brand: بارلي موي دو بارفيوم
+
+693 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باريس كولكشن
+Successfully scraped 15 out of 15 Perfumes from the Brand: باريس كولكشن
+
+692 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باريس هيلتون
+Successfully scraped 34 out of 34 Perfumes from the Brand: باريس هيلتون
+
+691 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باسكال مورابيتو
+Successfully scraped 13 out of 17 Perfumes from the Brand: باسكال مورابيتو
+
+690 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باكوما
+Successfully scraped 2 out of 1 Perfumes from the Brand: باكوما
+
+689 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بالديساريني
+Successfully scraped 17 out of 15 Perfumes from the Brand: بالديساريني
+
+688 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بالم دوغ
+Successfully scraped 19 out of 19 Perfumes from the Brand: بالم دوغ
+
+687 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بالمين
+Successfully scraped 6 out of 5 Perfumes from the Brand: بالمين
+
+686 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بالنسياغا
+Successfully scraped 6 out of 4 Perfumes from the Brand: بالنسياغا
+
+685 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بالوما بيكاسو
+Successfully scraped 5 out of 4 Perfumes from the Brand: بالوما بيكاسو
+
+684 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بان برفيومز
+Successfully scraped 13 out of 13 Perfumes from the Brand: بان برفيومز
+
+683 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بانا
+Successfully scraped 5 out of 5 Perfumes from the Brand: بانا
+
+682 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بانا دورا
+Successfully scraped 8 out of 8 Perfumes from the Brand: بانا دورا
+
+681 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بانافع للعود
+Successfully scraped 39 out of 39 Perfumes from the Brand: بانافع للعود
+
+680 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بانثيون روما
+Successfully scraped 5 out of 5 Perfumes from the Brand: بانثيون روما
+
+679 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بانوراما
+Successfully scraped 1 out of 1 Perfumes from the Brand: بانوراما
+
+678 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: باي ماريان
+Successfully scraped 16 out of 16 Perfumes from the Brand: باي ماريان
+
+677 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بايبلوس
+Successfully scraped 4 out of 4 Perfumes from the Brand: بايبلوس
+
+676 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بايريدو
+Successfully scraped 75 out of 54 Perfumes from the Brand: بايريدو
+
+675 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بتلات
+Successfully scraped 47 out of 47 Perfumes from the Brand: بتلات
+
+674 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بحر العود
+Successfully scraped 63 out of 34 Perfumes from the Brand: بحر العود
+
+673 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: براتشاليني
+Successfully scraped 6 out of 4 Perfumes from the Brand: براتشاليني
+
+672 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برادا
+Successfully scraped 93 out of 77 Perfumes from the Brand: برادا
+
+671 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: براشين
+Successfully scraped 15 out of 15 Perfumes from the Brand: براشين
+
+670 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بربري
+Successfully scraped 97 out of 66 Perfumes from the Brand: بربري
+
+669 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برث
+Successfully scraped 6 out of 6 Perfumes from the Brand: برث
+
+668 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بردويس
+Successfully scraped 31 out of 32 Perfumes from the Brand: بردويس
+
+667 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برستيج
+No perfumes found for brand: برستيج. URL: https://www.goldenscent.com/en/brands/برستيج.html?action=brands&id=921
+
+666 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برفيوم غاليري
+Successfully scraped 13 out of 13 Perfumes from the Brand: برفيوم غاليري
+
+665 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برفيومرز تشويس
+Successfully scraped 15 out of 11 Perfumes from the Brand: برفيومرز تشويس
+
+664 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برفيومز أرت
+Successfully scraped 1 out of 1 Perfumes from the Brand: برفيومز أرت
+
+663 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برفيومز دو لو باستيد
+Successfully scraped 7 out of 7 Perfumes from the Brand: برفيومز دو لو باستيد
+
+662 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برودنس باريس
+Successfully scraped 8 out of 8 Perfumes from the Brand: برودنس باريس
+
+661 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: برونكس
+No perfumes found for brand: برونكس. URL: https://www.goldenscent.com/en/brands/برونكس.html?action=brands&id=1281
+
+660 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بريتني سبيرز
+Successfully scraped 18 out of 16 Perfumes from the Brand: بريتني سبيرز
+
+659 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلاك
+Successfully scraped 1 out of 1 Perfumes from the Brand: بلاك
+
+658 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلاك آيز
+Successfully scraped 2 out of 2 Perfumes from the Brand: بلاك آيز
+
+657 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلانكو
+Successfully scraped 12 out of 12 Perfumes from the Brand: بلانكو
+
+656 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلقيس
+Successfully scraped 4 out of 4 Perfumes from the Brand: بلقيس
+
+655 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلو آرش
+Successfully scraped 76 out of 76 Perfumes from the Brand: بلو آرش
+
+654 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بلومارين
+Successfully scraped 2 out of 2 Perfumes from the Brand: بلومارين
+
+653 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بنانا ريبابلك
+Successfully scraped 12 out of 12 Perfumes from the Brand: بنانا ريبابلك
+
+652 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بنتلي
+Successfully scraped 20 out of 18 Perfumes from the Brand: بنتلي
+
+651 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بنهاليغونز
+Successfully scraped 23 out of 23 Perfumes from the Brand: بنهاليغونز
+
+650 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوا 1920
+Successfully scraped 6 out of 6 Perfumes from the Brand: بوا 1920
+
+649 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوتانيك
+Successfully scraped 6 out of 6 Perfumes from the Brand: بوتانيك
+
+648 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوترا
+Successfully scraped 9 out of 9 Perfumes from the Brand: بوترا
+
+647 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوتيجا فينيتا
+Successfully scraped 31 out of 21 Perfumes from the Brand: بوتيجا فينيتا
+
+646 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوتيلد
+Successfully scraped 8 out of 8 Perfumes from the Brand: بوتيلد
+
+645 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوديسيا
+Successfully scraped 47 out of 46 Perfumes from the Brand: بوديسيا
+
+644 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بورجوا
+Successfully scraped 2 out of 2 Perfumes from the Brand: بورجوا
+
+643 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بورشيه ديزاين
+Successfully scraped 14 out of 13 Perfumes from the Brand: بورشيه ديزاين
+
+642 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوشرون
+Successfully scraped 37 out of 31 Perfumes from the Brand: بوشرون
+
+641 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بول إيميلن
+Successfully scraped 1 out of 1 Perfumes from the Brand: بول إيميلن
+
+640 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بولغاري
+Successfully scraped 183 out of 138 Perfumes from the Brand: بولغاري
+
+639 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوليس
+Successfully scraped 21 out of 26 Perfumes from the Brand: بوليس
+
+638 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوند نمبر 9
+Successfully scraped 34 out of 39 Perfumes from the Brand: بوند نمبر 9
+
+637 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بوهوبوكو
+Successfully scraped 6 out of 6 Perfumes from the Brand: بوهوبوكو
+
+636 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بي 96
+Successfully scraped 6 out of 6 Perfumes from the Brand: بي 96
+
+635 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بي إيتش
+Successfully scraped 5 out of 5 Perfumes from the Brand: بي إيتش
+
+634 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بي بي 
+Successfully scraped 8 out of 8 Perfumes from the Brand: بي بي 
+
+633 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بي دي كيه
+Successfully scraped 20 out of 20 Perfumes from the Brand: بي دي كيه
+
+632 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيبرمينت جروف
+Successfully scraped 1 out of 1 Perfumes from the Brand: بيبرمينت جروف
+
+631 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيبي جينز لندن
+Successfully scraped 14 out of 14 Perfumes from the Brand: بيبي جينز لندن
+
+630 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيت نايا
+Successfully scraped 5 out of 5 Perfumes from the Brand: بيت نايا
+
+629 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيتبول
+Successfully scraped 1 out of 1 Perfumes from the Brand: بيتبول
+
+628 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيجان
+Successfully scraped 3 out of 3 Perfumes from the Brand: بيجان
+
+627 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيدرو ديل هييرو
+Successfully scraped 7 out of 7 Perfumes from the Brand: بيدرو ديل هييرو
+
+626 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيردوس 1902
+Successfully scraped 19 out of 21 Perfumes from the Brand: بيردوس 1902
+
+625 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيري إليس
+Successfully scraped 5 out of 4 Perfumes from the Brand: بيري إليس
+
+624 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيريس
+Successfully scraped 6 out of 6 Perfumes from the Brand: بيريس
+
+623 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيسز
+Successfully scraped 8 out of 8 Perfumes from the Brand: بيسز
+
+622 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيفرلي هيلز
+Successfully scraped 2 out of 2 Perfumes from the Brand: بيفرلي هيلز
+
+621 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيكاسو آند كو
+Successfully scraped 7 out of 7 Perfumes from the Brand: بيكاسو آند كو
+
+620 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيل بلاس
+Successfully scraped 2 out of 1 Perfumes from the Brand: بيل بلاس
+
+619 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيلز ايم
+Successfully scraped 3 out of 3 Perfumes from the Brand: بيلز ايم
+
+618 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيلي
+Successfully scraped 5 out of 5 Perfumes from the Brand: بيلي
+
+617 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيلي آيلش
+Successfully scraped 1 out of 1 Perfumes from the Brand: بيلي آيلش
+
+616 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بينك شوقر
+Successfully scraped 13 out of 13 Perfumes from the Brand: بينك شوقر
+
+615 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بينو سيلفستر
+Successfully scraped 5 out of 4 Perfumes from the Brand: بينو سيلفستر
+
+614 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيهل
+Successfully scraped 7 out of 7 Perfumes from the Brand: بيهل
+
+613 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيوتي ريشال
+Successfully scraped 11 out of 11 Perfumes from the Brand: بيوتي ريشال
+
+612 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيوتي لاند
+Successfully scraped 1 out of 1 Perfumes from the Brand: بيوتي لاند
+
+611 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيور بينك
+Successfully scraped 9 out of 9 Perfumes from the Brand: بيور بينك
+
+610 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيورديرم
+No perfumes found for brand: بيورديرم. URL: https://www.goldenscent.com/en/brands/بيورديرم.html?action=brands&id=1520
+
+609 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيوريوم
+Successfully scraped 1 out of 1 Perfumes from the Brand: بيوريوم
+
+608 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بيونسيه
+Successfully scraped 7 out of 7 Perfumes from the Brand: بيونسيه
+
+607 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: بييرا كاترا
+Successfully scraped 76 out of 76 Perfumes from the Brand: بييرا كاترا
+
+606 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تاسوتي
+Successfully scraped 24 out of 24 Perfumes from the Brand: تاسوتي
+
+605 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تان روكا
+Successfully scraped 2 out of 2 Perfumes from the Brand: تان روكا
+
+604 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تباك
+No perfumes found for brand: تباك. URL: https://www.goldenscent.com/en/brands/تباك.html?action=brands&id=674
+
+603 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تروساردي
+Successfully scraped 58 out of 46 Perfumes from the Brand: تروساردي
+
+602 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تسنيم
+Successfully scraped 2 out of 2 Perfumes from the Brand: تسنيم
+
+601 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تشوجان
+Successfully scraped 3 out of 4 Perfumes from the Brand: تشوجان
+
+600 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تشيدنز
+Successfully scraped 6 out of 6 Perfumes from the Brand: تشيدنز
+
+599 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تو لي جور
+No perfumes found for brand: تو لي جور. URL: https://www.goldenscent.com/en/brands/تو لي جور.html?action=brands&id=2870
+
+598 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توب فكتوري
+Successfully scraped 4 out of 4 Perfumes from the Brand: توب فكتوري
+
+597 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توبي
+Successfully scraped 3 out of 3 Perfumes from the Brand: توبي
+
+596 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توري برش
+Successfully scraped 6 out of 6 Perfumes from the Brand: توري برش
+
+595 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توس
+Perfume: "توس لوف مي ذا إميرالد إلكسير برفيوم" ID: "71982" URL: "https://www.goldenscent.com/tous-love-me-the-emerald-eau-de-parfum-for-men-women.html?action=prod&id=71982" Detail parsing error :"isinstance() arg 2 must be a type or tuple of types
+Successfully scraped 51 out of 40 Perfumes from the Brand: توس
+
+594 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تولِه
+Successfully scraped 8 out of 8 Perfumes from the Brand: تولِه
+
+593 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توم فورد
+Successfully scraped 144 out of 112 Perfumes from the Brand: توم فورد
+
+592 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توماس سابو
+Successfully scraped 2 out of 2 Perfumes from the Brand: توماس سابو
+
+591 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: توماس كوسمالا
+Successfully scraped 19 out of 17 Perfumes from the Brand: توماس كوسمالا
+
+590 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تومي باهاما
+Successfully scraped 7 out of 7 Perfumes from the Brand: تومي باهاما
+
+589 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تومي هيلفجر
+Successfully scraped 6 out of 5 Perfumes from the Brand: تومي هيلفجر
+
+588 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تونينو لامبورغيني
+Successfully scraped 6 out of 6 Perfumes from the Brand: تونينو لامبورغيني
+
+587 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تياترو فريجرانز يونيش
+Successfully scraped 24 out of 24 Perfumes from the Brand: تياترو فريجرانز يونيش
+
+586 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيد بيكر
+Successfully scraped 4 out of 4 Perfumes from the Brand: تيد بيكر
+
+585 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيد لابيدوس
+Successfully scraped 17 out of 18 Perfumes from the Brand: تيد لابيدوس
+
+584 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيري موغلر
+Successfully scraped 85 out of 68 Perfumes from the Brand: تيري موغلر
+
+583 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيزيانا تيرينزي
+Successfully scraped 81 out of 82 Perfumes from the Brand: تيزيانا تيرينزي
+
+582 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيسوري دي أورينت
+Successfully scraped 20 out of 24 Perfumes from the Brand: تيسوري دي أورينت
+
+581 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيفاني آند كو
+Successfully scraped 7 out of 5 Perfumes from the Brand: تيفاني آند كو
+
+580 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: تيفاني عود
+Successfully scraped 25 out of 25 Perfumes from the Brand: تيفاني عود
+
+579 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ثمين
+Successfully scraped 21 out of 30 Perfumes from the Brand: ثمين
+
+578 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاد
+Successfully scraped 54 out of 54 Perfumes from the Brand: جاد
+
+577 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاستن بيبير
+Successfully scraped 2 out of 2 Perfumes from the Brand: جاستن بيبير
+
+576 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاسون وو
+Successfully scraped 1 out of 1 Perfumes from the Brand: جاسون وو
+
+575 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاك بوغارت
+Successfully scraped 17 out of 17 Perfumes from the Brand: جاك بوغارت
+
+574 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاك فاث
+Successfully scraped 1 out of 1 Perfumes from the Brand: جاك فاث
+
+573 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاكادي
+No perfumes found for brand: جاكادي. URL: https://www.goldenscent.com/en/brands/جاكادي.html?action=brands&id=574
+
+572 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاكوار
+Successfully scraped 30 out of 33 Perfumes from the Brand: جاكوار
+
+571 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاكومو
+Successfully scraped 8 out of 5 Perfumes from the Brand: جاكومو
+
+570 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جاي لاروش
+Successfully scraped 8 out of 5 Perfumes from the Brand: جاي لاروش
+
+569 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جريتي
+Successfully scraped 15 out of 15 Perfumes from the Brand: جريتي
+
+568 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جس
+Successfully scraped 44 out of 47 Perfumes from the Brand: جس
+
+567 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جفنشي
+Successfully scraped 164 out of 130 Perfumes from the Brand: جفنشي
+
+566 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جلوسي ميك أب
+No perfumes found for brand: جلوسي ميك أب. URL: https://www.goldenscent.com/en/brands/جلوسي ميك أب.html?action=brands&id=1731
+
+565 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جنيد للعطور
+Successfully scraped 33 out of 31 Perfumes from the Brand: جنيد للعطور
+
+564 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جو مالون 
+Successfully scraped 66 out of 47 Perfumes from the Brand: جو مالون 
+
+563 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جواهر كريستال
+Successfully scraped 1 out of 1 Perfumes from the Brand: جواهر كريستال
+
+562 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوب
+Successfully scraped 8 out of 5 Perfumes from the Brand: جوب
+
+561 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوتال باريس
+Successfully scraped 47 out of 34 Perfumes from the Brand: جوتال باريس
+
+560 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوديث
+Successfully scraped 1 out of 1 Perfumes from the Brand: جوديث
+
+559 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورج ريش
+Successfully scraped 8 out of 8 Perfumes from the Brand: جورج ريش
+
+558 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورج ستال
+No perfumes found for brand: جورج ستال. URL: https://www.goldenscent.com/en/brands/جورج ستال.html?action=brands&id=1136
+
+557 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورجبو بيفرلي هيلز
+Successfully scraped 9 out of 7 Perfumes from the Brand: جورجبو بيفرلي هيلز
+
+556 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورجيو
+Successfully scraped 7 out of 7 Perfumes from the Brand: جورجيو
+
+555 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورجيو ارماني
+Successfully scraped 247 out of 174 Perfumes from the Brand: جورجيو ارماني
+
+554 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جورجيو مونتي
+Successfully scraped 1 out of 1 Perfumes from the Brand: جورجيو مونتي
+
+553 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوست نوز
+Successfully scraped 8 out of 8 Perfumes from the Brand: جوست نوز
+
+552 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوسي كوتور
+Successfully scraped 43 out of 29 Perfumes from the Brand: جوسي كوتور
+
+551 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوفان
+Successfully scraped 8 out of 6 Perfumes from the Brand: جوفان
+
+550 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جول إت ماد
+Successfully scraped 10 out of 11 Perfumes from the Brand: جول إت ماد
+
+549 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جولد فيلد آند بانكس
+Successfully scraped 3 out of 3 Perfumes from the Brand: جولد فيلد آند بانكس
+
+548 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جولدن كراون
+No perfumes found for brand: جولدن كراون. URL: https://www.goldenscent.com/en/brands/جولدن كراون.html?action=brands&id=5054
+
+547 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جولي ميموار
+No perfumes found for brand: جولي ميموار. URL: https://www.goldenscent.com/en/brands/جولي ميموار.html?action=brands&id=3096
+
+546 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوليا روبنسون
+Successfully scraped 20 out of 20 Perfumes from the Brand: جوليا روبنسون
+
+545 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جولييت هاز أقن
+Successfully scraped 26 out of 24 Perfumes from the Brand: جولييت هاز أقن
+
+544 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جون - لوي شيرير
+Successfully scraped 5 out of 3 Perfumes from the Brand: جون - لوي شيرير
+
+543 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جون باتو
+Successfully scraped 5 out of 4 Perfumes from the Brand: جون باتو
+
+542 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جون ريتشموند
+Successfully scraped 1 out of 1 Perfumes from the Brand: جون ريتشموند
+
+541 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جون فارفاتوس
+Successfully scraped 21 out of 14 Perfumes from the Brand: جون فارفاتوس
+
+540 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جوهان. بي
+Successfully scraped 37 out of 41 Perfumes from the Brand: جوهان. بي
+
+539 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جويكو
+No perfumes found for brand: جويكو. URL: https://www.goldenscent.com/en/brands/جويكو.html?action=brands&id=1028
+
+538 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جويو يونيك أند سينسوريل بارفيومز
+Successfully scraped 8 out of 9 Perfumes from the Brand: جويو يونيك أند سينسوريل بارفيومز
+
+537 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جي اف باريس
+Successfully scraped 1 out of 1 Perfumes from the Brand: جي اف باريس
+
+536 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جي بي آر
+Successfully scraped 4 out of 4 Perfumes from the Brand: جي بي آر
+
+535 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جي فالي
+Successfully scraped 6 out of 6 Perfumes from the Brand: جي فالي
+
+534 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جي. ديل بوزو
+Successfully scraped 41 out of 35 Perfumes from the Brand: جي. ديل بوزو
+
+533 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جي. ليكاندو
+Successfully scraped 4 out of 4 Perfumes from the Brand: جي. ليكاندو
+
+532 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيانا بوتيك
+Successfully scraped 6 out of 6 Perfumes from the Brand: جيانا بوتيك
+
+531 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيانفرانكو فيري
+Successfully scraped 24 out of 22 Perfumes from the Brand: جيانفرانكو فيري
+
+530 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيبرليز
+Successfully scraped 47 out of 54 Perfumes from the Brand: جيبرليز
+
+529 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيرلان
+Successfully scraped 236 out of 176 Perfumes from the Brand: جيرلان
+
+528 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيريني
+Successfully scraped 10 out of 11 Perfumes from the Brand: جيريني
+
+527 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيسيكا سيمبسون
+Successfully scraped 9 out of 10 Perfumes from the Brand: جيسيكا سيمبسون
+
+526 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيسيكا مكلينتوك
+Successfully scraped 1 out of 1 Perfumes from the Brand: جيسيكا مكلينتوك
+
+525 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيفاجو
+Successfully scraped 33 out of 33 Perfumes from the Brand: جيفاجو
+
+524 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيفري بيني
+Successfully scraped 1 out of 1 Perfumes from the Brand: جيفري بيني
+
+523 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيل ساندر
+Successfully scraped 4 out of 4 Perfumes from the Brand: جيل ساندر
+
+522 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيمس بوند
+Successfully scraped 6 out of 5 Perfumes from the Brand: جيمس بوند
+
+521 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيمي شو
+Successfully scraped 53 out of 39 Perfumes from the Brand: جيمي شو
+
+520 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيمينا بي
+Successfully scraped 16 out of 20 Perfumes from the Brand: جيمينا بي
+
+519 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جين آرثيس
+Successfully scraped 41 out of 41 Perfumes from the Brand: جين آرثيس
+
+518 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جين أنطوان
+Successfully scraped 13 out of 16 Perfumes from the Brand: جين أنطوان
+
+517 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جين بول غولتيه
+Successfully scraped 38 out of 37 Perfumes from the Brand: جين بول غولتيه
+
+516 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جينيفر لوبيز
+Successfully scraped 8 out of 10 Perfumes from the Brand: جينيفر لوبيز
+
+515 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيه كازانوفا
+Successfully scraped 7 out of 6 Perfumes from the Brand: جيه كازانوفا
+
+514 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: جيوفانا انتونيلي
+Successfully scraped 2 out of 2 Perfumes from the Brand: جيوفانا انتونيلي
+
+513 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: حاكم العود
+Successfully scraped 79 out of 62 Perfumes from the Brand: حاكم العود
+
+512 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: حكاية
+Successfully scraped 93 out of 39 Perfumes from the Brand: حكاية
+
+511 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: خلاصات
+Successfully scraped 13 out of 13 Perfumes from the Brand: خلاصات
+
+510 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: خلطات
+Successfully scraped 38 out of 39 Perfumes from the Brand: خلطات
+
+509 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دار عطور ولاء
+Successfully scraped 5 out of 7 Perfumes from the Brand: دار عطور ولاء
+
+508 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دارقوستو
+Successfully scraped 3 out of 3 Perfumes from the Brand: دارقوستو
+
+507 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دافيدوف
+Successfully scraped 45 out of 40 Perfumes from the Brand: دافيدوف
+
+506 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دالي هوت بارفيومري
+Successfully scraped 13 out of 13 Perfumes from the Brand: دالي هوت بارفيومري
+
+505 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دايز هوم
+Successfully scraped 11 out of 11 Perfumes from the Brand: دايز هوم
+
+504 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دايفد بيكهام
+Successfully scraped 9 out of 8 Perfumes from the Brand: دايفد بيكهام
+
+503 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دبل ميم
+Successfully scraped 23 out of 23 Perfumes from the Brand: دبل ميم
+
+502 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دبيتيك
+Successfully scraped 17 out of 18 Perfumes from the Brand: دبيتيك
+
+501 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دخون
+Successfully scraped 51 out of 51 Perfumes from the Brand: دخون
+
+500 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: درعه
+Successfully scraped 264 out of 241 Perfumes from the Brand: درعه
+
+499 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دكتور فرانجيس فيرنزيه
+Successfully scraped 104 out of 104 Perfumes from the Brand: دكتور فرانجيس فيرنزيه
+
+498 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دكتور ماركس
+Successfully scraped 46 out of 46 Perfumes from the Brand: دكتور ماركس
+
+497 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دنهل
+Successfully scraped 67 out of 66 Perfumes from the Brand: دنهل
+
+496 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دورسي
+Successfully scraped 12 out of 11 Perfumes from the Brand: دورسي
+
+495 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دوسيتا
+Successfully scraped 4 out of 4 Perfumes from the Brand: دوسيتا
+
+494 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دوسيغ
+Successfully scraped 4 out of 4 Perfumes from the Brand: دوسيغ
+
+493 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دوفين
+Successfully scraped 8 out of 8 Perfumes from the Brand: دوفين
+
+492 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دولتشي آند غابانا
+Successfully scraped 135 out of 89 Perfumes from the Brand: دولتشي آند غابانا
+
+491 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دونا كاران
+Successfully scraped 3 out of 3 Perfumes from the Brand: دونا كاران
+
+490 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دي إس أند دورجا
+Successfully scraped 9 out of 8 Perfumes from the Brand: دي إس أند دورجا
+
+489 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دي إل برفيوم
+Successfully scraped 18 out of 18 Perfumes from the Brand: دي إل برفيوم
+
+488 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دي كيه ان واي
+Successfully scraped 22 out of 15 Perfumes from the Brand: دي كيه ان واي
+
+487 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: دير روز
+Successfully scraped 6 out of 6 Perfumes from the Brand: دير روز
+
+486 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديزل
+Successfully scraped 41 out of 24 Perfumes from the Brand: ديزل
+
+485 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديزني
+Successfully scraped 63 out of 63 Perfumes from the Brand: ديزني
+
+484 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديسجوال
+No perfumes found for brand: ديسجوال. URL: https://www.goldenscent.com/en/brands/ديسجوال.html?action=brands&id=4769
+
+483 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديسكويرد²
+Successfully scraped 14 out of 12 Perfumes from the Brand: ديسكويرد²
+
+482 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديفيد والتر
+Successfully scraped 4 out of 4 Perfumes from the Brand: ديفيد والتر
+
+481 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ديور
+Successfully scraped 218 out of 171 Perfumes from the Brand: ديور
+
+480 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا اليقنت برفيومز
+Successfully scraped 5 out of 5 Perfumes from the Brand: ذا اليقنت برفيومز
+
+479 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا برفيوميرز ورك شوب
+Successfully scraped 3 out of 1 Perfumes from the Brand: ذا برفيوميرز ورك شوب
+
+478 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا بودي شوب
+Successfully scraped 2 out of 2 Perfumes from the Brand: ذا بودي شوب
+
+477 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا بيوتيفول مايند سيريز
+Successfully scraped 2 out of 2 Perfumes from the Brand: ذا بيوتيفول مايند سيريز
+
+476 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا ديفرينت كومباني
+Successfully scraped 62 out of 52 Perfumes from the Brand: ذا ديفرينت كومباني
+
+475 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا عود
+Successfully scraped 52 out of 52 Perfumes from the Brand: ذا عود
+
+474 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا فاينست
+Successfully scraped 8 out of 8 Perfumes from the Brand: ذا فاينست
+
+473 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا فراجرانس كيتشن
+Successfully scraped 9 out of 27 Perfumes from the Brand: ذا فراجرانس كيتشن
+
+472 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا ميرشنت أوف فينيس
+Successfully scraped 9 out of 9 Perfumes from the Brand: ذا ميرشنت أوف فينيس
+
+471 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا هارمونيست
+Successfully scraped 14 out of 14 Perfumes from the Brand: ذا هارمونيست
+
+470 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا هاوس أوف عود
+Successfully scraped 14 out of 15 Perfumes from the Brand: ذا هاوس أوف عود
+
+469 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذا وودز كوليكشن باي نتشورال
+Successfully scraped 15 out of 15 Perfumes from the Brand: ذا وودز كوليكشن باي نتشورال
+
+468 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذكرى العطور
+Successfully scraped 28 out of 28 Perfumes from the Brand: ذكرى العطور
+
+467 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ذكريات
+Successfully scraped 1 out of 1 Perfumes from the Brand: ذكريات
+
+466 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رابان
+Successfully scraped 49 out of 46 Perfumes from the Brand: رابان
+
+465 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رالف لورين
+Successfully scraped 57 out of 28 Perfumes from the Brand: رالف لورين
+
+464 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: راما روز
+Successfully scraped 14 out of 14 Perfumes from the Brand: راما روز
+
+463 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رامون مونيجال
+Successfully scraped 25 out of 19 Perfumes from the Brand: رامون مونيجال
+
+462 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رانسي
+Successfully scraped 11 out of 11 Perfumes from the Brand: رانسي
+
+461 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رزين للعود
+Successfully scraped 13 out of 13 Perfumes from the Brand: رزين للعود
+
+460 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رسيس
+Successfully scraped 46 out of 46 Perfumes from the Brand: رسيس
+
+459 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رصاصي
+Successfully scraped 64 out of 64 Perfumes from the Brand: رصاصي
+
+458 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رصوف
+Successfully scraped 34 out of 34 Perfumes from the Brand: رصوف
+
+457 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ركاز
+Successfully scraped 4 out of 4 Perfumes from the Brand: ركاز
+
+456 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رمال
+Successfully scraped 24 out of 24 Perfumes from the Brand: رمال
+
+455 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روائح الشرق
+Successfully scraped 15 out of 15 Perfumes from the Brand: روائح الشرق
+
+454 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روايه
+Successfully scraped 4 out of 4 Perfumes from the Brand: روايه
+
+453 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روبرت بجويه
+Successfully scraped 5 out of 5 Perfumes from the Brand: روبرت بجويه
+
+452 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روبرت جراهام
+Successfully scraped 5 out of 5 Perfumes from the Brand: روبرت جراهام
+
+451 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روبرتو فيرينو
+Successfully scraped 3 out of 3 Perfumes from the Brand: روبرتو فيرينو
+
+450 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روبرتو كافالي
+Successfully scraped 40 out of 39 Perfumes from the Brand: روبرتو كافالي
+
+449 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روبي كراون
+Successfully scraped 2 out of 1 Perfumes from the Brand: روبي كراون
+
+448 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روت إيسنشالز
+No perfumes found for brand: روت إيسنشالز. URL: https://www.goldenscent.com/en/brands/روت إيسنشالز.html?action=brands&id=4130
+
+447 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روجا
+Successfully scraped 14 out of 15 Perfumes from the Brand: روجا
+
+446 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روح الخزامى
+Successfully scraped 4 out of 4 Perfumes from the Brand: روح الخزامى
+
+445 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روز الطيب
+Successfully scraped 4 out of 4 Perfumes from the Brand: روز الطيب
+
+444 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روز ماري باريس
+Successfully scraped 20 out of 20 Perfumes from the Brand: روز ماري باريس
+
+443 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روز موند
+Successfully scraped 27 out of 27 Perfumes from the Brand: روز موند
+
+442 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روز وعود
+Successfully scraped 49 out of 49 Perfumes from the Brand: روز وعود
+
+441 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روزندو ماتيو
+Successfully scraped 15 out of 16 Perfumes from the Brand: روزندو ماتيو
+
+440 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روس أند روس
+Successfully scraped 6 out of 6 Perfumes from the Brand: روس أند روس
+
+439 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روشاس
+Successfully scraped 30 out of 23 Perfumes from the Brand: روشاس
+
+438 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: روكو باركو
+Successfully scraped 9 out of 8 Perfumes from the Brand: روكو باركو
+
+437 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رومووي
+Successfully scraped 7 out of 7 Perfumes from the Brand: رومووي
+
+436 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريبلاي
+Successfully scraped 5 out of 5 Perfumes from the Brand: ريبلاي
+
+435 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريتروفاي باريس
+Successfully scraped 20 out of 20 Perfumes from the Brand: ريتروفاي باريس
+
+434 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريجالين
+Successfully scraped 21 out of 21 Perfumes from the Brand: ريجالين
+
+433 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريجينز برفيومز
+Successfully scraped 1 out of 1 Perfumes from the Brand: ريجينز برفيومز
+
+432 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: رير
+Successfully scraped 2 out of 2 Perfumes from the Brand: رير
+
+431 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريف العطور
+Successfully scraped 34 out of 28 Perfumes from the Brand: ريف العطور
+
+430 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريفان
+Successfully scraped 8 out of 8 Perfumes from the Brand: ريفان
+
+429 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريفلون
+Successfully scraped 1 out of 1 Perfumes from the Brand: ريفلون
+
+428 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريكي جوستو
+Successfully scraped 2 out of 2 Perfumes from the Brand: ريكي جوستو
+
+427 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريم عكرا
+Successfully scraped 1 out of 1 Perfumes from the Brand: ريم عكرا
+
+426 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريمينسينس
+Successfully scraped 21 out of 19 Perfumes from the Brand: ريمينسينس
+
+425 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريهانا
+Successfully scraped 10 out of 10 Perfumes from the Brand: ريهانا
+
+424 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ريّان
+Successfully scraped 5 out of 5 Perfumes from the Brand: ريّان
+
+423 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زاديج أند فولتير
+Successfully scraped 5 out of 4 Perfumes from the Brand: زاديج أند فولتير
+
+422 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زاركو
+Successfully scraped 1 out of 1 Perfumes from the Brand: زاركو
+
+421 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زايروس
+Successfully scraped 11 out of 11 Perfumes from the Brand: زايروس
+
+420 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زلاتان إبراهيموفيتش
+Successfully scraped 7 out of 5 Perfumes from the Brand: زلاتان إبراهيموفيتش
+
+419 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زهرة
+Successfully scraped 1 out of 1 Perfumes from the Brand: زهرة
+
+418 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زهور
+Successfully scraped 160 out of 144 Perfumes from the Brand: زهور
+
+417 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زيبو
+Successfully scraped 3 out of 3 Perfumes from the Brand: زيبو
+
+416 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زيرجوف
+Successfully scraped 115 out of 114 Perfumes from the Brand: زيرجوف
+
+415 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زيره
+Successfully scraped 2 out of 2 Perfumes from the Brand: زيره
+
+414 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: زينولوجي
+Successfully scraped 29 out of 29 Perfumes from the Brand: زينولوجي
+
+413 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ساب 
+Successfully scraped 4 out of 4 Perfumes from the Brand: ساب 
+
+412 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سارة جيسيكا باركر
+Successfully scraped 3 out of 5 Perfumes from the Brand: سارة جيسيكا باركر
+
+411 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سارد برفيومز
+Successfully scraped 6 out of 6 Perfumes from the Brand: سارد برفيومز
+
+410 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ساره للعود
+Successfully scraped 2 out of 2 Perfumes from the Brand: ساره للعود
+
+409 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ساري
+Successfully scraped 5 out of 5 Perfumes from the Brand: ساري
+
+408 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سافوري
+Successfully scraped 5 out of 5 Perfumes from the Brand: سافوري
+
+407 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سام 30
+Successfully scraped 32 out of 32 Perfumes from the Brand: سام 30
+
+406 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سامانس
+Successfully scraped 10 out of 10 Perfumes from the Brand: سامانس
+
+405 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سانت فاليري
+Successfully scraped 24 out of 24 Perfumes from the Brand: سانت فاليري
+
+404 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سانتي بورجاس
+Successfully scraped 7 out of 7 Perfumes from the Brand: سانتي بورجاس
+
+403 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سايلنس
+No perfumes found for brand: سايلنس. URL: https://www.goldenscent.com/en/brands/سايلنس.html?action=brands&id=5389
+
+402 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سبادا
+Successfully scraped 6 out of 6 Perfumes from the Brand: سبادا
+
+401 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ستارك
+Successfully scraped 8 out of 6 Perfumes from the Brand: ستارك
+
+400 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ستيفان همبرت
+Successfully scraped 18 out of 16 Perfumes from the Brand: ستيفان همبرت
+
+399 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ستيلا ماكارتني
+Successfully scraped 10 out of 5 Perfumes from the Brand: ستيلا ماكارتني
+
+398 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سدر الخليج
+Successfully scraped 46 out of 46 Perfumes from the Brand: سدر الخليج
+
+397 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سر العود
+Successfully scraped 4 out of 4 Perfumes from the Brand: سر العود
+
+396 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سريان
+Successfully scraped 3 out of 3 Perfumes from the Brand: سريان
+
+395 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سريب
+Successfully scraped 22 out of 44 Perfumes from the Brand: سريب
+
+394 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سفن ميل
+Successfully scraped 3 out of 3 Perfumes from the Brand: سفن ميل
+
+393 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سكند تشانس
+Successfully scraped 6 out of 6 Perfumes from the Brand: سكند تشانس
+
+392 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سكيل
+Successfully scraped 9 out of 9 Perfumes from the Brand: سكيل
+
+391 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سلفاتوري فيراغامو
+Successfully scraped 88 out of 70 Perfumes from the Brand: سلفاتوري فيراغامو
+
+390 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سلهب للعطور
+Successfully scraped 4 out of 4 Perfumes from the Brand: سلهب للعطور
+
+389 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سلينا غوميز
+Successfully scraped 1 out of 1 Perfumes from the Brand: سلينا غوميز
+
+388 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سميل أند سمايل
+Successfully scraped 24 out of 24 Perfumes from the Brand: سميل أند سمايل
+
+387 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سن سيت كافي
+Successfully scraped 9 out of 5 Perfumes from the Brand: سن سيت كافي
+
+386 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سنت رين
+Successfully scraped 2 out of 2 Perfumes from the Brand: سنت رين
+
+385 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سنت ستوري
+Successfully scraped 18 out of 14 Perfumes from the Brand: سنت ستوري
+
+384 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سهم
+No perfumes found for brand: سهم. URL: https://www.goldenscent.com/en/brands/سهم.html?action=brands&id=5347
+
+383 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سوالف
+Successfully scraped 25 out of 25 Perfumes from the Brand: سوالف
+
+382 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سوسبيرو
+Successfully scraped 30 out of 32 Perfumes from the Brand: سوسبيرو
+
+381 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سوعود
+Successfully scraped 3 out of 4 Perfumes from the Brand: سوعود
+
+380 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سولينوتس
+Successfully scraped 30 out of 32 Perfumes from the Brand: سولينوتس
+
+379 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سويس أربيان
+Successfully scraped 119 out of 119 Perfumes from the Brand: سويس أربيان
+
+378 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سي إم
+Successfully scraped 5 out of 4 Perfumes from the Brand: سي إم
+
+377 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سي إن آر كريات
+Successfully scraped 24 out of 24 Perfumes from the Brand: سي إن آر كريات
+
+376 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سي يو
+Successfully scraped 5 out of 5 Perfumes from the Brand: سي يو
+
+375 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيبيراني برفيومز
+Successfully scraped 98 out of 169 Perfumes from the Brand: سيبيراني برفيومز
+
+374 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيجار
+Successfully scraped 1 out of 1 Perfumes from the Brand: سيجار
+
+373 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيرة الطيب
+Successfully scraped 29 out of 29 Perfumes from the Brand: سيرة الطيب
+
+372 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيرج لوتنس
+Successfully scraped 24 out of 17 Perfumes from the Brand: سيرج لوتنس
+
+371 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيريرا مولا
+No perfumes found for brand: سيريرا مولا. URL: https://www.goldenscent.com/en/brands/سيريرا مولا.html?action=brands&id=4608
+
+370 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيزون
+Successfully scraped 5 out of 6 Perfumes from the Brand: سيزون
+
+369 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيسلي
+Successfully scraped 17 out of 12 Perfumes from the Brand: سيسلي
+
+368 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيغنيتشر
+Successfully scraped 19 out of 19 Perfumes from the Brand: سيغنيتشر
+
+367 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيفورا وود
+Successfully scraped 1 out of 1 Perfumes from the Brand: سيفورا وود
+
+366 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سيلين
+Successfully scraped 15 out of 15 Perfumes from the Brand: سيلين
+
+365 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سينت زون
+Successfully scraped 3 out of 3 Perfumes from the Brand: سينت زون
+
+364 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: سُكة الطيب
+Successfully scraped 10 out of 10 Perfumes from the Brand: سُكة الطيب
+
+363 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شابود
+Successfully scraped 5 out of 5 Perfumes from the Brand: شابود
+
+362 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شاتو رافايل
+Successfully scraped 1 out of 1 Perfumes from the Brand: شاتو رافايل
+
+361 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شاريول
+Successfully scraped 9 out of 7 Perfumes from the Brand: شاريول
+
+360 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شانيل
+Successfully scraped 171 out of 124 Perfumes from the Brand: شانيل
+
+359 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شاهه
+No perfumes found for brand: شاهه. URL: https://www.goldenscent.com/en/brands/شاهه.html?action=brands&id=3809
+
+358 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شفق شمس للعطور
+Successfully scraped 7 out of 6 Perfumes from the Brand: شفق شمس للعطور
+
+357 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شكسبير برفيوم
+Successfully scraped 12 out of 12 Perfumes from the Brand: شكسبير برفيوم
+
+356 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شميم
+Successfully scraped 15 out of 12 Perfumes from the Brand: شميم
+
+355 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شوبارد
+Successfully scraped 52 out of 54 Perfumes from the Brand: شوبارد
+
+354 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شون جون
+Successfully scraped 5 out of 4 Perfumes from the Brand: شون جون
+
+353 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شيبارة
+Successfully scraped 4 out of 4 Perfumes from the Brand: شيبارة
+
+352 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شيخ
+Successfully scraped 3 out of 3 Perfumes from the Brand: شيخ
+
+351 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شير
+Successfully scraped 3 out of 3 Perfumes from the Brand: شير
+
+350 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شيروتي 1881
+Successfully scraped 14 out of 13 Perfumes from the Brand: شيروتي 1881
+
+349 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شيري لوكجري سنسرز
+Successfully scraped 2 out of 2 Perfumes from the Brand: شيري لوكجري سنسرز
+
+348 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: شيسيدو
+Successfully scraped 12 out of 9 Perfumes from the Brand: شيسيدو
+
+347 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: صالح القرشي للعطور
+Successfully scraped 6 out of 6 Perfumes from the Brand: صالح القرشي للعطور
+
+346 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: صوفيا فيرغارا
+Successfully scraped 9 out of 9 Perfumes from the Brand: صوفيا فيرغارا
+
+345 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: طيب الأخيار للعود
+Successfully scraped 3 out of 3 Perfumes from the Brand: طيب الأخيار للعود
+
+344 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: طيب الغوالي
+Successfully scraped 4 out of 4 Perfumes from the Brand: طيب الغوالي
+
+343 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عالم الأصيل
+No perfumes found for brand: عالم الأصيل. URL: https://www.goldenscent.com/en/brands/عالم الأصيل.html?action=brands&id=1885
+
+342 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عالم ريحانة
+Successfully scraped 21 out of 21 Perfumes from the Brand: عالم ريحانة
+
+341 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عايشة زيا
+Successfully scraped 6 out of 6 Perfumes from the Brand: عايشة زيا
+
+340 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عبرة
+Successfully scraped 4 out of 4 Perfumes from the Brand: عبرة
+
+339 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عبق
+Successfully scraped 9 out of 9 Perfumes from the Brand: عبق
+
+338 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطار كوليكشن
+Successfully scraped 9 out of 9 Perfumes from the Brand: عطار كوليكشن
+
+337 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطر باش
+Successfully scraped 14 out of 14 Perfumes from the Brand: عطر باش
+
+336 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطر خزّار
+Successfully scraped 26 out of 26 Perfumes from the Brand: عطر خزّار
+
+335 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطرني الورد
+Successfully scraped 10 out of 10 Perfumes from the Brand: عطرني الورد
+
+334 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور أسماء سعد
+Successfully scraped 4 out of 4 Perfumes from the Brand: عطور أسماء سعد
+
+333 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور إيفيان
+Successfully scraped 2 out of 2 Perfumes from the Brand: عطور إيفيان
+
+332 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور ارت
+Successfully scraped 5 out of 5 Perfumes from the Brand: عطور ارت
+
+331 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور المرش
+Successfully scraped 4 out of 169 Perfumes from the Brand: عطور المرش
+
+330 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور اورا
+Successfully scraped 3 out of 3 Perfumes from the Brand: عطور اورا
+
+329 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور بي ان
+Successfully scraped 2 out of 2 Perfumes from the Brand: عطور بي ان
+
+328 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور بيلو
+Successfully scraped 25 out of 25 Perfumes from the Brand: عطور بيلو
+
+327 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور ترون
+Successfully scraped 4 out of 4 Perfumes from the Brand: عطور ترون
+
+326 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور ردفان
+Successfully scraped 3 out of 3 Perfumes from the Brand: عطور ردفان
+
+325 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور عمر
+Successfully scraped 3 out of 3 Perfumes from the Brand: عطور عمر
+
+324 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور غنى
+Successfully scraped 62 out of 62 Perfumes from the Brand: عطور غنى
+
+323 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور فانتسي
+Successfully scraped 8 out of 7 Perfumes from the Brand: عطور فانتسي
+
+322 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور لولوه الصالح
+Successfully scraped 5 out of 5 Perfumes from the Brand: عطور لولوه الصالح
+
+321 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطور ناي
+Successfully scraped 8 out of 8 Perfumes from the Brand: عطور ناي
+
+320 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عطورات  ديم
+Successfully scraped 10 out of 10 Perfumes from the Brand: عطورات  ديم
+
+319 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عليّة
+Successfully scraped 8 out of 7 Perfumes from the Brand: عليّة
+
+318 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عمرو دياب
+Successfully scraped 1 out of 1 Perfumes from the Brand: عمرو دياب
+
+317 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عود بيرنر
+Successfully scraped 4 out of 4 Perfumes from the Brand: عود بيرنر
+
+316 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عود لافر
+Successfully scraped 78 out of 78 Perfumes from the Brand: عود لافر
+
+315 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عودكم
+Successfully scraped 6 out of 6 Perfumes from the Brand: عودكم
+
+314 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: عودمي
+Successfully scraped 9 out of 9 Perfumes from the Brand: عودمي
+
+313 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: غلاتي
+Successfully scraped 32 out of 32 Perfumes from the Brand: غلاتي
+
+312 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: غناتي
+Successfully scraped 37 out of 37 Perfumes from the Brand: غناتي
+
+311 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: غوالي
+Successfully scraped 32 out of 33 Perfumes from the Brand: غوالي
+
+310 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: غورو
+Successfully scraped 11 out of 11 Perfumes from the Brand: غورو
+
+309 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: غيلاري
+Successfully scraped 7 out of 7 Perfumes from the Brand: غيلاري
+
+308 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فابريكا ديلا موسى
+Successfully scraped 6 out of 6 Perfumes from the Brand: فابريكا ديلا موسى
+
+307 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فابيان
+Successfully scraped 29 out of 29 Perfumes from the Brand: فابيان
+
+306 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فابيولا
+Successfully scraped 20 out of 20 Perfumes from the Brand: فابيولا
+
+305 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فاتنه
+Successfully scraped 6 out of 3 Perfumes from the Brand: فاتنه
+
+304 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فاز برفيومز
+Successfully scraped 9 out of 9 Perfumes from the Brand: فاز برفيومز
+
+303 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فالنتينو
+Successfully scraped 42 out of 34 Perfumes from the Brand: فالنتينو
+
+302 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فالور أبسلو
+Successfully scraped 4 out of 3 Perfumes from the Brand: فالور أبسلو
+
+301 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فاليلا
+Successfully scraped 19 out of 19 Perfumes from the Brand: فاليلا
+
+300 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فان كليف اند اربيلس
+Successfully scraped 19 out of 24 Perfumes from the Brand: فان كليف اند اربيلس
+
+299 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فانيلا بلانك
+No perfumes found for brand: فانيلا بلانك. URL: https://www.goldenscent.com/en/brands/فانيلا بلانك.html?action=brands&id=4263
+
+298 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فدوة للعطور
+Successfully scraped 1 out of 1 Perfumes from the Brand: فدوة للعطور
+
+297 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فراجرانس ون
+Successfully scraped 1 out of 3 Perfumes from the Brand: فراجرانس ون
+
+296 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فرانشيسكا بيانكي
+Successfully scraped 4 out of 4 Perfumes from the Brand: فرانشيسكا بيانكي
+
+295 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فرانك أوليفر 
+Successfully scraped 63 out of 59 Perfumes from the Brand: فرانك أوليفر 
+
+294 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فرحة بوتيك
+Successfully scraped 1 out of 1 Perfumes from the Brand: فرحة بوتيك
+
+293 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فرزاتشي
+Successfully scraped 89 out of 76 Perfumes from the Brand: فرزاتشي
+
+292 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فريدريك مال
+Successfully scraped 22 out of 22 Perfumes from the Brand: فريدريك مال
+
+291 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فكرة بلس
+Successfully scraped 4 out of 4 Perfumes from the Brand: فكرة بلس
+
+290 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فلورا
+Successfully scraped 13 out of 13 Perfumes from the Brand: فلورا
+
+289 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فلورايكو
+Successfully scraped 2 out of 2 Perfumes from the Brand: فلورايكو
+
+288 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فلوريان بونتيير
+Successfully scraped 2 out of 4 Perfumes from the Brand: فلوريان بونتيير
+
+287 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فلوريس لندن
+Successfully scraped 25 out of 25 Perfumes from the Brand: فلوريس لندن
+
+286 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فن فير
+Successfully scraped 22 out of 22 Perfumes from the Brand: فن فير
+
+285 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فنتج
+Successfully scraped 6 out of 6 Perfumes from the Brand: فنتج
+
+284 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فندي
+Successfully scraped 18 out of 13 Perfumes from the Brand: فندي
+
+283 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فوح نجد
+Successfully scraped 23 out of 23 Perfumes from the Brand: فوح نجد
+
+282 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فورت أند مانلي
+Successfully scraped 6 out of 6 Perfumes from the Brand: فورت أند مانلي
+
+281 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فورف
+Successfully scraped 1 out of 1 Perfumes from the Brand: فورف
+
+280 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فولارد ليلي
+No perfumes found for brand: فولارد ليلي. URL: https://www.goldenscent.com/en/brands/فولارد ليلي.html?action=brands&id=1804
+
+279 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فولناي
+Successfully scraped 4 out of 6 Perfumes from the Brand: فولناي
+
+278 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فوموس
+Successfully scraped 3 out of 3 Perfumes from the Brand: فوموس
+
+277 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: في كانتو 
+Successfully scraped 22 out of 23 Perfumes from the Brand: في كانتو 
+
+276 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيتالج
+Successfully scraped 2 out of 2 Perfumes from the Brand: فيتالج
+
+275 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيرا وانغ
+Successfully scraped 6 out of 6 Perfumes from the Brand: فيرا وانغ
+
+274 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيراري
+Successfully scraped 23 out of 23 Perfumes from the Brand: فيراري
+
+273 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيربينا
+Successfully scraped 1 out of 1 Perfumes from the Brand: فيربينا
+
+272 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيرتوس
+Successfully scraped 20 out of 20 Perfumes from the Brand: فيرتوس
+
+271 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيري إمبورتانت نوتس
+Successfully scraped 1 out of 12 Perfumes from the Brand: فيري إمبورتانت نوتس
+
+270 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيريرا بوتيك
+Successfully scraped 8 out of 8 Perfumes from the Brand: فيريرا بوتيك
+
+269 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيكتور اند رولف
+Successfully scraped 43 out of 31 Perfumes from the Brand: فيكتور اند رولف
+
+268 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيكتوريا سيكريت
+Successfully scraped 185 out of 170 Perfumes from the Brand: فيكتوريا سيكريت
+
+267 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيكي تيل
+Successfully scraped 1 out of 1 Perfumes from the Brand: فيكي تيل
+
+266 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيلاك
+Successfully scraped 6 out of 6 Perfumes from the Brand: فيلاك
+
+265 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيلفت كولون
+Successfully scraped 12 out of 12 Perfumes from the Brand: فيلفت كولون
+
+264 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيلهلم بارفيوميري
+Successfully scraped 35 out of 19 Perfumes from the Brand: فيلهلم بارفيوميري
+
+263 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيلي أند فيل
+Successfully scraped 7 out of 8 Perfumes from the Brand: فيلي أند فيل
+
+262 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيليب بلين
+Successfully scraped 4 out of 3 Perfumes from the Brand: فيليب بلين
+
+261 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فيلينق
+Successfully scraped 5 out of 5 Perfumes from the Brand: فيلينق
+
+260 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: فينس كوموتو
+Successfully scraped 23 out of 25 Perfumes from the Brand: فينس كوموتو
+
+259 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قاف للعطور
+Successfully scraped 4 out of 4 Perfumes from the Brand: قاف للعطور
+
+258 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قراس للعطور
+Successfully scraped 23 out of 23 Perfumes from the Brand: قراس للعطور
+
+257 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قزاز
+Successfully scraped 1 out of 1 Perfumes from the Brand: قزاز
+
+256 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قسور الطيب
+Successfully scraped 8 out of 8 Perfumes from the Brand: قسور الطيب
+
+255 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قطرة قمر
+Successfully scraped 34 out of 34 Perfumes from the Brand: قطرة قمر
+
+254 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قفو
+Successfully scraped 3 out of 3 Perfumes from the Brand: قفو
+
+253 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قوتشي
+Successfully scraped 89 out of 73 Perfumes from the Brand: قوتشي
+
+252 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: قولدن فلورا
+Successfully scraped 13 out of 13 Perfumes from the Brand: قولدن فلورا
+
+251 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كابري
+Successfully scraped 19 out of 19 Perfumes from the Brand: كابري
+
+250 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كاتي بيري
+Successfully scraped 6 out of 5 Perfumes from the Brand: كاتي بيري
+
+249 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كادو ڤي
+Successfully scraped 2 out of 2 Perfumes from the Brand: كادو ڤي
+
+248 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارتير
+Successfully scraped 104 out of 85 Perfumes from the Brand: كارتير
+
+247 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارفين
+Successfully scraped 36 out of 31 Perfumes from the Brand: كارفين
+
+246 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارل لاغرفيلد
+Successfully scraped 11 out of 7 Perfumes from the Brand: كارل لاغرفيلد
+
+245 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارمن
+Successfully scraped 6 out of 6 Perfumes from the Brand: كارمن
+
+244 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارنر برشلونة
+Successfully scraped 27 out of 27 Perfumes from the Brand: كارنر برشلونة
+
+243 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارولينا هيريرا
+Successfully scraped 42 out of 36 Perfumes from the Brand: كارولينا هيريرا
+
+242 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارون
+Successfully scraped 114 out of 55 Perfumes from the Brand: كارون
+
+241 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كارين لو
+Successfully scraped 25 out of 26 Perfumes from the Brand: كارين لو
+
+240 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كاشريل
+Successfully scraped 29 out of 17 Perfumes from the Brand: كاشريل
+
+239 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كالفن كلاين
+Successfully scraped 146 out of 117 Perfumes from the Brand: كالفن كلاين
+
+238 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كالو
+Successfully scraped 2 out of 6 Perfumes from the Brand: كالو
+
+237 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كاليندا للعطور
+Successfully scraped 5 out of 5 Perfumes from the Brand: كاليندا للعطور
+
+236 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كاميليا
+Successfully scraped 4 out of 4 Perfumes from the Brand: كاميليا
+
+235 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كاندي أديكت
+Successfully scraped 59 out of 65 Perfumes from the Brand: كاندي أديكت
+
+234 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كباء
+Successfully scraped 25 out of 25 Perfumes from the Brand: كباء
+
+233 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كتيلة
+Successfully scraped 2 out of 2 Perfumes from the Brand: كتيلة
+
+232 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كراي بيبيز
+Successfully scraped 6 out of 6 Perfumes from the Brand: كراي بيبيز
+
+231 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريد
+Successfully scraped 75 out of 67 Perfumes from the Brand: كريد
+
+230 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريستل سانت مارتن
+Successfully scraped 1 out of 1 Perfumes from the Brand: كريستل سانت مارتن
+
+229 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريستل هارتز
+No perfumes found for brand: كريستل هارتز. URL: https://www.goldenscent.com/en/brands/كريستل هارتز.html?action=brands&id=1816
+
+228 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريستيان بروفينزانو
+Successfully scraped 17 out of 17 Perfumes from the Brand: كريستيان بروفينزانو
+
+227 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريستيان سيريانو
+Successfully scraped 2 out of 1 Perfumes from the Brand: كريستيان سيريانو
+
+226 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كريستيانو رونالدو
+Successfully scraped 6 out of 6 Perfumes from the Brand: كريستيانو رونالدو
+
+225 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كلايف كريستيان
+Successfully scraped 35 out of 34 Perfumes from the Brand: كلايف كريستيان
+
+224 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كلايف وود
+Successfully scraped 65 out of 65 Perfumes from the Brand: كلايف وود
+
+223 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كلوي
+Successfully scraped 45 out of 32 Perfumes from the Brand: كلوي
+
+222 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كلين ريزيرف
+Successfully scraped 10 out of 10 Perfumes from the Brand: كلين ريزيرف
+
+221 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كلينك
+Successfully scraped 18 out of 13 Perfumes from the Brand: كلينك
+
+220 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كن صافي
+Successfully scraped 2 out of 2 Perfumes from the Brand: كن صافي
+
+219 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كنزو
+Successfully scraped 64 out of 42 Perfumes from the Brand: كنزو
+
+218 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوانتيلون
+Successfully scraped 29 out of 29 Perfumes from the Brand: كوانتيلون
+
+217 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوتش 
+Successfully scraped 43 out of 40 Perfumes from the Brand: كوتش 
+
+216 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كورلوف
+Successfully scraped 33 out of 31 Perfumes from the Brand: كورلوف
+
+215 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوزي
+Successfully scraped 5 out of 5 Perfumes from the Brand: كوزي
+
+214 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوستوم ناشونال
+Successfully scraped 25 out of 23 Perfumes from the Brand: كوستوم ناشونال
+
+213 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوكيشي
+Successfully scraped 3 out of 3 Perfumes from the Brand: كوكيشي
+
+212 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوكيليت
+Successfully scraped 4 out of 4 Perfumes from the Brand: كوكيليت
+
+211 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كول دايمنود
+No perfumes found for brand: كول دايمنود. URL: https://www.goldenscent.com/en/brands/كول دايمنود.html?action=brands&id=709
+
+210 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كولور مي
+Successfully scraped 47 out of 35 Perfumes from the Brand: كولور مي
+
+209 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كوم دي غارسون
+Successfully scraped 3 out of 2 Perfumes from the Brand: كوم دي غارسون
+
+208 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كومبتوار
+Successfully scraped 18 out of 18 Perfumes from the Brand: كومبتوار
+
+207 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كونترو كورينتي إيطاليا
+Successfully scraped 2 out of 2 Perfumes from the Brand: كونترو كورينتي إيطاليا
+
+206 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كيبارد
+Successfully scraped 4 out of 4 Perfumes from the Brand: كيبارد
+
+205 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كيليان
+Successfully scraped 62 out of 61 Perfumes from the Brand: كيليان
+
+204 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كيم كارديشيان
+Successfully scraped 9 out of 8 Perfumes from the Brand: كيم كارديشيان
+
+203 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كيمستري برفيوم
+Successfully scraped 10 out of 10 Perfumes from the Brand: كيمستري برفيوم
+
+202 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كينيث كول
+Successfully scraped 17 out of 17 Perfumes from the Brand: كينيث كول
+
+201 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: كيه آرثر
+Successfully scraped 35 out of 35 Perfumes from the Brand: كيه آرثر
+
+200 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لا بيرلا
+Successfully scraped 13 out of 10 Perfumes from the Brand: لا بيرلا
+
+199 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لا كلوزري دو بارفيومز
+Successfully scraped 5 out of 5 Perfumes from the Brand: لا كلوزري دو بارفيومز
+
+198 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لا مارتينا
+Successfully scraped 8 out of 8 Perfumes from the Brand: لا مارتينا
+
+197 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لا مانوفاكتور
+Successfully scraped 11 out of 12 Perfumes from the Brand: لا مانوفاكتور
+
+196 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لا ميزون أورينتال
+Successfully scraped 22 out of 22 Perfumes from the Brand: لا ميزون أورينتال
+
+195 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لابو
+Successfully scraped 7 out of 8 Perfumes from the Brand: لابو
+
+194 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لابوراتوريو أولفاتيفو
+No perfumes found for brand: لابوراتوريو أولفاتيفو. URL: https://www.goldenscent.com/en/brands/لابوراتوريو أولفاتيفو.html?action=brands&id=3710
+
+193 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاثان
+Successfully scraped 3 out of 3 Perfumes from the Brand: لاثان
+
+192 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لارتيزان بيرفيومر
+Successfully scraped 5 out of 5 Perfumes from the Brand: لارتيزان بيرفيومر
+
+191 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لارك
+Successfully scraped 7 out of 7 Perfumes from the Brand: لارك
+
+190 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاروشيل
+Successfully scraped 4 out of 4 Perfumes from the Brand: لاروشيل
+
+189 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاسيا
+Successfully scraped 3 out of 3 Perfumes from the Brand: لاسيا
+
+188 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لافا
+Successfully scraped 10 out of 10 Perfumes from the Brand: لافا
+
+187 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لافا مومنتس
+Successfully scraped 27 out of 27 Perfumes from the Brand: لافا مومنتس
+
+186 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لافندر
+Successfully scraped 4 out of 4 Perfumes from the Brand: لافندر
+
+185 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاك باريس
+Successfully scraped 1 out of 1 Perfumes from the Brand: لاك باريس
+
+184 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاكوست
+Successfully scraped 80 out of 56 Perfumes from the Brand: لاكوست
+
+183 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاليك 
+Successfully scraped 74 out of 73 Perfumes from the Brand: لاليك 
+
+182 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لامور
+Successfully scraped 9 out of 9 Perfumes from the Brand: لامور
+
+181 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاموري
+Successfully scraped 20 out of 20 Perfumes from the Brand: لاموري
+
+180 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لانفين
+Successfully scraped 35 out of 24 Perfumes from the Brand: لانفين
+
+179 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لانكوم
+Successfully scraped 111 out of 87 Perfumes from the Brand: لانكوم
+
+178 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لاورا مارس
+Successfully scraped 3 out of 3 Perfumes from the Brand: لاورا مارس
+
+177 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لبان برايد
+Successfully scraped 31 out of 31 Perfumes from the Brand: لبان برايد
+
+176 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لطافة
+Successfully scraped 75 out of 75 Perfumes from the Brand: لطافة
+
+175 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لو شامو
+Successfully scraped 1 out of 1 Perfumes from the Brand: لو شامو
+
+174 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لو كير
+Successfully scraped 9 out of 9 Perfumes from the Brand: لو كير
+
+173 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوا
+No perfumes found for brand: لوا. URL: https://www.goldenscent.com/en/brands/لوا.html?action=brands&id=917
+
+172 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوبين 
+Successfully scraped 13 out of 13 Perfumes from the Brand: لوبين 
+
+171 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوتاه
+No perfumes found for brand: لوتاه. URL: https://www.goldenscent.com/en/brands/لوتاه.html?action=brands&id=4389
+
+170 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لورا بياجيوتي
+Successfully scraped 7 out of 5 Perfumes from the Brand: لورا بياجيوتي
+
+169 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لورد ميلانو
+Successfully scraped 13 out of 9 Perfumes from the Brand: لورد ميلانو
+
+168 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوريال باريس
+No perfumes found for brand: لوريال باريس. URL: https://www.goldenscent.com/en/brands/لوريال باريس.html?action=brands&id=1144
+
+167 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوريال بروفيشينال
+No perfumes found for brand: لوريال بروفيشينال. URL: https://www.goldenscent.com/en/brands/لوريال بروفيشينال.html?action=brands&id=686
+
+166 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوريس بارفيوم
+No perfumes found for brand: لوريس بارفيوم. URL: https://www.goldenscent.com/en/brands/لوريس بارفيوم.html?action=brands&id=3833
+
+165 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لورينت مازون
+Successfully scraped 29 out of 29 Perfumes from the Brand: لورينت مازون
+
+164 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لورينزو فيلوريسي
+Successfully scraped 26 out of 29 Perfumes from the Brand: لورينزو فيلوريسي
+
+163 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوسيان فيريرو متري بارفيومير
+Successfully scraped 7 out of 7 Perfumes from the Brand: لوسيان فيريرو متري بارفيومير
+
+162 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوكجري برفيومو
+Successfully scraped 2 out of 2 Perfumes from the Brand: لوكجري برفيومو
+
+161 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوكجورا برفيومز
+Successfully scraped 4 out of 4 Perfumes from the Brand: لوكجورا برفيومز
+
+160 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لولا مود
+Successfully scraped 4 out of 4 Perfumes from the Brand: لولا مود
+
+159 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوليتا لمبيكا
+Successfully scraped 12 out of 12 Perfumes from the Brand: لوليتا لمبيكا
+
+158 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوماني
+Successfully scraped 4 out of 4 Perfumes from the Brand: لوماني
+
+157 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لوماني أيه بي
+Successfully scraped 2 out of 2 Perfumes from the Brand: لوماني أيه بي
+
+156 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لومير
+Successfully scraped 3 out of 3 Perfumes from the Brand: لومير
+
+155 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لومير برفيومز
+Successfully scraped 8 out of 8 Perfumes from the Brand: لومير برفيومز
+
+154 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لون
+Successfully scraped 3 out of 3 Perfumes from the Brand: لون
+
+153 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لويالتي بيرفيوم
+Successfully scraped 6 out of 171 Perfumes from the Brand: لويالتي بيرفيوم
+
+152 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لويس فاريل
+Successfully scraped 5 out of 5 Perfumes from the Brand: لويس فاريل
+
+151 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لويس فيتون
+Successfully scraped 45 out of 31 Perfumes from the Brand: لويس فيتون
+
+150 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لويفي
+Successfully scraped 23 out of 14 Perfumes from the Brand: لويفي
+
+149 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي بارفيوم دو روزين
+Successfully scraped 13 out of 14 Perfumes from the Brand: لي بارفيوم دو روزين
+
+148 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي ديستناسيو
+Successfully scraped 5 out of 5 Perfumes from the Brand: لي ديستناسيو
+
+147 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي روبنسون
+Successfully scraped 2 out of 2 Perfumes from the Brand: لي روبنسون
+
+146 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي كوبر
+Successfully scraped 1 out of 1 Perfumes from the Brand: لي كوبر
+
+145 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي لابو
+Successfully scraped 5 out of 3 Perfumes from the Brand: لي لابو
+
+144 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لي يو بريمورديال
+Successfully scraped 11 out of 11 Perfumes from the Brand: لي يو بريمورديال
+
+143 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليدي غاغا
+Successfully scraped 2 out of 2 Perfumes from the Brand: ليدي غاغا
+
+142 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليز كليبورن
+Successfully scraped 3 out of 3 Perfumes from the Brand: ليز كليبورن
+
+141 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليسم
+Successfully scraped 4 out of 4 Perfumes from the Brand: ليسم
+
+140 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليكويد اماجينيرز
+Successfully scraped 26 out of 20 Perfumes from the Brand: ليكويد اماجينيرز
+
+139 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليل
+Successfully scraped 27 out of 27 Perfumes from the Brand: ليل
+
+138 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليل المجلس
+Successfully scraped 5 out of 5 Perfumes from the Brand: ليل المجلس
+
+137 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لين
+Successfully scraped 7 out of 7 Perfumes from the Brand: لين
+
+136 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: لينغلينغ 
+Successfully scraped 1 out of 1 Perfumes from the Brand: لينغلينغ 
+
+135 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليه بارفيومز دو غراس
+134 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليه سانتور جورموندس
+Successfully scraped 5 out of 5 Perfumes from the Brand: ليه سانتور جورموندس
+
+133 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليو جو
+Successfully scraped 9 out of 5 Perfumes from the Brand: ليو جو
+
+132 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ليوبارد
+Successfully scraped 10 out of 10 Perfumes from the Brand: ليوبارد
+
+131 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مؤثر
+Successfully scraped 3 out of 3 Perfumes from the Brand: مؤثر
+
+130 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماب أوف ذا هيرت
+Successfully scraped 5 out of 5 Perfumes from the Brand: ماب أوف ذا هيرت
+
+129 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماج
+Successfully scraped 2 out of 2 Perfumes from the Brand: ماج
+
+128 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماجدا بيكالي
+Successfully scraped 6 out of 6 Perfumes from the Brand: ماجدا بيكالي
+
+127 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارتن
+Successfully scraped 8 out of 8 Perfumes from the Brand: مارتن
+
+126 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارفل
+Successfully scraped 5 out of 5 Perfumes from the Brand: مارفل
+
+125 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارك بوكستون
+Successfully scraped 5 out of 5 Perfumes from the Brand: مارك بوكستون
+
+124 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارك جاكوبس
+Successfully scraped 35 out of 24 Perfumes from the Brand: مارك جاكوبس
+
+123 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارك جوزيف
+Successfully scraped 3 out of 3 Perfumes from the Brand: مارك جوزيف
+
+122 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماركو سيروسي
+Successfully scraped 10 out of 11 Perfumes from the Brand: ماركو سيروسي
+
+121 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماركوس لوكجري
+Successfully scraped 6 out of 6 Perfumes from the Brand: ماركوس لوكجري
+
+120 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارلي 
+Successfully scraped 69 out of 58 Perfumes from the Brand: مارلي 
+
+119 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماريا كاري
+Successfully scraped 3 out of 3 Perfumes from the Brand: ماريا كاري
+
+118 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماريمبا
+Successfully scraped 22 out of 22 Perfumes from the Brand: ماريمبا
+
+117 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارينا بيكاسو
+Successfully scraped 1 out of 1 Perfumes from the Brand: مارينا بيكاسو
+
+116 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مارينا دو بوربون
+Successfully scraped 29 out of 21 Perfumes from the Brand: مارينا دو بوربون
+
+115 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماس بيوتي
+Successfully scraped 3 out of 3 Perfumes from the Brand: ماس بيوتي
+
+114 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماسك ميلانو
+Successfully scraped 6 out of 6 Perfumes from the Brand: ماسك ميلانو
+
+113 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماكس فاكتور
+No perfumes found for brand: ماكس فاكتور. URL: https://www.goldenscent.com/en/brands/ماكس فاكتور.html?action=brands&id=266
+
+112 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماما نوز بست 
+No perfumes found for brand: ماما نوز بست . URL: https://www.goldenscent.com/en/brands/ماما نوز بست .html?action=brands&id=4559
+
+111 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماندارينا دَك
+Successfully scraped 11 out of 9 Perfumes from the Brand: ماندارينا دَك
+
+110 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مانسيرا
+Successfully scraped 106 out of 89 Perfumes from the Brand: مانسيرا
+
+109 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ماي مود
+Successfully scraped 6 out of 6 Perfumes from the Brand: ماي مود
+
+108 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مايكل كورس
+Successfully scraped 64 out of 41 Perfumes from the Brand: مايكل كورس
+
+107 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مبخرة الإمارات
+No perfumes found for brand: مبخرة الإمارات. URL: https://www.goldenscent.com/en/brands/مبخرة الإمارات.html?action=brands&id=2868
+
+106 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مجموعة فيلفت من دولتشي آند غابانا
+Successfully scraped 2 out of 14 Perfumes from the Brand: مجموعة فيلفت من دولتشي آند غابانا
+
+105 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مجموعة ميس للعطور
+Successfully scraped 3 out of 3 Perfumes from the Brand: مجموعة ميس للعطور
+
+104 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مرسم
+Successfully scraped 3 out of 3 Perfumes from the Brand: مرسم
+
+103 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مرسيديس - بنز
+Successfully scraped 39 out of 28 Perfumes from the Brand: مرسيديس - بنز
+
+102 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مرمردي
+No perfumes found for brand: مرمردي. URL: https://www.goldenscent.com/en/brands/مرمردي.html?action=brands&id=5071
+
+101 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مريم للطيب والعطور
+Successfully scraped 11 out of 11 Perfumes from the Brand: مريم للطيب والعطور
+
+100 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مسك
+Successfully scraped 21 out of 21 Perfumes from the Brand: مسك
+
+99 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مقام
+Successfully scraped 1 out of 6 Perfumes from the Brand: مقام
+
+98 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مميز الطيب
+Successfully scraped 11 out of 11 Perfumes from the Brand: مميز الطيب
+
+97 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مهيار
+Successfully scraped 2 out of 2 Perfumes from the Brand: مهيار
+
+96 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: موبوسين
+Successfully scraped 16 out of 18 Perfumes from the Brand: موبوسين
+
+95 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مود
+Successfully scraped 10 out of 10 Perfumes from the Brand: مود
+
+94 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مورجان
+No perfumes found for brand: مورجان. URL: https://www.goldenscent.com/en/brands/مورجان.html?action=brands&id=1944
+
+93 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: موريسك
+Successfully scraped 25 out of 25 Perfumes from the Brand: موريسك
+
+92 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: موسكينو
+Successfully scraped 43 out of 31 Perfumes from the Brand: موسكينو
+
+91 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: موغلر 
+90 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: موغلر ليس إكسيبشينس
+89 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مولتون براون
+Successfully scraped 16 out of 17 Perfumes from the Brand: مولتون براون
+
+88 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مولينارد
+Successfully scraped 6 out of 6 Perfumes from the Brand: مولينارد
+
+87 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مونت بلانك
+Successfully scraped 55 out of 38 Perfumes from the Brand: مونت بلانك
+
+86 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مونتال
+Successfully scraped 213 out of 167 Perfumes from the Brand: مونتال
+
+85 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مونتانا
+Successfully scraped 8 out of 9 Perfumes from the Brand: مونتانا
+
+84 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مونتغرابا
+Successfully scraped 7 out of 6 Perfumes from the Brand: مونتغرابا
+
+83 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مونكلير
+Successfully scraped 6 out of 4 Perfumes from the Brand: مونكلير
+
+82 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مي سنيور
+Successfully scraped 3 out of 3 Perfumes from the Brand: مي سنيور
+
+81 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميرورجيا
+Successfully scraped 5 out of 5 Perfumes from the Brand: ميرورجيا
+
+80 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميروس
+Successfully scraped 3 out of 3 Perfumes from the Brand: ميروس
+
+79 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميزون تاهيتي
+Successfully scraped 21 out of 21 Perfumes from the Brand: ميزون تاهيتي
+
+78 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميزون ريباتشي
+Successfully scraped 14 out of 7 Perfumes from the Brand: ميزون ريباتشي
+
+77 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميزون فرانسيس كوركدجيان باريس
+Successfully scraped 33 out of 29 Perfumes from the Brand: ميزون فرانسيس كوركدجيان باريس
+
+76 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميزون مارجيلا
+Successfully scraped 16 out of 17 Perfumes from the Brand: ميزون مارجيلا
+
+75 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميزون مايسى
+Successfully scraped 33 out of 34 Perfumes from the Brand: ميزون مايسى
+
+74 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميسوني
+Successfully scraped 7 out of 4 Perfumes from the Brand: ميسوني
+
+73 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميكاليف
+Successfully scraped 22 out of 22 Perfumes from the Brand: ميكاليف
+
+72 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميلتون لويد
+Successfully scraped 6 out of 6 Perfumes from the Brand: ميلتون لويد
+
+71 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميلر هاريس
+Successfully scraped 12 out of 14 Perfumes from the Brand: ميلر هاريس
+
+70 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميمو
+No perfumes found for brand: ميمو. URL: https://www.goldenscent.com/en/brands/ميمو.html?action=brands&id=669
+
+69 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميمو باريس
+Successfully scraped 53 out of 55 Perfumes from the Brand: ميمو باريس
+
+68 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مينديتوروسا
+Successfully scraped 6 out of 6 Perfumes from the Brand: مينديتوروسا
+
+67 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مينيز
+Successfully scraped 11 out of 15 Perfumes from the Brand: مينيز
+
+66 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ميو ميو
+Successfully scraped 17 out of 11 Perfumes from the Brand: ميو ميو
+
+65 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: مِن نيويورك
+Successfully scraped 32 out of 34 Perfumes from the Brand: مِن نيويورك
+
+64 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ناتورانيا
+No perfumes found for brand: ناتورانيا. URL: https://www.goldenscent.com/en/brands/ناتورانيا.html?action=brands&id=3145
+
+63 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نارسيسو رودريغز
+Successfully scraped 69 out of 45 Perfumes from the Brand: نارسيسو رودريغز
+
+62 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ناسوماتو 
+Successfully scraped 11 out of 11 Perfumes from the Brand: ناسوماتو 
+
+61 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ناصر الدايل
+Successfully scraped 30 out of 30 Perfumes from the Brand: ناصر الدايل
+
+60 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نالسي للعطور
+Successfully scraped 2 out of 167 Perfumes from the Brand: نالسي للعطور
+
+59 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نايتولوجي
+Successfully scraped 5 out of 5 Perfumes from the Brand: نايتولوجي
+
+58 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نبراس الطيب
+Successfully scraped 39 out of 39 Perfumes from the Brand: نبراس الطيب
+
+57 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نسمات
+Successfully scraped 4 out of 4 Perfumes from the Brand: نسمات
+
+56 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نسمات الذهبية
+Successfully scraped 6 out of 6 Perfumes from the Brand: نسمات الذهبية
+
+55 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نشق
+Successfully scraped 39 out of 39 Perfumes from the Brand: نشق
+
+54 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نعومي كامبل
+Successfully scraped 2 out of 2 Perfumes from the Brand: نعومي كامبل
+
+53 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نعيم
+Successfully scraped 5 out of 5 Perfumes from the Brand: نعيم
+
+52 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نفدو سبين
+No perfumes found for brand: نفدو سبين. URL: https://www.goldenscent.com/en/brands/نفدو سبين.html?action=brands&id=3479
+
+51 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نقوة العود
+Successfully scraped 23 out of 23 Perfumes from the Brand: نقوة العود
+
+50 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نمبر 4711
+Successfully scraped 28 out of 31 Perfumes from the Brand: نمبر 4711
+
+49 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نمران برفيوم
+Successfully scraped 3 out of 3 Perfumes from the Brand: نمران برفيوم
+
+48 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نوت
+No perfumes found for brand: نوت. URL: https://www.goldenscent.com/en/brands/نوت.html?action=brands&id=413
+
+47 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نوتا نوتا
+Successfully scraped 8 out of 6 Perfumes from the Brand: نوتا نوتا
+
+46 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نوتيكا
+Successfully scraped 5 out of 5 Perfumes from the Brand: نوتيكا
+
+45 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نوريل
+Successfully scraped 3 out of 4 Perfumes from the Brand: نوريل
+
+44 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيشا
+Successfully scraped 14 out of 14 Perfumes from the Brand: نيشا
+
+43 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيشاني
+Successfully scraped 54 out of 45 Perfumes from the Brand: نيشاني
+
+42 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيكوس
+Successfully scraped 2 out of 2 Perfumes from the Brand: نيكوس
+
+41 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيكولاي
+Successfully scraped 56 out of 42 Perfumes from the Brand: نيكولاي
+
+40 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيكيلوديون
+Successfully scraped 1 out of 1 Perfumes from the Brand: نيكيلوديون
+
+39 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نيلا فيرمير
+Successfully scraped 1 out of 1 Perfumes from the Brand: نيلا فيرمير
+
+38 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: نينا ريتشي
+Successfully scraped 12 out of 10 Perfumes from the Brand: نينا ريتشي
+
+37 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هاكيت لندن
+Successfully scraped 10 out of 7 Perfumes from the Brand: هاكيت لندن
+
+36 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هالستون
+Successfully scraped 3 out of 3 Perfumes from the Brand: هالستون
+
+35 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هالوين
+Successfully scraped 6 out of 14 Perfumes from the Brand: هالوين
+
+34 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هامر
+Successfully scraped 1 out of 1 Perfumes from the Brand: هامر
+
+33 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هاوس أوف دان برفيومز
+Successfully scraped 1 out of 1 Perfumes from the Brand: هاوس أوف دان برفيومز
+
+32 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هبوب
+Successfully scraped 11 out of 11 Perfumes from the Brand: هبوب
+
+31 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هجين
+No perfumes found for brand: هجين. URL: https://www.goldenscent.com/en/brands/هجين.html?action=brands&id=5350
+
+30 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هو أمآي
+Successfully scraped 19 out of 19 Perfumes from the Brand: هو أمآي
+
+29 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هوبيجان
+Successfully scraped 3 out of 3 Perfumes from the Brand: هوبيجان
+
+28 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هوليستر
+Successfully scraped 2 out of 1 Perfumes from the Brand: هوليستر
+
+27 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هياري
+Successfully scraped 7 out of 7 Perfumes from the Brand: هياري
+
+26 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هير فيوم
+Successfully scraped 3 out of 3 Perfumes from the Brand: هير فيوم
+
+25 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيرا هير برفيوم
+Successfully scraped 3 out of 2 Perfumes from the Brand: هيرا هير برفيوم
+
+24 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيرف جامبس
+Successfully scraped 9 out of 9 Perfumes from the Brand: هيرف جامبس
+
+23 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيرمس
+Successfully scraped 97 out of 78 Perfumes from the Brand: هيرمس
+
+22 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيرموسو برفيومز
+Successfully scraped 3 out of 3 Perfumes from the Brand: هيرموسو برفيومز
+
+21 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيرميتيكا
+Successfully scraped 25 out of 33 Perfumes from the Brand: هيرميتيكا
+
+20 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيستوار دو بارفيوم
+Successfully scraped 14 out of 14 Perfumes from the Brand: هيستوار دو بارفيوم
+
+19 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيستوري
+Successfully scraped 5 out of 5 Perfumes from the Brand: هيستوري
+
+18 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: هيوجو بوس
+Successfully scraped 86 out of 62 Perfumes from the Brand: هيوجو بوس
+
+17 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: وادي حلفا
+Successfully scraped 10 out of 10 Perfumes from the Brand: وادي حلفا
+
+16 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: واو
+Successfully scraped 6 out of 6 Perfumes from the Brand: واو
+
+15 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: وجاهة
+Successfully scraped 1 out of 166 Perfumes from the Brand: وجاهة
+
+14 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: وديان
+Successfully scraped 6 out of 6 Perfumes from the Brand: وديان
+
+13 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ون دايركشن
+Successfully scraped 3 out of 2 Perfumes from the Brand: ون دايركشن
+
+12 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ون وورد
+Successfully scraped 6 out of 6 Perfumes from the Brand: ون وورد
+
+11 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: وود
+Successfully scraped 7 out of 7 Perfumes from the Brand: وود
+
+10 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: وومن سيكريت
+Successfully scraped 39 out of 30 Perfumes from the Brand: وومن سيكريت
+
+9 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ويتي ايست
+Successfully scraped 2 out of 2 Perfumes from the Brand: ويتي ايست
+
+8 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ويلتون لندن
+Successfully scraped 7 out of 8 Perfumes from the Brand: ويلتون لندن
+
+7 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ياسانيا
+Successfully scraped 6 out of 6 Perfumes from the Brand: ياسانيا
+
+6 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يمي بيبي
+Successfully scraped 12 out of 9 Perfumes from the Brand: يمي بيبي
+
+5 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: ينتمي
+No perfumes found for brand: ينتمي. URL: https://www.goldenscent.com/en/brands/ينتمي.html?action=brands&id=1998
+
+4 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يوتوبي
+Successfully scraped 8 out of 11 Perfumes from the Brand: يوتوبي
+
+3 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يونايتد كالارز أوف بينيتون
+Successfully scraped 12 out of 12 Perfumes from the Brand: يونايتد كالارز أوف بينيتون
+
+2 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يونيك سنت
+Successfully scraped 7 out of 7 Perfumes from the Brand: يونيك سنت
+
+1 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يونيك لوكجري
+Successfully scraped 14 out of 14 Perfumes from the Brand: يونيك لوكجري
+
+0 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: يونيك لوكجري
+Successfully scraped 9 out of 9 Perfumes from the Brand: يونيك لوكجري
+
+
+
+Scraper Total Scraped Perfumed Details: 17707
+Scraper Total Duplicates Perfumed Found: 2014
+Scraper started from 26-06-2024 11:47:40
+Scraper Stopped at 26-06-2024 12:08:51

@@ -1,0 +1,43 @@
+Scrape For Sale, Sold and Rent Properties from https://www.homes.com/
+
+Create 3 separate spiders for each above types under one single project. 
+
+Search the Zip code from the zip_codes.csv file.
+
+
+Choose these properties types only:
+1- House
+2- Townhouse
+3- Condo
+4- Manufactured
+
+
+
+
+Fields to scrape:
+Address
+Street
+City
+State
+Zipcode
+Latitude ==not
+Longitude== not
+Beds
+Baths
+Sqft
+Lot
+Property_Type
+Property_Style ==not
+Price
+Annual_Tax
+MLS
+Year_Built
+Agent_Name
+Broker_Name
+Agent_Phone
+Agent_Email
+Primary_Image
+Other_Images
+Availability_Date (For Rent properties)
+Sold_Date  (For sold properties)
+URL

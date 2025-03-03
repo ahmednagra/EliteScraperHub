@@ -1,0 +1,3 @@
+python main.py
+python revenue_calculator_multithread.py
+pause

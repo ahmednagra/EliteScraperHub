@@ -1,0 +1,10 @@
+Build a Scraper for https://www.hyundaioempartsdirect.com/ based on the following requirements:
+
+We need to extract some OEM parts and accessories data and package it into CSV files. 
+I have a few OEM websites that have reliable data and we will need the following details across a couple of data files, organised by column.
+
+The first spreadsheet will be parts data and the must-have columns are: “Brand” (text only), “SKU”, “Part Number”, “Product Title”, “Category”, “Position” and “Image Link”. 
+
+I'd also like to have the following included as well, where possible: “Description” (if no description is available, use the product title), “Length” (mm), “Height”, “Width” (mm) and “Weight” (g).
+
+We also need a second spreadsheet with fitment data to include the following columns: “SKU”, “Brand”, “Year”, “Make”, “Model”, “Body & Trim” and “Engine & Transmission”.

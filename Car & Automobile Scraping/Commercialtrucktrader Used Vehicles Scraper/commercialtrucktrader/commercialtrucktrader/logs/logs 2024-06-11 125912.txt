@@ -1,0 +1,31 @@
+Script Started at "11-06-2024 12:59:12"
+
+Year Ranges 1902: 1903 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1900: 1901 has Total Vehicles 9 and Total Pages 1
+Year Ranges 1903: 1904 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1904: 1905 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1905: 1906 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1906: 1907 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1901: 1902 has Total Vehicles 2 and Total Pages 1
+Year Ranges 1907: 1908 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1909: 1910 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1910: 1911 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1911: 1912 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1912: 1913 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1913: 1914 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1915: 1916 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1908: 1909 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1916: 1917 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1918: 1919 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1914: 1915 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1917: 1918 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1919: 1920 has Total Vehicles 1 and Total Pages 1
+Year Ranges 1920: 1921 has Total Vehicles 1 and Total Pages 1
+Year Ranges 1921: 1922 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1924: 1925 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1922: 1923 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1925: 1926 has Total Vehicles 1 and Total Pages 1
+Year Ranges 1923: 1924 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1928: 1929 has Total Vehicles 1 and Total Pages 1
+Year Ranges 1929: 1930 has Total Vehicles 0 and Total Pages 0
+Year Ranges 1927: 1928 has Total Vehicles 1 and Total Pages 1

@@ -1,0 +1,7 @@
+Script Started at "11-12-2024 15:30:01"
+
+Key word: 1099 contractor jobs, Total jobs: 100, URL: https://www.indeed.com/jobs?q=1099%20contractor%20jobs&l=Alaska&sc=0kf:jt(contract);&filter=0
+Key word: 1099 contractor jobs, Total jobs: 600, URL: https://www.indeed.com/jobs?q=1099%20contractor%20jobs&l=Alabama&sc=0kf:jt(contract);&filter=0
+Total Jobs Scraped : 0
+Spider Started at: 2024-12-11 153001
+Spider Stopped at: 2024-12-11 153022

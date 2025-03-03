@@ -1,0 +1,8 @@
+Spider "new_cars" Started at "2024-07-24 120316"
+
+No previous output file found
+Total "426" Cars scraped for spider "new_cars"
+Spider "new_cars" was started at "2024-07-24 120316"
+Spider "new_cars" closed at "2024-07-24 120356"
+
+

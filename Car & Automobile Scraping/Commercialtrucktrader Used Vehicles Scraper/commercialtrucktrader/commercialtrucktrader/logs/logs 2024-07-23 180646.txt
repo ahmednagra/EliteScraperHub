@@ -1,0 +1,11 @@
+Script Started at "23-07-2024 18:06:46"
+
+Year Ranges 2022: 2023 has Total Vehicles 10000 and Total Pages 264
+Year Ranges 2023: 2024 has Total Vehicles 7910 and Total Pages 209
+
+
+
+Vehicles are found: "17910" , Used vehicle are scraped "76" for spider "year_wise_used_vehicles"
+
+Spider "year_wise_used_vehicles" was started at "2024-07-23 180646"
+Spider "year_wise_used_vehicles" closed at "2024-07-23 180933"

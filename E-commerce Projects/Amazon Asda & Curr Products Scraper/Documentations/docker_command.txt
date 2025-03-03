@@ -1,0 +1,6 @@
+#docker build -t currys_scraper .
+releatd folder open kr k jha pe Dockerfile hai waha pe ye command runy krny curry_scrper name ki image create ho ge docker desktop pe
+
+
+#docker run asda_groceries_scraper
+surn the asda_groceries_scraper image

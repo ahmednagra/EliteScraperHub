@@ -1,0 +1,24 @@
+Category: `Beer` 
+Products on Web: 163  
+Products Scraped:163
+
+Category: `Cider` 
+Products on Web: 3 
+Products Scraped:3
+
+Category: `Spirits & RTD's` 
+Products on Web: 9 
+Products Scraped:9
+
+Category: `Non Alcoholic` 
+Products on Web: 5 
+Products Scraped:5
+
+Category: `Wine` 
+Products on Web: 11 
+Products Scraped:11
+
+Category: `Deals` 
+Products on Web: 24 
+Products Scraped:24
+

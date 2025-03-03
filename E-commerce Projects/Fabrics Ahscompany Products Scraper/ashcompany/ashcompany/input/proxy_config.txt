@@ -1,0 +1,4 @@
+Domain_name==p.webshare.io
+Proxy_port==80
+User_name==thbqkbcn-rotate
+Password==zskzs4v2ihld

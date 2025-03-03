@@ -1,0 +1,1 @@
+web: gunicorn rightmove_project.wsgi --log-file -

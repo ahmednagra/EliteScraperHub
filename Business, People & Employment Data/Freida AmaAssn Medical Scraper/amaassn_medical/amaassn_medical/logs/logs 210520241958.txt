@@ -1,0 +1,33 @@
+Spider "amaassn" Started at "210520241958"
+
+ User information : {'id': 'usrokZnv4AGZxvfI7', 'email': 'ahmednagra9@gmail.com'}
+Base Name: Base Freida Records Has these Tables: {'Program List': 'tblSOvtIeDthmhBjB', 'Overview': 'tblf5pFphFMtDFGRI', 'ProgramWorkSchedule': 'tbln2cQ28EmABNMRK', 'FeaturesBenefits': 'tbl5Tod3urLCc7Dn8'}
+
+25 Previous records found for the table : Program List 
+Inserting 154 records in the Table: Program List
+
+25 Previous records found for the table : Overview 
+Inserting 154 records in the Table: Overview
+
+25 Previous records found for the table : ProgramWorkSchedule 
+Inserting 154 records in the Table: ProgramWorkSchedule
+
+25 Previous records found for the table : FeaturesBenefits 
+Inserting 154 records in the Table: FeaturesBenefits
+All Records Uploaded Successfully
+
+
+Spider "amaassn" was started at "210520241958"
+Spider "amaassn" closed at "210520242006"
+
+
+Spider "amaassn" Records Founded at Website for Programs List Table : "179"
+Spider "amaassn" Records Founded at Website for Overview records are : "179"
+Spider "amaassn" Records Founded at Website for Program work Schedule Table : "179"
+Spider "amaassn" Records Founded at Website for Features and Benefits Table : "179"
+
+
+Spider Error:: 
+
+
+

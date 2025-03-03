@@ -1,0 +1,3 @@
+Extract the Product Names and the Prices from the pdf file as one given sample file. 
+
+Then search those product names into https://www.chemistwarehouse.com.au/prescriptions , compare the name with price you searched and get the SKU and URL

@@ -1,0 +1,27 @@
+PARAMS: {'q': 'cricket', 'lang': 'en'}
+PARAMS: {'q': 'cricket', 'lang': 'en'}
+PARAMS: {'q': 'cricket', 'lang': 'en'}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {'q': 'cricket', 'lang': 'en'}
+PARAMS: {}
+PARAMS: {'q': 'cricket', 'lang': 'en'}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {'screen_name': 'TwitterUsername', 'count': '5'}
+PARAMS: {'screen_name': 'TwitterUsername', 'count': '5'}
+PARAMS: {}
+PARAMS: {'screen_name': 'TwitterUsername', 'count': '5'}
+PARAMS: {}
+PARAMS: {'q': 'cricket', 'tweet_mode': 'extended'}
+PARAMS: {'q': 'cricket', 'tweet_mode': 'extended', 'count': '10'}
+PARAMS: {}
+PARAMS: {'q': 'cricket', 'count': '150'}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {}
+PARAMS: {'user_id': 'nagra50@yahoo.com', 'screen_name': 'muhammad ahmed'}
+PARAMS: {}
+PARAMS: {'q': 'cricket', 'lang': 'en', 'count': '10', 'tweet_mode': 'extended'}

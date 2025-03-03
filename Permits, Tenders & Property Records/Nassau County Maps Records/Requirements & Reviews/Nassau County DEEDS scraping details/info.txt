@@ -1,0 +1,11 @@
+For DEEDs scraping, 
+I want to be able to do a single or multiple rang section search from a script and have it dump the output into a folder that has the same name as the section searched. 
+For example if I'm searching section 10 block 10 lot 5. The output in a folder that's called N-10-10-5 with each deed it puls in there with its name at the same N-10-10-5 - filed date. 
+
+I often have to pull the neighboring deeds too. So it would be nice to be able to input, pull section 10, block 10, lots 5, 6, 7, 8 etc... and have it put the results in a deed folder for each lot. 
+
+Take a look though when searching a deed it will also pull mortgages and other filings. Typically I'm just interested in the deeds.
+
+They annoying part about this system is that you don't know what type of record it is until you click it. Then it populate the record type on the right side
+
+

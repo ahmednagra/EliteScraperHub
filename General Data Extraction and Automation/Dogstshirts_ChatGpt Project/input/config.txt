@@ -1,0 +1,15 @@
+url==https://dogstshirts.com/
+user_name==MateefyShopsUS
+password==CHahdoElinoChourouka16!!@@
+consumer_key==ck_befebb03e06b228092deba6b1ed59288328102fd
+consumer_secret==cs_cb663c0a481f3efc59e12c3b7067d44b3d92359d
+chatGPT_login_username==dogtshirt
+chatGPT_login_key==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
+chatGPT==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
+focus_keyword==Birthday T-shirt
+designs_path==input/designs
+product_id_to_duplicate==9327
+category== J.J
+sub_category == J.J Jeans
+
+category_description == its boy category

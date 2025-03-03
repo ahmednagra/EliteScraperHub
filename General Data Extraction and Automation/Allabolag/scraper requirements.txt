@@ -1,0 +1,7 @@
+
+website https://www.allabolag.se/branscher to scrape companies for the section "Bank, Finans & Försäkring (42 478)"
+The fields to scrape for each company in Excel will include:
+Company name
+Address
+Significant Person
+Omsättning

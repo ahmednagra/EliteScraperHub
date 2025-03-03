@@ -1,0 +1,4 @@
+There are total 70+ makes in Autotrader.com website
+To scrape all of them in one spider will take more time, so we are dividing them to process in 2 spiders autotrader1 and autotrader2
+
+This project will run through the main.py file to run both the spiders simultaneously

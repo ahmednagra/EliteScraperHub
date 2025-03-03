@@ -1,0 +1,12 @@
+Script Started at "26-06-2024 12:22:43"
+
+891 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Aj Algazal
+Successfully scraped 18 out of 18 Perfumes from the Brand: Aj Algazal
+
+890 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: El Ganso
+Successfully scraped 14 out of 12 Perfumes from the Brand: El Ganso
+
+889 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Emirates Pride

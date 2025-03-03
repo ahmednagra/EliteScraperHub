@@ -1,0 +1,128 @@
+Spider "new_hyundai_oem" Started at "02052024134603"
+
+
+Category: Air Filters found total Product :74
+
+Total 74/ 74 items scraped from Category: Air Filters
+
+
+Category: Body found total Product :72
+
+Total 72/ 72 items scraped from Category: Body
+
+
+Category: Bumpers found total Product :72
+
+Total 72/ 72 items scraped from Category: Bumpers
+
+
+Category: Brakes found total Product :74
+
+Total 74/ 74 items scraped from Category: Brakes
+
+
+Category: Engine Parts found total Product :75
+
+Total 75/ 75 items scraped from Category: Engine Parts
+
+
+Category: Ignition found total Product :75
+
+Total 75/ 75 items scraped from Category: Ignition
+
+
+Category: Induction Components found total Product :75
+
+Total 75/ 75 items scraped from Category: Induction Components
+
+
+Category: Lighting found total Product :75
+
+Total 75/ 75 items scraped from Category: Lighting
+
+
+Category: Mirror Parts found total Product :74
+
+Total 74/ 74 items scraped from Category: Mirror Parts
+
+
+Category: Oil Filters found total Product :72
+
+Total 72/ 72 items scraped from Category: Oil Filters
+
+
+Category: Radiator & Cooling found total Product :75
+
+Total 75/ 75 items scraped from Category: Radiator & Cooling
+
+
+Category: Shocks & Struts found total Product :75
+
+Total 75/ 75 items scraped from Category: Shocks & Struts
+
+
+Category: Wheels & Rims found total Product :74
+
+Total 74/ 74 items scraped from Category: Wheels & Rims
+
+
+Category: Wiper Blades found total Product :72
+
+Total 72/ 72 items scraped from Category: Wiper Blades
+
+
+Category: Car Covers found total Product :2
+
+Total 2/ 2 items scraped from Category: Car Covers
+
+
+Category: Cargo Organizers found total Product :67
+
+Total 67/ 67 items scraped from Category: Cargo Organizers
+
+
+Category: Cargo Trays found total Product :66
+
+Total 66/ 66 items scraped from Category: Cargo Trays
+
+
+Category: Exterior Accessories found total Product :68
+
+Total 68/ 68 items scraped from Category: Exterior Accessories
+
+
+Category: Floor Mats found total Product :63
+
+Total 63/ 63 items scraped from Category: Floor Mats
+
+
+Category: Interior Accessories found total Product :71
+
+Total 71/ 71 items scraped from Category: Interior Accessories
+
+
+Category: Mud Guards found total Product :71
+
+Total 71/ 71 items scraped from Category: Mud Guards
+
+
+Category: Roof Racks found total Product :73
+
+Total 73/ 73 items scraped from Category: Roof Racks
+
+
+Category: Wheel Accessories found total Product :75
+
+Total 75/ 75 items scraped from Category: Wheel Accessories
+
+
+Spider "new_hyundai_oem" was started at "02052024134603"
+Spider "new_hyundai_oem" closed at "2024-05-02 134738"
+
+Spider "new_hyundai_oem" Scraped Total Products are : "1590"
+
+
+Spider Error:: 
+
+
+

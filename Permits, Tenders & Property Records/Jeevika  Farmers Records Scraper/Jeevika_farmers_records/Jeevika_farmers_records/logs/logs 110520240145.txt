@@ -1,0 +1,951 @@
+Spider "farmers_records" Started at "110520240145"
+
+District BANKA , Sub District Name: Amarpur Has Total Records : 0
+District BANKA , Sub District Name: Banka Has Total Records : 0
+District BANKA , Sub District Name: Barahat Has Total Records : 0
+District BANKA , Sub District Name: Bausi Has Total Records : 0
+District BANKA , Sub District Name: Belhar Has Total Records : 0
+District BANKA , Sub District Name: Chanan Has Total Records : 0
+District BANKA , Sub District Name: Dhuraiya Has Total Records : 0
+District BANKA , Sub District Name: Katoria Has Total Records : 0
+District BANKA , Sub District Name: Phulidumar Has Total Records : 0
+District BANKA , Sub District Name: Rajaun Has Total Records : 0
+District BANKA , Sub District Name: Shambhuganj Has Total Records : 0
+District ARARIA , Sub District Name: Bhargama Has Total Records : 0
+District ARARIA , Sub District Name: Forbesganj Has Total Records : 0
+District ARARIA , Sub District Name: Jokihat Has Total Records : 0
+District ARARIA , Sub District Name: Kursakatta Has Total Records : 0
+District ARARIA , Sub District Name: Narpatganj Has Total Records : 0
+District ARARIA , Sub District Name: Palasi Has Total Records : 0
+District ARARIA , Sub District Name: Raniganj Has Total Records : 0
+District ARARIA , Sub District Name: Sikti Has Total Records : 0
+District VAISHALI , Sub District Name: Bhagwanpur Has Total Records : 0
+District VAISHALI , Sub District Name: Bidupur Has Total Records : 0
+District VAISHALI , Sub District Name: Desri Has Total Records : 0
+District VAISHALI , Sub District Name: Goraul Has Total Records : 0
+District VAISHALI , Sub District Name: Hajipur Has Total Records : 0
+District VAISHALI , Sub District Name: Jandaha Has Total Records : 0
+District VAISHALI , Sub District Name: Lalganj Has Total Records : 0
+District VAISHALI , Sub District Name: Mahnar Has Total Records : 0
+District VAISHALI , Sub District Name: Mahua Has Total Records : 0
+District VAISHALI , Sub District Name: Patepur Has Total Records : 0
+District VAISHALI , Sub District Name: Raghopur Has Total Records : 0
+District VAISHALI , Sub District Name: Raja Pakar Has Total Records : 0
+District VAISHALI , Sub District Name: Sahdai Buzurg Has Total Records : 0
+District VAISHALI , Sub District Name: Vaishali Has Total Records : 0
+District SUPAUL , Sub District Name: Basantpur Has Total Records : 0
+District SUPAUL , Sub District Name: Kishanpur Has Total Records : 0
+District SUPAUL , Sub District Name: Marauna Has Total Records : 0
+District SUPAUL , Sub District Name: Nirmali Has Total Records : 0
+District SUPAUL , Sub District Name: Pratapganj Has Total Records : 0
+District SUPAUL , Sub District Name: Raghopur Has Total Records : 0
+District SUPAUL , Sub District Name: Supaul Has Total Records : 0
+District SUPAUL , Sub District Name: Tribeniganj Has Total Records : 0
+District SIWAN , Sub District Name: Andar Has Total Records : 0
+District SIWAN , Sub District Name: Barharia Has Total Records : 0
+District SIWAN , Sub District Name: Basantpur Has Total Records : 0
+District SIWAN , Sub District Name: Darauli Has Total Records : 0
+District SIWAN , Sub District Name: Daraundha Has Total Records : 0
+District SIWAN , Sub District Name: Goriakothi Has Total Records : 0
+District SIWAN , Sub District Name: Guthani Has Total Records : 0
+District SIWAN , Sub District Name: Hasanpura Has Total Records : 0
+District SIWAN , Sub District Name: Hussainganj Has Total Records : 0
+District SIWAN , Sub District Name: Lakri Nabiganj Has Total Records : 0
+District SIWAN , Sub District Name: Maharajganj Has Total Records : 0
+District SIWAN , Sub District Name: Mairwa Has Total Records : 0
+District SIWAN , Sub District Name: Nautan Has Total Records : 0
+District SIWAN , Sub District Name: Pachrukhi Has Total Records : 0
+District SIWAN , Sub District Name: Siswan Has Total Records : 0
+District SIWAN , Sub District Name: Siwan Has Total Records : 0
+District SIWAN , Sub District Name: Ziradei Has Total Records : 0
+District SITAMARHI , Sub District Name: Bairgania Has Total Records : 0
+District SITAMARHI , Sub District Name: Bajpatti Has Total Records : 0
+District SITAMARHI , Sub District Name: Bathnaha Has Total Records : 0
+District SITAMARHI , Sub District Name: Belsand Has Total Records : 0
+District SITAMARHI , Sub District Name: Bokhara Has Total Records : 0
+District SITAMARHI , Sub District Name: Charaut Has Total Records : 0
+District SITAMARHI , Sub District Name: Dumra Has Total Records : 0
+District SITAMARHI , Sub District Name: Majorganj Has Total Records : 0
+District SITAMARHI , Sub District Name: Nanpur Has Total Records : 0
+District SITAMARHI , Sub District Name: Parihar Has Total Records : 0
+District SITAMARHI , Sub District Name: Parsauni Has Total Records : 0
+District SITAMARHI , Sub District Name: Pupri Has Total Records : 0
+District SITAMARHI , Sub District Name: Riga Has Total Records : 0
+District SITAMARHI , Sub District Name: Runisaidpur Has Total Records : 0
+District SITAMARHI , Sub District Name: Sonbarsa Has Total Records : 0
+District SITAMARHI , Sub District Name: Suppi Has Total Records : 0
+District SITAMARHI , Sub District Name: Sursand Has Total Records : 0
+District SHEOHAR , Sub District Name: Dumri Katsari Has Total Records : 0
+District SHEOHAR , Sub District Name: Piprarhi Has Total Records : 0
+District SHEOHAR , Sub District Name: Sheohar Has Total Records : 0
+District SHEOHAR , Sub District Name: Tariani Chowk Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Ariari Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Barbigha Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Chewara Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Ghat Kusumbha Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Sheikhpura Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Shekhopur Sarai Has Total Records : 0
+District SARAN , Sub District Name: Amnour Has Total Records : 0
+District SARAN , Sub District Name: Baniapur Has Total Records : 0
+District SARAN , Sub District Name: Chapra Has Total Records : 0
+District SARAN , Sub District Name: Dariapur Has Total Records : 0
+District SARAN , Sub District Name: Dighwara Has Total Records : 0
+District SARAN , Sub District Name: Ekma Has Total Records : 0
+District SARAN , Sub District Name: Garkha Has Total Records : 0
+District SARAN , Sub District Name: Ishupur Has Total Records : 0
+District SARAN , Sub District Name: Lahladpur Has Total Records : 0
+District SARAN , Sub District Name: Maker Has Total Records : 0
+District SARAN , Sub District Name: Manjhi Has Total Records : 0
+District SARAN , Sub District Name: Marhaura Has Total Records : 0
+District SARAN , Sub District Name: Mashrakh Has Total Records : 0
+District SARAN , Sub District Name: Nagra Has Total Records : 0
+District SARAN , Sub District Name: Panapur Has Total Records : 0
+District SARAN , Sub District Name: Parsa Has Total Records : 0
+District SARAN , Sub District Name: Revelganj Has Total Records : 0
+District SARAN , Sub District Name: Sonepur Has Total Records : 0
+District SARAN , Sub District Name: Taraiya Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Dalsinghsarai Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Hasanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Khanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Mohanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Mohiuddinagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Morwa Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Patori Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Pusa Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Rosera Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Samastipur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Sarairanjan Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Shivaji Nagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Singhia Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Tajpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Ujiarpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Vidyapati Nagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Warisnagar Has Total Records : 0
+District SAHARSA , Sub District Name: Banma Itahri Has Total Records : 0
+District SAHARSA , Sub District Name: Kahara Has Total Records : 0
+District SAHARSA , Sub District Name: Mahishi Has Total Records : 0
+District SAHARSA , Sub District Name: Nauhatta Has Total Records : 0
+District SAHARSA , Sub District Name: Patarghat Has Total Records : 0
+District SAHARSA , Sub District Name: Salkhua Has Total Records : 0
+District SAHARSA , Sub District Name: Saur Bazar Has Total Records : 0
+District SAHARSA , Sub District Name: Simri Bakhtiarpur Has Total Records : 0
+District SAHARSA , Sub District Name: Sonbarsa Has Total Records : 0
+District SAHARSA , Sub District Name: null Has Total Records : 0
+District ROHTAS , Sub District Name: Akorhi Gola Has Total Records : 0
+District ROHTAS , Sub District Name: Bikramganj Has Total Records : 0
+District ROHTAS , Sub District Name: Chenari Has Total Records : 0
+District ROHTAS , Sub District Name: Dawath Has Total Records : 0
+District ROHTAS , Sub District Name: Dinara Has Total Records : 0
+District ROHTAS , Sub District Name: Karakat Has Total Records : 0
+District ROHTAS , Sub District Name: Kargahar Has Total Records : 0
+District ROHTAS , Sub District Name: Kochas Has Total Records : 0
+District ROHTAS , Sub District Name: Nasriganj Has Total Records : 0
+District ROHTAS , Sub District Name: Nokha Has Total Records : 0
+District ROHTAS , Sub District Name: Rajpur Has Total Records : 0
+District ROHTAS , Sub District Name: Rohtas Has Total Records : 0
+District ROHTAS , Sub District Name: Sanjhauli Has Total Records : 0
+District ROHTAS , Sub District Name: Sasaram Has Total Records : 0
+District ROHTAS , Sub District Name: Sheosagar Has Total Records : 0
+District ROHTAS , Sub District Name: Suryapura Has Total Records : 0
+District ROHTAS , Sub District Name: Tilouthu Has Total Records : 0
+District PURNIA , Sub District Name: Amour Has Total Records : 0
+District PURNIA , Sub District Name: Baisa Has Total Records : 0
+District PURNIA , Sub District Name: Baisi Has Total Records : 0
+District PURNIA , Sub District Name: Banmankhi Has Total Records : 0
+District PURNIA , Sub District Name: Barhara Has Total Records : 0
+District PURNIA , Sub District Name: Bhawanipur Has Total Records : 0
+District PURNIA , Sub District Name: Dagarua Has Total Records : 0
+District PURNIA , Sub District Name: Dhamdaha Has Total Records : 0
+District PURNIA , Sub District Name: Jalalgarh Has Total Records : 0
+District PURNIA , Sub District Name: Kasba Has Total Records : 0
+District PURNIA , Sub District Name: Krityanand Nagar Has Total Records : 0
+District PURNIA , Sub District Name: Purnia East Has Total Records : 0
+District PURNIA , Sub District Name: Srinagar Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Adapur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Areraj Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Bankatwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Chakia(Pipra) Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Chhauradano(Narkatia) Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Dhaka Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Ghorasahan Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Harsidhi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kalyanpur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kesaria Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kotwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Madhuban Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Mehsi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Paharpur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Pakri Dayal Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Patahi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Phenhara Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Piprakothi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Ramgarhwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Raxaul Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Sugauli Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Tetaria Has Total Records : 0
+District PATNA , Sub District Name: Athmalgola Has Total Records : 0
+District PATNA , Sub District Name: Bakhtiarpur Has Total Records : 0
+District PATNA , Sub District Name: Barh Has Total Records : 0
+District PATNA , Sub District Name: Belchhi Has Total Records : 0
+District PATNA , Sub District Name: Bihta Has Total Records : 0
+District PATNA , Sub District Name: Bikram Has Total Records : 0
+District PATNA , Sub District Name: Daniawan  Has Total Records : 0
+District PATNA , Sub District Name: Dhanarua Has Total Records : 0
+District PATNA , Sub District Name: Dinapur-Cum- Has Total Records : 0
+District PATNA , Sub District Name: Dulhin Bazar Has Total Records : 0
+District PATNA , Sub District Name: Fatwah Has Total Records : 0
+District PATNA , Sub District Name: Ghoswari Has Total Records : 0
+District PATNA , Sub District Name: Khusrupur Has Total Records : 0
+District PATNA , Sub District Name: Masaurhi  Has Total Records : 0
+District PATNA , Sub District Name: Mokameh Has Total Records : 0
+District PATNA , Sub District Name: Naubatpur Has Total Records : 0
+District PATNA , Sub District Name: Pandarak Has Total Records : 0
+District PATNA , Sub District Name: Patna Rural  Has Total Records : 0
+District PATNA , Sub District Name: Phulwari Has Total Records : 0
+District PATNA , Sub District Name: Punpun Has Total Records : 0
+District PATNA , Sub District Name: Sampatchak Has Total Records : 0
+District NAWADA , Sub District Name: Akbarpur Has Total Records : 0
+District NAWADA , Sub District Name: Gobindpur Has Total Records : 0
+District NAWADA , Sub District Name: Hisua Has Total Records : 0
+District NAWADA , Sub District Name: Kashi Chak Has Total Records : 0
+District NAWADA , Sub District Name: Kawakol Has Total Records : 0
+District NAWADA , Sub District Name: Meskaur Has Total Records : 0
+District NAWADA , Sub District Name: Nardiganj Has Total Records : 0
+District NAWADA , Sub District Name: Narhat Has Total Records : 0
+District NAWADA , Sub District Name: Nawada Has Total Records : 0
+District NAWADA , Sub District Name: Pakribarawan Has Total Records : 0
+District NAWADA , Sub District Name: Roh Has Total Records : 0
+District NAWADA , Sub District Name: Warisaliganj Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bagaha Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bairia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bettiah Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bhitaha Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Chanpatia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Gaunaha Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Jogapatti Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Lauriya Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Madhubani Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Mainatanr Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Majhaulia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Narkatiaganj Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Nautan Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Piprasi Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Ramnagar Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Sidhaw Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Sikta Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Thakrahan Has Total Records : 0
+District NALANDA , Sub District Name: Asthawan  Has Total Records : 0
+District NALANDA , Sub District Name: Ben Has Total Records : 0
+District NALANDA , Sub District Name: Bihar Has Total Records : 0
+District NALANDA , Sub District Name: Bind Has Total Records : 0
+District NALANDA , Sub District Name: Chandi Has Total Records : 0
+District NALANDA , Sub District Name: Ekangarsarai Has Total Records : 0
+District NALANDA , Sub District Name: Giriak Has Total Records : 0
+District NALANDA , Sub District Name: Harnaut Has Total Records : 0
+District NALANDA , Sub District Name: Hilsa Has Total Records : 0
+District NALANDA , Sub District Name: Islampur Has Total Records : 0
+District NALANDA , Sub District Name: Karai Parsurai Has Total Records : 0
+District NALANDA , Sub District Name: Katrisarai Has Total Records : 0
+District NALANDA , Sub District Name: Nagar Nausa Has Total Records : 0
+District NALANDA , Sub District Name: Noorsarai Has Total Records : 0
+District NALANDA , Sub District Name: Parbalpur Has Total Records : 0
+District NALANDA , Sub District Name: Rahui Has Total Records : 0
+District NALANDA , Sub District Name: Rajgir Has Total Records : 0
+District NALANDA , Sub District Name: Sarmera Has Total Records : 0
+District NALANDA , Sub District Name: Silao Has Total Records : 0
+District NALANDA , Sub District Name: Tharthari  Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Aurai Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Bandra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Bochaha Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Dholi (Moraul) Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Gaighat Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Kanti Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Katra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Marwan Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Minapur Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Musahri Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Paroo Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Sahebganj Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Sakra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Saraiya Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: null Has Total Records : 0
+District MUNGER , Sub District Name: Asarganj Has Total Records : 0
+District MUNGER , Sub District Name: Bariarpur Has Total Records : 0
+District MUNGER , Sub District Name: Dharhara Has Total Records : 0
+District MUNGER , Sub District Name: Jamalpur Has Total Records : 0
+District MUNGER , Sub District Name: Kharagpur Has Total Records : 0
+District MUNGER , Sub District Name: Munger Has Total Records : 0
+District MUNGER , Sub District Name: Sangrampur Has Total Records : 0
+District MUNGER , Sub District Name: Tarapur Has Total Records : 0
+District MUNGER , Sub District Name: Tetiha Bambor Has Total Records : 0
+District MADHUBANI , Sub District Name: Andhratharhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Babubarhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Basopatti Has Total Records : 0
+District MADHUBANI , Sub District Name: Benipatti Has Total Records : 0
+District MADHUBANI , Sub District Name: Bisfi Has Total Records : 0
+District MADHUBANI , Sub District Name: Ghoghardiha Has Total Records : 0
+District MADHUBANI , Sub District Name: Harlakhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Jainagar Has Total Records : 0
+District MADHUBANI , Sub District Name: Jhanjharpur Has Total Records : 0
+District MADHUBANI , Sub District Name: Kaluahi Has Total Records : 0
+District MADHUBANI , Sub District Name: Khajauli Has Total Records : 0
+District MADHUBANI , Sub District Name: Ladania Has Total Records : 0
+District MADHUBANI , Sub District Name: Lakhnaur Has Total Records : 0
+District MADHUBANI , Sub District Name: Laukaha Has Total Records : 0
+District MADHUBANI , Sub District Name: Laukahi Has Total Records : 0
+District MADHUBANI , Sub District Name: Madhubani Has Total Records : 0
+District MADHUBANI , Sub District Name: Madhwapur Has Total Records : 0
+District MADHUBANI , Sub District Name: Pandaul Has Total Records : 0
+District MADHUBANI , Sub District Name: Rajnagar Has Total Records : 0
+District MADHUBANI , Sub District Name: null Has Total Records : 0
+District MADHEPURA , Sub District Name: Alamnagar Has Total Records : 0
+District MADHEPURA , Sub District Name: Bihariganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Chausa Has Total Records : 0
+District MADHEPURA , Sub District Name: Gamharia Has Total Records : 0
+District MADHEPURA , Sub District Name: Ghailarh Has Total Records : 0
+District MADHEPURA , Sub District Name: Gwalpara Has Total Records : 0
+District MADHEPURA , Sub District Name: Kishanganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Kumarkhand Has Total Records : 0
+District MADHEPURA , Sub District Name: Madhepura Has Total Records : 0
+District MADHEPURA , Sub District Name: Murliganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Puraini Has Total Records : 0
+District MADHEPURA , Sub District Name: Shankarpur Has Total Records : 0
+District MADHEPURA , Sub District Name: Singheshwar Has Total Records : 0
+District LAKHISARAI , Sub District Name: Barahiya Has Total Records : 0
+District LAKHISARAI , Sub District Name: Chanan* Has Total Records : 0
+District LAKHISARAI , Sub District Name: Halsi Has Total Records : 0
+District LAKHISARAI , Sub District Name: Lakhisarai Has Total Records : 0
+District LAKHISARAI , Sub District Name: Pipariya Has Total Records : 0
+District LAKHISARAI , Sub District Name: Ramgarh Chowk Has Total Records : 0
+District LAKHISARAI , Sub District Name: Surajgarha Has Total Records : 0
+District KISHANGANJ , Sub District Name: Bahadurganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: Dighalbank Has Total Records : 0
+District KISHANGANJ , Sub District Name: Kishanganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: Kochadhamin Has Total Records : 0
+District KISHANGANJ , Sub District Name: Pothia Has Total Records : 0
+District KISHANGANJ , Sub District Name: Terhagachh Has Total Records : 0
+District KISHANGANJ , Sub District Name: Thakurganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: null Has Total Records : 0
+District KHAGARIA , Sub District Name: Beldaur Has Total Records : 0
+District KHAGARIA , Sub District Name: Chautham Has Total Records : 0
+District KHAGARIA , Sub District Name: Gogri Has Total Records : 0
+District KHAGARIA , Sub District Name: Khagaria Has Total Records : 0
+District KHAGARIA , Sub District Name: Mansi Has Total Records : 0
+District KHAGARIA , Sub District Name: Parbatta Has Total Records : 0
+District KATIHAR , Sub District Name: Amdabad Has Total Records : 0
+District KATIHAR , Sub District Name: Azamnagar Has Total Records : 0
+District KATIHAR , Sub District Name: Balrampur Has Total Records : 0
+District KATIHAR , Sub District Name: Barari Has Total Records : 0
+District KATIHAR , Sub District Name: Barsoi Has Total Records : 0
+District KATIHAR , Sub District Name: Dandkhora Has Total Records : 0
+District KATIHAR , Sub District Name: Falka Has Total Records : 0
+District KATIHAR , Sub District Name: Hasanganj Has Total Records : 0
+District KATIHAR , Sub District Name: Kadwa Has Total Records : 0
+District KATIHAR , Sub District Name: Katihar Has Total Records : 0
+District KATIHAR , Sub District Name: Korha Has Total Records : 0
+District KATIHAR , Sub District Name: Kursela Has Total Records : 0
+District KATIHAR , Sub District Name: Manihari Has Total Records : 0
+District KATIHAR , Sub District Name: Mansahi Has Total Records : 0
+District KATIHAR , Sub District Name: Pranpur Has Total Records : 0
+District KATIHAR , Sub District Name: Sameli Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Adhaura Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Bhabua Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Bhagwanpur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Chainpur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Chand Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Durgawati Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Kudra Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Mohania Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Rampur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: null Has Total Records : 0
+District JEHANABAD , Sub District Name: Ghoshi Has Total Records : 0
+District JEHANABAD , Sub District Name: Hulasganj Has Total Records : 0
+District JEHANABAD , Sub District Name: Jehanabad Has Total Records : 0
+District JEHANABAD , Sub District Name: Kako Has Total Records : 0
+District JEHANABAD , Sub District Name: Makhdumpur Has Total Records : 0
+District JEHANABAD , Sub District Name: Modanganj Has Total Records : 0
+District JEHANABAD , Sub District Name: Ratni Faridpur Has Total Records : 0
+District JAMUI , Sub District Name: Chakai Has Total Records : 0
+District JAMUI , Sub District Name: Gidhaur Has Total Records : 0
+District JAMUI , Sub District Name: Islamnagar Aliganj Has Total Records : 0
+District JAMUI , Sub District Name: Jamui Has Total Records : 0
+District JAMUI , Sub District Name: Jhajha Has Total Records : 0
+District JAMUI , Sub District Name: Khaira Has Total Records : 0
+District JAMUI , Sub District Name: Sikandra Has Total Records : 0
+District JAMUI , Sub District Name: Sono Has Total Records : 0
+District GOPALGANJ , Sub District Name: Baikunthpur Has Total Records : 0
+District GOPALGANJ , Sub District Name: Barauli Has Total Records : 0
+District GOPALGANJ , Sub District Name: Bhorey Has Total Records : 0
+District GOPALGANJ , Sub District Name: Bijaipur Has Total Records : 0
+District GOPALGANJ , Sub District Name: Gopalganj Has Total Records : 0
+District GOPALGANJ , Sub District Name: Hathua Has Total Records : 0
+District GOPALGANJ , Sub District Name: Katiya Has Total Records : 0
+District GOPALGANJ , Sub District Name: Kuchaikote Has Total Records : 0
+District GOPALGANJ , Sub District Name: Manjha Has Total Records : 0
+District GOPALGANJ , Sub District Name: Phulwaria Has Total Records : 0
+District GOPALGANJ , Sub District Name: Sidhwalia Has Total Records : 0
+District GOPALGANJ , Sub District Name: Thawe Has Total Records : 0
+District GOPALGANJ , Sub District Name: Uchkagaon Has Total Records : 0
+District GAYA , Sub District Name: Amas Has Total Records : 0
+District GAYA , Sub District Name: Atri Has Total Records : 0
+District GAYA , Sub District Name: Banke Bazar Has Total Records : 0
+District GAYA , Sub District Name: Barachatti Has Total Records : 0
+District GAYA , Sub District Name: Belaganj Has Total Records : 0
+District GAYA , Sub District Name: Bodh Gaya Has Total Records : 0
+District GAYA , Sub District Name: Dobhi Has Total Records : 0
+District GAYA , Sub District Name: Dumaria Has Total Records : 0
+District GAYA , Sub District Name: Fatehpur Has Total Records : 0
+District GAYA , Sub District Name: Gaya Town C.D. Has Total Records : 0
+District GAYA , Sub District Name: Guraru Has Total Records : 0
+District GAYA , Sub District Name: Gurua Has Total Records : 0
+District GAYA , Sub District Name: Imamganj Has Total Records : 0
+District GAYA , Sub District Name: Khizirsarai Has Total Records : 0
+District GAYA , Sub District Name: Konch Has Total Records : 0
+District GAYA , Sub District Name: Manpur Has Total Records : 0
+District GAYA , Sub District Name: Mohanpur Has Total Records : 0
+District GAYA , Sub District Name: Muhra Has Total Records : 0
+District GAYA , Sub District Name: Neem Chak Bathani Has Total Records : 0
+District GAYA , Sub District Name: Paraiya Has Total Records : 0
+District GAYA , Sub District Name: Sherghati Has Total Records : 0
+District GAYA , Sub District Name: Tan Kuppa Has Total Records : 0
+District GAYA , Sub District Name: Tikari  Has Total Records : 0
+District GAYA , Sub District Name: Wazirganj Has Total Records : 0
+District GAYA , Sub District Name: null Has Total Records : 0
+District BUXAR , Sub District Name: Barhampur Has Total Records : 0
+District BUXAR , Sub District Name: Chakki Has Total Records : 0
+District BUXAR , Sub District Name: Chaugain Has Total Records : 0
+District BUXAR , Sub District Name: Chausa Has Total Records : 0
+District BUXAR , Sub District Name: Itarhi Has Total Records : 0
+District BUXAR , Sub District Name: Kesath  Has Total Records : 0
+District BUXAR , Sub District Name: Nawanagar Has Total Records : 0
+District BUXAR , Sub District Name: Rajpur Has Total Records : 0
+District BUXAR , Sub District Name: Simri Has Total Records : 0
+District DARBHANGA , Sub District Name: Alinagar Has Total Records : 0
+District DARBHANGA , Sub District Name: Bahadurpur Has Total Records : 0
+District DARBHANGA , Sub District Name: Baheri Has Total Records : 0
+District DARBHANGA , Sub District Name: Benipur Has Total Records : 0
+District DARBHANGA , Sub District Name: Biraul Has Total Records : 0
+District DARBHANGA , Sub District Name: Darbhanga Has Total Records : 0
+District DARBHANGA , Sub District Name: Ghanshyampur Has Total Records : 0
+District DARBHANGA , Sub District Name: Gora Bauram Has Total Records : 0
+District DARBHANGA , Sub District Name: Hanumannagar Has Total Records : 0
+District DARBHANGA , Sub District Name: Jale Has Total Records : 0
+District DARBHANGA , Sub District Name: Kiratpur Has Total Records : 0
+District DARBHANGA , Sub District Name: Kusheshwar Asthan Has Total Records : 0
+District DARBHANGA , Sub District Name: Kusheshwar Asthan (East) Has Total Records : 0
+District DARBHANGA , Sub District Name: Tardih Has Total Records : 0
+District BHOJPUR , Sub District Name: Agiaon Has Total Records : 0
+District BHOJPUR , Sub District Name: Arrah Has Total Records : 0
+District BHOJPUR , Sub District Name: Barhara Has Total Records : 0
+District BHOJPUR , Sub District Name: Behea Has Total Records : 0
+District BHOJPUR , Sub District Name: Charpokhari Has Total Records : 0
+District BHOJPUR , Sub District Name: Garhani Has Total Records : 0
+District BHOJPUR , Sub District Name: Jagdishpur Has Total Records : 0
+District BHOJPUR , Sub District Name: Koilwar Has Total Records : 0
+District BHOJPUR , Sub District Name: Piro Has Total Records : 0
+District BHOJPUR , Sub District Name: Sahar Has Total Records : 0
+District BHOJPUR , Sub District Name: Sandesh Has Total Records : 0
+District BHOJPUR , Sub District Name: Shahpur Has Total Records : 0
+District BHOJPUR , Sub District Name: Tarari Has Total Records : 0
+District BHOJPUR , Sub District Name: Udwant Nagar Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bachhwara Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bakhri Has Total Records : 0
+District BEGUSARAI , Sub District Name: Balia Has Total Records : 0
+District BEGUSARAI , Sub District Name: Barauni Has Total Records : 0
+District BEGUSARAI , Sub District Name: Begusarai Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bhagwanpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Birpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Cheria Bariarpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Chhorahi Has Total Records : 0
+District BEGUSARAI , Sub District Name: Dandari Has Total Records : 0
+District BEGUSARAI , Sub District Name: Garhpura Has Total Records : 0
+District BEGUSARAI , Sub District Name: Khudabandpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Mansurchak Has Total Records : 0
+District BEGUSARAI , Sub District Name: Matihani Has Total Records : 0
+District BEGUSARAI , Sub District Name: Naokothi Has Total Records : 0
+District BEGUSARAI , Sub District Name: Sahebpur Kamal Has Total Records : 0
+District BEGUSARAI , Sub District Name: Shamho Akha Kurha Has Total Records : 0
+District BEGUSARAI , Sub District Name: Teghra Has Total Records : 0
+District BHAGALPUR , Sub District Name: Bihpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Gopalpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Goradih Has Total Records : 0
+District BHAGALPUR , Sub District Name: Ismailpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Jagdishpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Kahalgaon Has Total Records : 0
+District BHAGALPUR , Sub District Name: Kharik Has Total Records : 0
+District BHAGALPUR , Sub District Name: Narayanpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Nathnagar Has Total Records : 0
+District BHAGALPUR , Sub District Name: Naugachhia Has Total Records : 0
+District BHAGALPUR , Sub District Name: Pirpainti Has Total Records : 0
+District BHAGALPUR , Sub District Name: Rangra Chowk Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sabour Has Total Records : 0
+District BHAGALPUR , Sub District Name: Shahkund Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sonhaula Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sultanganj Has Total Records : 0
+District AURANGABAD , Sub District Name: Aurangabad Has Total Records : 0
+District AURANGABAD , Sub District Name: Barun Has Total Records : 0
+District AURANGABAD , Sub District Name: Daudnagar Has Total Records : 0
+District AURANGABAD , Sub District Name: Deo Has Total Records : 0
+District AURANGABAD , Sub District Name: Goh Has Total Records : 0
+District AURANGABAD , Sub District Name: Haspura Has Total Records : 0
+District AURANGABAD , Sub District Name: Kutumba Has Total Records : 0
+District AURANGABAD , Sub District Name: Madanpur Has Total Records : 0
+District AURANGABAD , Sub District Name: Nabinagar Has Total Records : 0
+District AURANGABAD , Sub District Name: Obra Has Total Records : 0
+District ARWAL , Sub District Name: Arwal Has Total Records : 0
+District ARWAL , Sub District Name: Kaler Has Total Records : 0
+District ARWAL , Sub District Name: Sonbhadra Banshi  Has Total Records : 0
+District ARARIA , Sub District Name: Forbesganj Has Total Records : 0
+District ARARIA , Sub District Name: Jokihat Has Total Records : 0
+District ARARIA , Sub District Name: Kursakatta Has Total Records : 0
+District ARARIA , Sub District Name: Narpatganj Has Total Records : 0
+District ARARIA , Sub District Name: Raniganj Has Total Records : 0
+District ARARIA , Sub District Name: Sikti Has Total Records : 0
+District AURANGABAD , Sub District Name: Aurangabad Has Total Records : 0
+District AURANGABAD , Sub District Name: Barun Has Total Records : 0
+District AURANGABAD , Sub District Name: Daudnagar Has Total Records : 0
+District AURANGABAD , Sub District Name: Deo Has Total Records : 0
+District AURANGABAD , Sub District Name: Goh Has Total Records : 0
+District AURANGABAD , Sub District Name: Haspura Has Total Records : 0
+District AURANGABAD , Sub District Name: Kutumba Has Total Records : 0
+District AURANGABAD , Sub District Name: Madanpur Has Total Records : 0
+District AURANGABAD , Sub District Name: Rafiganj Has Total Records : 0
+District VAISHALI , Sub District Name: Bhagwanpur Has Total Records : 0
+District VAISHALI , Sub District Name: Bidupur Has Total Records : 0
+District VAISHALI , Sub District Name: Chehra Kalan Has Total Records : 0
+District VAISHALI , Sub District Name: Desri Has Total Records : 0
+District VAISHALI , Sub District Name: Goraul Has Total Records : 0
+District VAISHALI , Sub District Name: Hajipur Has Total Records : 0
+District VAISHALI , Sub District Name: Jandaha Has Total Records : 0
+District VAISHALI , Sub District Name: Lalganj Has Total Records : 0
+District VAISHALI , Sub District Name: Mahnar Has Total Records : 0
+District VAISHALI , Sub District Name: Mahua Has Total Records : 0
+District VAISHALI , Sub District Name: Patepur Has Total Records : 0
+District VAISHALI , Sub District Name: Paterhi Belsar Has Total Records : 0
+District VAISHALI , Sub District Name: Raghopur Has Total Records : 0
+District VAISHALI , Sub District Name: Raja Pakar Has Total Records : 0
+District VAISHALI , Sub District Name: Sahdai Buzurg Has Total Records : 0
+District VAISHALI , Sub District Name: Vaishali Has Total Records : 0
+District SUPAUL , Sub District Name: Kishanpur Has Total Records : 0
+District SUPAUL , Sub District Name: Marauna Has Total Records : 0
+District SUPAUL , Sub District Name: Nirmali Has Total Records : 0
+District SUPAUL , Sub District Name: Pipra Has Total Records : 0
+District SUPAUL , Sub District Name: Raghopur Has Total Records : 0
+District SUPAUL , Sub District Name: Supaul Has Total Records : 0
+District SUPAUL , Sub District Name: Tribeniganj Has Total Records : 0
+District SIWAN , Sub District Name: Daraundha Has Total Records : 0
+District SIWAN , Sub District Name: Goriakothi Has Total Records : 0
+District SIWAN , Sub District Name: Hussainganj Has Total Records : 0
+District SIWAN , Sub District Name: Lakri Nabiganj Has Total Records : 0
+District SIWAN , Sub District Name: Mairwa Has Total Records : 0
+District SIWAN , Sub District Name: Raghunathpur Has Total Records : 0
+District SIWAN , Sub District Name: Siswan Has Total Records : 0
+District SIWAN , Sub District Name: Ziradei Has Total Records : 0
+District SITAMARHI , Sub District Name: Bairgania Has Total Records : 0
+District SITAMARHI , Sub District Name: Charaut Has Total Records : 0
+District SITAMARHI , Sub District Name: Dumra Has Total Records : 0
+District SITAMARHI , Sub District Name: Majorganj Has Total Records : 0
+District SITAMARHI , Sub District Name: Nanpur Has Total Records : 0
+District SITAMARHI , Sub District Name: Parsauni Has Total Records : 0
+District SITAMARHI , Sub District Name: Pupri Has Total Records : 0
+District SITAMARHI , Sub District Name: Riga Has Total Records : 0
+District SITAMARHI , Sub District Name: Runisaidpur Has Total Records : 0
+District SITAMARHI , Sub District Name: Sursand Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Ariari Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Barbigha Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Chewara Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Ghat Kusumbha Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Sheikhpura Has Total Records : 0
+District SHEIKHPURA , Sub District Name: Shekhopur Sarai Has Total Records : 0
+District SHEOHAR , Sub District Name: Dumri Katsari Has Total Records : 0
+District SHEOHAR , Sub District Name: Piprarhi Has Total Records : 0
+District SHEOHAR , Sub District Name: Tariani Chowk Has Total Records : 0
+District SARAN , Sub District Name: Amnour Has Total Records : 0
+District SARAN , Sub District Name: Baniapur Has Total Records : 0
+District SARAN , Sub District Name: Chapra Has Total Records : 0
+District SARAN , Sub District Name: Dariapur Has Total Records : 0
+District SARAN , Sub District Name: Dighwara Has Total Records : 0
+District SARAN , Sub District Name: Ekma Has Total Records : 0
+District SARAN , Sub District Name: Garkha Has Total Records : 0
+District SARAN , Sub District Name: Ishupur Has Total Records : 0
+District SARAN , Sub District Name: Jalalpur Has Total Records : 0
+District SARAN , Sub District Name: Lahladpur Has Total Records : 0
+District SARAN , Sub District Name: Maker Has Total Records : 0
+District SARAN , Sub District Name: Manjhi Has Total Records : 0
+District SARAN , Sub District Name: Marhaura Has Total Records : 0
+District SARAN , Sub District Name: Mashrakh Has Total Records : 0
+District SARAN , Sub District Name: Nagra Has Total Records : 0
+District SARAN , Sub District Name: Panapur Has Total Records : 0
+District SARAN , Sub District Name: Parsa Has Total Records : 0
+District SARAN , Sub District Name: Revelganj Has Total Records : 0
+District SARAN , Sub District Name: Taraiya Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Bibhutpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Bithan Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Dalsinghsarai Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Hasanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Kalyanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Mohanpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Mohiuddinagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Morwa Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Patori Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Pusa Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Samastipur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Sarairanjan Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Shivaji Nagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Singhia Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Tajpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Ujiarpur Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Vidyapati Nagar Has Total Records : 0
+District SAMASTIPUR , Sub District Name: Warisnagar Has Total Records : 0
+District SAHARSA , Sub District Name: Banma Itahri Has Total Records : 0
+District SAHARSA , Sub District Name: Kahara Has Total Records : 0
+District SAHARSA , Sub District Name: Mahishi Has Total Records : 0
+District SAHARSA , Sub District Name: Nauhatta Has Total Records : 0
+District SAHARSA , Sub District Name: Patarghat Has Total Records : 0
+District SAHARSA , Sub District Name: Salkhua Has Total Records : 0
+District SAHARSA , Sub District Name: Satar Kataiya Has Total Records : 0
+District SAHARSA , Sub District Name: Saur Bazar Has Total Records : 0
+District SAHARSA , Sub District Name: Simri Bakhtiarpur Has Total Records : 0
+District SAHARSA , Sub District Name: null Has Total Records : 0
+District ROHTAS , Sub District Name: Akorhi Gola Has Total Records : 0
+District ROHTAS , Sub District Name: Chenari Has Total Records : 0
+District ROHTAS , Sub District Name: Dawath Has Total Records : 0
+District ROHTAS , Sub District Name: Dehri Has Total Records : 0
+District ROHTAS , Sub District Name: Dinara Has Total Records : 0
+District ROHTAS , Sub District Name: Kargahar Has Total Records : 0
+District ROHTAS , Sub District Name: Kochas Has Total Records : 0
+District ROHTAS , Sub District Name: Nasriganj Has Total Records : 0
+District ROHTAS , Sub District Name: Nauhatta Has Total Records : 0
+District ROHTAS , Sub District Name: Nokha Has Total Records : 0
+District ROHTAS , Sub District Name: Rajpur Has Total Records : 0
+District ROHTAS , Sub District Name: Rohtas Has Total Records : 0
+District ROHTAS , Sub District Name: Sasaram Has Total Records : 0
+District ROHTAS , Sub District Name: Sheosagar Has Total Records : 0
+District ROHTAS , Sub District Name: Suryapura Has Total Records : 0
+District ROHTAS , Sub District Name: Tilouthu Has Total Records : 0
+District PURNIA , Sub District Name: Baisa Has Total Records : 0
+District PURNIA , Sub District Name: Barhara Has Total Records : 0
+District PURNIA , Sub District Name: Dagarua Has Total Records : 0
+District PURNIA , Sub District Name: Kasba Has Total Records : 0
+District PURNIA , Sub District Name: Purnia East Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Adapur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Areraj Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Banjaria Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Bankatwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Chhauradano(Narkatia) Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Dhaka Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Ghorasahan Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kalyanpur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kesaria Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Kotwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Motihari Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Paharpur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Pakri Dayal Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Patahi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Phenhara Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Piprakothi Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Ramgarhwa Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Raxaul Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Sangrampur Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Sugauli Has Total Records : 0
+District PURBI CHAMPARAN , Sub District Name: Tetaria Has Total Records : 0
+District PATNA , Sub District Name: Bakhtiarpur Has Total Records : 0
+District PATNA , Sub District Name: Barh Has Total Records : 0
+District PATNA , Sub District Name: Belchhi Has Total Records : 0
+District PATNA , Sub District Name: Bihta Has Total Records : 0
+District PATNA , Sub District Name: Bikram Has Total Records : 0
+District PATNA , Sub District Name: Dhanarua Has Total Records : 0
+District PATNA , Sub District Name: Dulhin Bazar Has Total Records : 0
+District PATNA , Sub District Name: Khusrupur Has Total Records : 0
+District PATNA , Sub District Name: Mokameh Has Total Records : 0
+District PATNA , Sub District Name: Naubatpur Has Total Records : 0
+District PATNA , Sub District Name: Pandarak Has Total Records : 0
+District PATNA , Sub District Name: Patna Rural  Has Total Records : 0
+District PATNA , Sub District Name: Phulwari Has Total Records : 0
+District PATNA , Sub District Name: Punpun Has Total Records : 0
+District PATNA , Sub District Name: Sampatchak Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bairia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bettiah Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Bhitaha Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Chanpatia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Gaunaha Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Jogapatti Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Lauriya Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Madhubani Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Mainatanr Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Majhaulia Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Narkatiaganj Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Nautan Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Piprasi Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Ramnagar Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Sidhaw Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Sikta Has Total Records : 0
+District PASHCHIM CHAMPARAN , Sub District Name: Thakrahan Has Total Records : 0
+District NAWADA , Sub District Name: Akbarpur Has Total Records : 0
+District NAWADA , Sub District Name: Gobindpur Has Total Records : 0
+District NAWADA , Sub District Name: Hisua Has Total Records : 0
+District NAWADA , Sub District Name: Kashi Chak Has Total Records : 0
+District NAWADA , Sub District Name: Kawakol Has Total Records : 0
+District NAWADA , Sub District Name: Meskaur Has Total Records : 0
+District NAWADA , Sub District Name: Nardiganj Has Total Records : 0
+District NAWADA , Sub District Name: Narhat Has Total Records : 0
+District NAWADA , Sub District Name: Pakribarawan Has Total Records : 0
+District NAWADA , Sub District Name: Roh Has Total Records : 0
+District NALANDA , Sub District Name: Asthawan  Has Total Records : 0
+District NALANDA , Sub District Name: Bind Has Total Records : 0
+District NALANDA , Sub District Name: Chandi Has Total Records : 0
+District NALANDA , Sub District Name: Harnaut Has Total Records : 0
+District NALANDA , Sub District Name: Islampur Has Total Records : 0
+District NALANDA , Sub District Name: Karai Parsurai Has Total Records : 0
+District NALANDA , Sub District Name: Katrisarai Has Total Records : 0
+District NALANDA , Sub District Name: Nagar Nausa Has Total Records : 0
+District NALANDA , Sub District Name: Noorsarai Has Total Records : 0
+District NALANDA , Sub District Name: Parbalpur Has Total Records : 0
+District NALANDA , Sub District Name: Rahui Has Total Records : 0
+District NALANDA , Sub District Name: Rajgir Has Total Records : 0
+District NALANDA , Sub District Name: Sarmera Has Total Records : 0
+District NALANDA , Sub District Name: Silao Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Aurai Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Bandra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Baruraj (Motipur) Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Bochaha Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Gaighat Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Kanti Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Katra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Kurhani Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Marwan Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Minapur Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Musahri Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Paroo Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Sahebganj Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Sakra Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: Saraiya Has Total Records : 0
+District MUZAFFARPUR , Sub District Name: null Has Total Records : 0
+District MUNGER , Sub District Name: Asarganj Has Total Records : 0
+District MUNGER , Sub District Name: Bariarpur Has Total Records : 0
+District MUNGER , Sub District Name: Dharhara Has Total Records : 0
+District MUNGER , Sub District Name: Jamalpur Has Total Records : 0
+District MUNGER , Sub District Name: Kharagpur Has Total Records : 0
+District MUNGER , Sub District Name: Munger Has Total Records : 0
+District MUNGER , Sub District Name: Tarapur Has Total Records : 0
+District MUNGER , Sub District Name: Tetiha Bambor Has Total Records : 0
+District MADHEPURA , Sub District Name: Alamnagar Has Total Records : 0
+District MADHEPURA , Sub District Name: Bihariganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Chausa Has Total Records : 0
+District MADHEPURA , Sub District Name: Gamharia Has Total Records : 0
+District MADHEPURA , Sub District Name: Ghailarh Has Total Records : 0
+District MADHEPURA , Sub District Name: Gwalpara Has Total Records : 0
+District MADHEPURA , Sub District Name: Kishanganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Madhepura Has Total Records : 0
+District MADHEPURA , Sub District Name: Murliganj Has Total Records : 0
+District MADHEPURA , Sub District Name: Shankarpur Has Total Records : 0
+District MADHUBANI , Sub District Name: Andhratharhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Babubarhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Benipatti Has Total Records : 0
+District MADHUBANI , Sub District Name: Bisfi Has Total Records : 0
+District MADHUBANI , Sub District Name: Ghoghardiha Has Total Records : 0
+District MADHUBANI , Sub District Name: Harlakhi Has Total Records : 0
+District MADHUBANI , Sub District Name: Jainagar Has Total Records : 0
+District MADHUBANI , Sub District Name: Jhanjharpur Has Total Records : 0
+District MADHUBANI , Sub District Name: Kaluahi Has Total Records : 0
+District MADHUBANI , Sub District Name: Laukaha Has Total Records : 0
+District MADHUBANI , Sub District Name: Laukahi Has Total Records : 0
+District MADHUBANI , Sub District Name: Madhepur Has Total Records : 0
+District MADHUBANI , Sub District Name: Madhubani Has Total Records : 0
+District MADHUBANI , Sub District Name: Pandaul Has Total Records : 0
+District MADHUBANI , Sub District Name: Rajnagar Has Total Records : 0
+District MADHUBANI , Sub District Name: null Has Total Records : 0
+District LAKHISARAI , Sub District Name: Chanan* Has Total Records : 0
+District LAKHISARAI , Sub District Name: Halsi Has Total Records : 0
+District LAKHISARAI , Sub District Name: Lakhisarai Has Total Records : 0
+District LAKHISARAI , Sub District Name: Pipariya Has Total Records : 0
+District LAKHISARAI , Sub District Name: Ramgarh Chowk Has Total Records : 0
+District LAKHISARAI , Sub District Name: Surajgarha Has Total Records : 0
+District KISHANGANJ , Sub District Name: Bahadurganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: Dighalbank Has Total Records : 0
+District KISHANGANJ , Sub District Name: Kishanganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: Kochadhamin Has Total Records : 0
+District KISHANGANJ , Sub District Name: Pothia Has Total Records : 0
+District KISHANGANJ , Sub District Name: Terhagachh Has Total Records : 0
+District KISHANGANJ , Sub District Name: Thakurganj Has Total Records : 0
+District KISHANGANJ , Sub District Name: null Has Total Records : 0
+District KHAGARIA , Sub District Name: Beldaur Has Total Records : 0
+District KHAGARIA , Sub District Name: Chautham Has Total Records : 0
+District KHAGARIA , Sub District Name: Gogri Has Total Records : 0
+District KHAGARIA , Sub District Name: Khagaria Has Total Records : 0
+District KATIHAR , Sub District Name: Amdabad Has Total Records : 0
+District KATIHAR , Sub District Name: Azamnagar Has Total Records : 0
+District KATIHAR , Sub District Name: Balrampur Has Total Records : 0
+District KATIHAR , Sub District Name: Barari Has Total Records : 0
+District KATIHAR , Sub District Name: Barsoi Has Total Records : 0
+District KATIHAR , Sub District Name: Falka Has Total Records : 0
+District KATIHAR , Sub District Name: Hasanganj Has Total Records : 0
+District KATIHAR , Sub District Name: Katihar Has Total Records : 0
+District KATIHAR , Sub District Name: Korha Has Total Records : 0
+District KATIHAR , Sub District Name: Kursela Has Total Records : 0
+District KATIHAR , Sub District Name: Manihari Has Total Records : 0
+District KATIHAR , Sub District Name: Mansahi Has Total Records : 0
+District KATIHAR , Sub District Name: Pranpur Has Total Records : 0
+District KATIHAR , Sub District Name: Sameli Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Adhaura Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Bhabua Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Bhagwanpur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Chainpur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Durgawati Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Kudra Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Mohania Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: Rampur Has Total Records : 0
+District KAIMUR (BHABUA) , Sub District Name: null Has Total Records : 0
+District JEHANABAD , Sub District Name: Ghoshi Has Total Records : 0
+District JEHANABAD , Sub District Name: Hulasganj Has Total Records : 0
+District JEHANABAD , Sub District Name: Jehanabad Has Total Records : 0
+District JEHANABAD , Sub District Name: Makhdumpur Has Total Records : 0
+District JAMUI , Sub District Name: Chakai Has Total Records : 0
+District JAMUI , Sub District Name: Gidhaur Has Total Records : 0
+District JAMUI , Sub District Name: Jamui Has Total Records : 0
+District JAMUI , Sub District Name: Khaira Has Total Records : 0
+District JAMUI , Sub District Name: Lakshmipur Has Total Records : 0
+District JAMUI , Sub District Name: Sikandra Has Total Records : 0
+District GAYA , Sub District Name: Amas Has Total Records : 0
+District GAYA , Sub District Name: Atri Has Total Records : 0
+District GAYA , Sub District Name: Banke Bazar Has Total Records : 0
+District GAYA , Sub District Name: Barachatti Has Total Records : 0
+District GAYA , Sub District Name: Belaganj Has Total Records : 0
+District GAYA , Sub District Name: Bodh Gaya Has Total Records : 0
+District GAYA , Sub District Name: Dobhi Has Total Records : 0
+District GAYA , Sub District Name: Dumaria Has Total Records : 0
+District GAYA , Sub District Name: Fatehpur Has Total Records : 0
+District GAYA , Sub District Name: Gaya Town C.D. Has Total Records : 0
+District GAYA , Sub District Name: Guraru Has Total Records : 0
+District GAYA , Sub District Name: Gurua Has Total Records : 0
+District GAYA , Sub District Name: Khizirsarai Has Total Records : 0
+District GAYA , Sub District Name: Konch Has Total Records : 0
+District GAYA , Sub District Name: Mohanpur Has Total Records : 0
+District GAYA , Sub District Name: Muhra Has Total Records : 0
+District GAYA , Sub District Name: Paraiya Has Total Records : 0
+District GAYA , Sub District Name: Sherghati Has Total Records : 0
+District GAYA , Sub District Name: Tan Kuppa Has Total Records : 0
+District GAYA , Sub District Name: Tikari  Has Total Records : 0
+District GAYA , Sub District Name: Wazirganj Has Total Records : 0
+District GAYA , Sub District Name: null Has Total Records : 0
+District DARBHANGA , Sub District Name: Alinagar Has Total Records : 0
+District DARBHANGA , Sub District Name: Darbhanga Has Total Records : 0
+District DARBHANGA , Sub District Name: Hanumannagar Has Total Records : 0
+District DARBHANGA , Sub District Name: Hayaghat Has Total Records : 0
+District DARBHANGA , Sub District Name: Keotiranway Has Total Records : 0
+District DARBHANGA , Sub District Name: Kiratpur Has Total Records : 0
+District DARBHANGA , Sub District Name: Kusheshwar Asthan Has Total Records : 0
+District DARBHANGA , Sub District Name: Tardih Has Total Records : 0
+District BUXAR , Sub District Name: Barhampur Has Total Records : 0
+District BUXAR , Sub District Name: Buxar Has Total Records : 0
+District BUXAR , Sub District Name: Chakki Has Total Records : 0
+District BUXAR , Sub District Name: Chaugain Has Total Records : 0
+District BUXAR , Sub District Name: Chausa Has Total Records : 0
+District BUXAR , Sub District Name: Dumraon  Has Total Records : 0
+District BUXAR , Sub District Name: Itarhi Has Total Records : 0
+District BUXAR , Sub District Name: Kesath  Has Total Records : 0
+District BUXAR , Sub District Name: Nawanagar Has Total Records : 0
+District BUXAR , Sub District Name: Simri Has Total Records : 0
+District BHOJPUR , Sub District Name: Arrah Has Total Records : 0
+District BHOJPUR , Sub District Name: Barhara Has Total Records : 0
+District BHOJPUR , Sub District Name: Behea Has Total Records : 0
+District BHOJPUR , Sub District Name: Charpokhari Has Total Records : 0
+District BHOJPUR , Sub District Name: Garhani Has Total Records : 0
+District BHOJPUR , Sub District Name: Jagdishpur Has Total Records : 0
+District BHOJPUR , Sub District Name: Koilwar Has Total Records : 0
+District BHOJPUR , Sub District Name: Piro Has Total Records : 0
+District BHOJPUR , Sub District Name: Sahar Has Total Records : 0
+District BHOJPUR , Sub District Name: Sandesh Has Total Records : 0
+District BHOJPUR , Sub District Name: Shahpur Has Total Records : 0
+District BHOJPUR , Sub District Name: Udwant Nagar Has Total Records : 0
+District BHAGALPUR , Sub District Name: Bihpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Gopalpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Ismailpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Jagdishpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Kahalgaon Has Total Records : 0
+District BHAGALPUR , Sub District Name: Kharik Has Total Records : 0
+District BHAGALPUR , Sub District Name: Narayanpur Has Total Records : 0
+District BHAGALPUR , Sub District Name: Nathnagar Has Total Records : 0
+District BHAGALPUR , Sub District Name: Pirpainti Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sabour Has Total Records : 0
+District BHAGALPUR , Sub District Name: Shahkund Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sonhaula Has Total Records : 0
+District BHAGALPUR , Sub District Name: Sultanganj Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bachhwara Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bakhri Has Total Records : 0
+District BEGUSARAI , Sub District Name: Balia Has Total Records : 0
+District BEGUSARAI , Sub District Name: Barauni Has Total Records : 0
+District BEGUSARAI , Sub District Name: Begusarai Has Total Records : 0
+District BEGUSARAI , Sub District Name: Bhagwanpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Birpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Cheria Bariarpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Chhorahi Has Total Records : 0
+District BEGUSARAI , Sub District Name: Dandari Has Total Records : 0
+District BEGUSARAI , Sub District Name: Garhpura Has Total Records : 0
+District BEGUSARAI , Sub District Name: Khudabandpur Has Total Records : 0
+District BEGUSARAI , Sub District Name: Mansurchak Has Total Records : 0
+District BEGUSARAI , Sub District Name: Matihani Has Total Records : 0
+District BEGUSARAI , Sub District Name: Naokothi Has Total Records : 0
+District BEGUSARAI , Sub District Name: Sahebpur Kamal Has Total Records : 0
+District BEGUSARAI , Sub District Name: Shamho Akha Kurha Has Total Records : 0
+District BEGUSARAI , Sub District Name: Teghra Has Total Records : 0
+District BANKA , Sub District Name: Amarpur Has Total Records : 0
+District BANKA , Sub District Name: Banka Has Total Records : 0
+District BANKA , Sub District Name: Bausi Has Total Records : 0
+District BANKA , Sub District Name: Belhar Has Total Records : 0
+District BANKA , Sub District Name: Chanan Has Total Records : 0
+District BANKA , Sub District Name: Dhuraiya Has Total Records : 0
+District BANKA , Sub District Name: Katoria Has Total Records : 0
+District BANKA , Sub District Name: Phulidumar Has Total Records : 0
+District BANKA , Sub District Name: Rajaun Has Total Records : 0
+District BANKA , Sub District Name: Shambhuganj Has Total Records : 0
+District ARWAL , Sub District Name: Arwal Has Total Records : 0
+District ARWAL , Sub District Name: Kaler Has Total Records : 0
+District ARWAL , Sub District Name: Karpi Has Total Records : 0
+District ARWAL , Sub District Name: Sonbhadra Banshi  Has Total Records : 0
+District GOPALGANJ , Sub District Name: Barauli Has Total Records : 0
+District GOPALGANJ , Sub District Name: Bhorey Has Total Records : 0
+District GOPALGANJ , Sub District Name: Bijaipur Has Total Records : 0
+District GOPALGANJ , Sub District Name: Hathua Has Total Records : 0
+District GOPALGANJ , Sub District Name: Katiya Has Total Records : 0
+District GOPALGANJ , Sub District Name: Kuchaikote Has Total Records : 0
+District GOPALGANJ , Sub District Name: Manjha Has Total Records : 0
+District GOPALGANJ , Sub District Name: Pach Deuri Has Total Records : 0
+District GOPALGANJ , Sub District Name: Phulwaria Has Total Records : 0
+District GOPALGANJ , Sub District Name: Sidhwalia Has Total Records : 0
+District GOPALGANJ , Sub District Name: Thawe Has Total Records : 0
+District GOPALGANJ , Sub District Name: Uchkagaon Has Total Records : 0
+District ARWAL , Sub District Name: Kaler Has Total Records : 0
+District ARWAL , Sub District Name: Sonbhadra Banshi  Has Total Records : 0
+District VAISHALI , Sub District Name: Jandaha Has Total Records : 0
+District VAISHALI , Sub District Name: Mahnar Has Total Records : 0
+District VAISHALI , Sub District Name: Paterhi Belsar Has Total Records : 0
+District VAISHALI , Sub District Name: Raghopur Has Total Records : 0
+District SUPAUL , Sub District Name: Pipra Has Total Records : 0
+District SIWAN , Sub District Name: Mairwa Has Total Records : 0
+District SIWAN , Sub District Name: Raghunathpur Has Total Records : 0
+District SARAN , Sub District Name: Amnour Has Total Records : 0
+District SARAN , Sub District Name: Baniapur Has Total Records : 0
+District SARAN , Sub District Name: Dariapur Has Total Records : 0
+District SARAN , Sub District Name: Dighwara Has Total Records : 0
+District SARAN , Sub District Name: Garkha Has Total Records : 0
+District SARAN , Sub District Name: Ishupur Has Total Records : 0
+District SARAN , Sub District Name: Lahladpur Has Total Records : 0
+District SARAN , Sub District Name: Marhaura Has Total Records : 0
+District SARAN , Sub District Name: Panapur Has Total Records : 0
+District SARAN , Sub District Name: Parsa Has Total Records : 0
+District SARAN , Sub District Name: Taraiya Has Total Records : 0
+District SAHARSA , Sub District Name: Banma Itahri Has Total Records : 0
+District SAHARSA , Sub District Name: null Has Total Records : 0
+
+
+Spider "farmers_records" closed at "2024-05-11 103149"
+
+
+Spider "farmers_records" Scraped Total Products "100870"
+
+
+Spider Error:: 
+
+
+

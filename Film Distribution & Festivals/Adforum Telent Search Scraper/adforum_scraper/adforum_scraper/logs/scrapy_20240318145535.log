@@ -1,0 +1,62 @@
+2024-03-18 14:55:35 [scrapy.utils.log] INFO: Scrapy 2.11.0 started (bot: adforum_scraper)
+2024-03-18 14:55:35 [scrapy.utils.log] INFO: Versions: lxml 5.1.0.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 22.10.0, Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)], pyOpenSSL 23.3.0 (OpenSSL 3.1.4 24 Oct 2023), cryptography 41.0.7, Platform Windows-11-10.0.22631-SP0
+2024-03-18 14:55:35 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-03-18 14:55:35 [py.warnings] WARNING: C:\Users\Muhammad Ahmed\AppData\Roaming\Python\Python312\site-packages\scrapy\utils\request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2024-03-18 14:55:35 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+2024-03-18 14:55:35 [scrapy.extensions.telnet] INFO: Telnet Password: 710057936d0c94eb
+2024-03-18 14:55:35 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2024-03-18 14:55:35 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'adforum_scraper',
+ 'LOG_FILE': 'logs\\scrapy_20240318145535.log',
+ 'LOG_LEVEL': 10,
+ 'NEWSPIDER_MODULE': 'adforum_scraper.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 400, 403, 404, 408, 429, 10051],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['adforum_scraper.spiders']}
+2024-03-18 14:55:36 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2024-03-18 14:55:36 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2024-03-18 14:55:36 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2024-03-18 14:55:36 [scrapy.core.engine] INFO: Spider opened
+2024-03-18 14:55:36 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-03-18 14:55:36 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2024-03-18 14:55:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/talent/search> (referer: None)
+2024-03-18 14:55:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:> (referer: https://www.adforum.com/talent/search)
+2024-03-18 14:55:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=7&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:55:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=5&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:55:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:55:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=11&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=10&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=6&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=12&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=3&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=8&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=creative%20director&location=city:New%20York,country:)
+2024-03-18 14:56:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/talent/55515-mark-schwatka> (referer: https://www.adforum.com/find/loadmore?idx=people&l=100&p=7&worktitle=creative%20director&location=city:New%20York,country:&o=_score%7Cdesc&rtpl=people.list.search)
+2024-03-18 14:59:00 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 

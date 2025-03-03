@@ -1,0 +1,15 @@
+create project
+scrapy startproject ebook_scrapper
+
+run crawl and extract output file
+scrapy crawl ebook -o ebooks.csv or ebook.json or ebook.xml
+
+run crawl and append extract output file flag capital O
+scrapy crawl ebook -O ebooks.csv
+
+#pipeline for store data into db local or server 
+pip install openpyxl package for excel 
+
+#connect mongo db
+first create mongodb online
+then install pip install pymongo

@@ -1,0 +1,4 @@
+[INIT] Script started at 25-01-2025 20:36:15
+Total Previous Judgment Files Found: 0
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 1

@@ -1,0 +1,45 @@
+Spider "used_vehicles" Started at "2024-07-23 182023"
+
+No error occurred during the project run.
+Informative Logs:
+Spider "used_vehicles" Started at "2024-07-23 182023"
+
+Last Scraped file "output\Used Commercial Trucks Details 2024-07-23 180646.csv" has "76" rows to be compared with Current file to find out the Sold trucks
+Total States found in the website : 51
+
+Found 57 dealers in state "Alabama|AL"
+
+State: "Alabama|AL", Dealer Name: "Mercedes Benz of Mobile" has "2" vehicles
+State: "Alabama|AL", Dealer Name: "Equipment Logistics" has "13" vehicles
+State: "Alabama|AL", Dealer Name: "Merchant Ford" has "20" vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - BIRMINGHAM, AL" has "78" vehicles
+State: "Alabama|AL", Dealer Name: "Altec NUECO - Birmingham" has "156" vehicles
+State: "Alabama|AL", Dealer Name: "Sons CDJR Fiat of Montgomery" has "8" vehicles
+State: "Alabama|AL", Dealer Name: "Carl Cannon Chevrolet" has "1" vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - MOBILE, AL" has "31" vehicles
+State: "Alabama|AL", Dealer Name: "Government Surplus Auctions" has "555" vehicles
+State: "Alabama|AL", Dealer Name: "County Road 12 Truck Sales Inc." has "12" vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - BOAZ, AL" has "15" vehicles
+State: "Alabama|AL", Dealer Name: "Southeastern Trailer and Equipment" has "1" vehicles
+State: "Alabama|AL", Dealer Name: "Sons Ford" has "20" vehicles
+State: "Alabama|AL", Dealer Name: "Pierce Car & Truck Sales Inc" has "30" vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - PELL CITY, AL" has "7" vehicles
+State: "Alabama|AL", Dealer Name: "Ryder Used Trucks in Birmingham" has "179" vehicles
+State: "Alabama|AL", Dealer Name: "Hendrick Chrysler Dodge Jeep Ram" has "43" vehicles
+State: "Alabama|AL", Dealer Name: "Tuscaloosa Chevrolet" has "27" vehicles
+State: "Alabama|AL", Dealer Name: "Hendrick Chevrolet" has "46" vehicles
+State: "Alabama|AL", Dealer Name: "Long Lewis of Hoover" has "73" vehicles
+State: "Alabama|AL", Dealer Name: "Sunny King Ford" has "14" vehicles
+State: "Alabama|AL", Dealer Name: "Donohoo Chevrolet" has "13" vehicles
+
+
+
+Vehicles are found: "1344" , Used vehicle are scraped "1259" for spider "used_vehicles"
+
+Spider "used_vehicles" was started at "2024-07-23 182023"
+Spider "used_vehicles" closed at "2024-07-23 182458"
+75 rows inserted into file "output/Sold\Sold Trucks 2024-07-23 182023.csv"
+75 rows inserted into file "output/Sold\Master Sold Trucks.csv"
+1259 rows inserted into file "output/Used Commercial Trucks Details 2024-07-23 182023.csv"
+75 trucks found as Sold trucks as those were exists last time but not exists today
+75 Sold trucks written into file: output/Sold\Sold Trucks 2024-07-23 182023.csv as well as added in to the Master Sold trucks file: output/Sold\Master Sold Trucks.csv

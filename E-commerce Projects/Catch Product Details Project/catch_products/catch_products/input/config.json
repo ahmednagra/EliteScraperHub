@@ -1,0 +1,13 @@
+ {
+   "scrapeops_api_key": "69407ad1-67b8-4a4f-8083-137167f3b908",
+
+   "catch": {
+      "search_urls": ["https://www.catch.com.au/category/health-beauty/foundations"]
+    },
+
+   "guidelines": {
+     "catch": ["Use proxy for product Detail page Request only"]
+   }
+  }
+
+

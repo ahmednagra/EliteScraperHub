@@ -1,0 +1,76 @@
+webhare and wtf proxies 
+
+
+    def get_webshare_proxy_list(self, webshare_api_key):
+        
+        # using proxy api key from request a variable get the token then from c request variable get the proxies list for specific country
+        a = requests.get(
+            "https://proxy.webshare.io/api/v2/proxy/config/",
+            headers={"Authorization": f"Token {webshare_api_key}"}
+            # headers={"Authorization": "Token hjrmxcduqgcisax9huheyg2xwb2xr7qv2nmwa4kj"} # token belong to ahmed
+        )
+        b = a.json()
+        proxy_token = b.get('proxy_list_download_token', '')  # this token mean to download all proxies all country base
+        url = f'https://proxy.webshare.io/api/v2/proxy/list/download/{proxy_token}/us/any/username/direct/-/'
+      
+        c = requests.get(url=url)
+        d = [proxy for proxy in c.text.replace('\r', '').split('\n') if proxy.strip()]
+        
+        # from this req variable get the all proxies in list  with pagination option.
+        req = requests.get(
+                    "https://proxy.webshare.io/api/v2/proxy/list/?mode=direct&page=1&page_size=250",
+                    headers={"Authorization": f"Token {webshare_api_key}"}
+                )
+
+        proxy_list = []
+        for proxy in d:
+            proxy = proxy.split(':')
+            ip = proxy[0]
+            port_no = proxy[1]
+            username = proxy[2]
+            password = proxy[3]
+            new_proxy = f"http://{username}:{password}@{ip}:{port_no}"
+            print('New Proxy Url :', new_proxy)
+            proxy_list.append(new_proxy)
+
+        return proxy_list
+
+
+
+###  Scrape Ops Proxy ###
+# code for middlewear.py file # 
+
+    def process_request(self, request, spider):
+        # Called for each request that goes through the downloader
+        # middleware.
+
+        # Url Modification for Scrape Ops Proxy
+        if spider.proxy_type == 'scrapeops':
+            if spider.use_proxy and 'proxy.scrapeops' not in request.url:
+                payload = {'api_key': spider.proxy_key, 'url': request.url}
+                proxy_url = 'https://proxy.scrapeops.io/v1/?' + urlencode(payload)
+                return request.replace(url=proxy_url)
+
+### Scrape_do Proxy ###
+# read proxy credentials from text input file , proxy with cookies mean region settings#
+
+ def __init__(self):
+        super().__init__()
+        self.cookies = quote('i18n-prefs=AUD; lc-main=en_US')
+        self.proxy_token = self.read_input_from_file('input/proxy_key.txt')
+        self.proxy = f"http://{self.proxy_token[0]}:setCookies={self.cookies}&geoCode=us@proxy.scrape.do:8080" if self.proxy_token else ''
+
+
+	    def read_input_from_file(self, file_path):
+        try:
+            with open(file_path, mode='r') as txt_file:
+                return [line.strip() for line in txt_file.readlines() if line.strip()]
+
+        except FileNotFoundError:
+            print(f"File not found: {file_path}")
+            return []
+        except Exception as e:
+            print(f"An error occurred: {str(e)}")
+            return []
+
+

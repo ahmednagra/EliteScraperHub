@@ -1,0 +1,16 @@
+Scrape this website
+https://tabelog.com/iwate/C3201/rstLst/?LstReserve=0&LstSmoking=0&svd=20230906&svt=1900&svps=2&vac_net=0
+
+I want all the restaurants in the list.
+The following information in CSV
+
+Name
+Genre
+Address
+Working hours
+Number of seats
+Phone number.
+
+
+(pdf file attached for mapping of fields)
+This is the URL for that restaurant in PDF https://tabelog.com/iwate/A0301/A030101/3000957/

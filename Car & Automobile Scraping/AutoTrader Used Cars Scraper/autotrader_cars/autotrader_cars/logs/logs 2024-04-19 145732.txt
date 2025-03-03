@@ -1,0 +1,26 @@
+Spider "autotrader" Started at "2024-04-19 145732"
+
+Unwanted Makes to Skip: mercedes-benz,  honda,  amc
+Unwanted Models to Skip: model1, model2
+Unwanted Years to Skip: 2000,  2010, 2015, 2016, 2017, 2018, 2019, 2020,  2008
+
+
+Total "0" Cars scraped for spider "autotrader"
+Total "0" Duplicate Cars Skipped for spider "autotrader"
+Spider "autotrader" was started at "2024-04-19 145732"
+Spider "autotrader" closed at "2024-04-19 145738"
+
+
+Spider "autotrader2" Started at "2024-04-19 145732"
+
+Unwanted Makes to Skip: mercedes-benz,  honda,  amc
+Unwanted Models to Skip: model1, model2
+Unwanted Years to Skip: 2000,  2010, 2015, 2016, 2017, 2018, 2019, 2020,  2008
+
+
+Total "0" Cars scraped for spider "autotrader2"
+Total "0" Duplicate Cars Skipped for spider "autotrader2"
+Spider "autotrader2" was started at "2024-04-19 145732"
+Spider "autotrader2" closed at "2024-04-19 145738"
+
+

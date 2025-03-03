@@ -1,0 +1,2 @@
+Requests==2.31.0
+Scrapy==2.11.0

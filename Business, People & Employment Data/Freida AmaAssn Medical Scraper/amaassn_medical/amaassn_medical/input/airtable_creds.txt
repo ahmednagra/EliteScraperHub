@@ -1,0 +1,3 @@
+api_token==pat3nmkWdDAV006vL.a5fe37f3419663e5351f78ca9d88938df03ce3c52c8e1c5cc4819e9b58697587
+workspace_id==wspkHKNrPBF3B6V3N
+base_id==appVqVycdrL7QWPqk

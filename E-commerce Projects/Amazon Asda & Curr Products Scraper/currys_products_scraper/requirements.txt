@@ -1,0 +1,8 @@
+itemadapter==0.10.0
+Scrapy==2.12.0
+scrapy-fake-useragent
+scrapy-proxies
+requests
+python-slugify
+zyte-api
+scrapy_zyte_api

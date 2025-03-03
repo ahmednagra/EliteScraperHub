@@ -1,0 +1,9 @@
+Spider "new_cars" Started at "2024-07-24 120535"
+
+235 Cars found as Sold Cars as those were exists last time but not exists today
+235 Sold Cars written into file: output/Sold\Sold Cars 2024-07-24 120615.csv as well as added in to the Master Sold cars file: output/Sold\Master SoldCars.csv
+Total "386" Cars scraped for spider "new_cars"
+Spider "new_cars" was started at "2024-07-24 120535"
+Spider "new_cars" closed at "2024-07-24 120711"
+
+

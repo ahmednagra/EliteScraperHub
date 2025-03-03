@@ -1,0 +1,7 @@
+search the given keywords and locations on https://www.adforum.com/talent/search and
+
+ then scrape the Name, Title, Company, Location for each person in the results.
+
+The search terms should be editable. Put them in a CSV file with two columns. One for search term and the other for location
+
+The results will be stored into CSV

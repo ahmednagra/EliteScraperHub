@@ -1,0 +1,11 @@
+https://defillama.com/stablecoins
+
+
+Workflow:
+1. the names of stablecoins from this website: https://defillama.com/stablecoins
+2. the blockchain networks that each stablecoin is on (found by clicking on each stablecoin)
+3. the bridges under each blockchain network (found by clicking the > symbol under each blockchain network)
+
+
+Results into Excel as in the attached snap. 
+URL, Coin, Chain, Bridge

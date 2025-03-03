@@ -1,0 +1,39 @@
+
+Instructions for Running the Scrapy Project
+
+Step 1: Prepare the Proxy Key
+1. Navigate to the input folder in the project directory.
+2. Open the file named proxy_key.txt located inside the input folder.
+3. Paste your ScraperAPI proxy key into the proxy_key.txt file and save it.
+
+Step 2: Verify the List of USA States
+1. Locate the file usa_states.txt in the input folder.
+2. Ensure all USA state names are already listed in this file. (These are pre-pasted, so no further action may be needed unless you need to modify the list.)
+
+Step 3: Add Search Keywords
+1. Open the keywords.txt file in the input folder.
+2. Add the search keywords that you want the scraper to use.  (These are pre-pasted, so no further action may be needed unless you need to modify the list.)
+
+   - Write one keyword per line for proper processing.
+   - Save the file after adding the keywords.
+
+Step 4: Run the Script
+1. Locate the file run_script.bat in the project directory.
+2. Run the script by doing one of the following:
+   - Double-click the run_script.bat file.
+   - Or, right-click the file and select Open.
+   - Alternatively, press Enter after selecting the file in your file explorer.
+
+Step 5: Monitor the Script
+1. Once the script starts running, it will:
+   - Use the proxy key provided in proxy_key.txt.
+   - Fetch data for all USA states listed in usa_states.txt.
+   - Search for jobs or postings using the keywords provided in keywords.txt.
+2. The scraping process will display logs in the command prompt.
+
+Step 6: Access the Results
+1. After completion, the output data will be stored in the designated output folder (location specified in the project documentation or script).
+
+Important Notes
+- Ensure you have an active internet connection while running the script.
+- If you encounter any errors, check the logs displayed in the command prompt for troubleshooting.

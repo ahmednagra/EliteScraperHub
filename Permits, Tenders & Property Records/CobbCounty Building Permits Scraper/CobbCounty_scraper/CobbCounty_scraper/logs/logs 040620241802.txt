@@ -1,0 +1,29 @@
+Spider "building_permits" Started at "040620241802"
+
+Spider "building_permits" Permits Scrapped : "0"
+Spider "building_permits" Skipped Building Permits  : "0"
+
+
+ Year range 2006 now start scraping
+Spider "building_permits" Permits Scrapped : "280"
+Spider "building_permits" Skipped Building Permits  : "140"
+Spider "building_permits" Total Permits Found on the website are: "280"
+
+Spider "building_permits" was started at "040620241802"
+Spider "building_permits" closed at "040620241818"
+
+
+Spider Error:: 
+
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+Error in writing csv file, error :[Errno 13] Permission denied: 'output/GobbCounty Skipped building permits records 040620241802.csv'
+
+

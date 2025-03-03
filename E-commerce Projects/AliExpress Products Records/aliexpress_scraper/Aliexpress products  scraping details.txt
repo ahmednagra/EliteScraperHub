@@ -1,0 +1,35 @@
+webscrape Ali-Express to find me products based on certain metrics such as: minimum total orders or maximum total orders, items in a specific niche and at a specific cost point, items that have been listed for less than 1 yr?
+
+Filters needs to apply:
+1- category/niche
+2- min_price
+3- max_price
+4- min_orders
+5- max_orders
+6- min_reviews
+7- max_reviews
+8- min_rating
+9- max_rating
+
+
+so this would be the filters i would need: over 500 orders, min 100 reviews with min 4.5 star rating, specific niche, price range of $20-$50 USD
+
+
+Fields to scrape:
+We need to scrape only the links. But these below fields are good to have as well:
+
+Category
+Name
+Price
+Rating
+Reviews Count
+Orders Count
+URL
+
+
+To see the num of ordres, reviews and rating:
+if you take this product as an example https://www.aliexpress.us/item/3256805745810936.html?spm=a2g0o.productlist.main.3.14bf5d77IvG9kz&pdp_ext_f=%7B%22sku_id%22%3A%2212000034905051462%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3Acategory_navigate&gatewayAdapt=4itemAdapt
+It shows 800+ orders and 163 reviews with a 4.3 rating
+
+Ali express Categories to test with:
+Electronics, Toys & Hobbies, Tools, Security & Protection, Mother & Kids

@@ -1,0 +1,16 @@
+Script Started at "28-06-2024 11:19:36"
+
+No products found with Medicine : HYGROTON TAB 25MG 50X2  Price: $14.99
+No products Match found with Medicine : HYDRO-B12 AMPOULE 1MG/1ML 3  Price: $7.99
+No products found with Medicine : IMODIUM CAP 12  Price: $6.70
+No products found with Medicine : IMIGRAN TAB 100MG 2  Price: $33.99
+No products found with Medicine : INDOCID SUPPOS 100MG 20X2  Price: $21.99
+No products found with Medicine : INDOCID CAP 25MG 50X2  Price: $17.99
+No products found with Medicine : INZA TAB 250MG 50X2  Price: $14.99
+No products found with Medicine : ISABELLE 28 TABS  Price: $19.99
+No products found with Medicine : ISABELLE 3X28 TABS  Price: $54.99
+No products found with Medicine : KARVEA TAB 150MG 30  Price: $9.99
+No products Match found with Medicine : KARVEZIDE TAB 150/12.5MG 30  Price: $9.99
+
+
+Items Are Scraped :39

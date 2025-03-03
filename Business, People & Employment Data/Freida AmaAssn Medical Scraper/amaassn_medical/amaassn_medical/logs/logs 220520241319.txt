@@ -1,0 +1,28 @@
+Spider "amaassn" Started at "220520241319"
+
+ User information : {'id': 'usrokZnv4AGZxvfI7', 'email': 'ahmednagra9@gmail.com'}
+Base Information: {'Base Freida Records': 'appWXchiSjAY1MdES'}
+Base Name: Base Freida Records Has these Tables: {'Program List': 'tblPSyWkio0XG4DPa'}
+Inserting 4 records in the Table: Overview
+Inserting 4 records in the Table: ProgramWorkSchedule
+Inserting 4 records in the Table: FeaturesBenefits
+
+0 Previous records found for the table : Program List 
+Inserting 4 records in the Table: Program List
+All Records Uploaded Successfully
+
+
+Spider "amaassn" was started at "220520241319"
+Spider "amaassn" closed at "220520241320"
+
+
+Spider "amaassn" Records Founded at Website for Programs List Table : "4"
+Spider "amaassn" Records Founded at Website for Overview records are : "4"
+Spider "amaassn" Records Founded at Website for Program work Schedule Table : "4"
+Spider "amaassn" Records Founded at Website for Features and Benefits Table : "4"
+
+
+Spider Error:: 
+
+
+

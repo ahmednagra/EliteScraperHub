@@ -1,0 +1,13 @@
+dj_database_url==2.2.0
+whitenoise==6.7.0
+django_heroku==0.3.1
+pandas==2.2.2
+python-slugify==8.0.4
+reportlab==4.2.2
+Scrapy==2.11.2
+Requests==2.32.3
+requests-file==2.0.0
+requests-oauthlib==2.0.0
+gunicorn==22.0.0
+whitenoise==6.7.0
+openpyxl==3.1.2

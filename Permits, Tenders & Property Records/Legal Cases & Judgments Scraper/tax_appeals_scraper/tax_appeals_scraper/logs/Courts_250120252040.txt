@@ -1,0 +1,79 @@
+[INIT] Script started at 25-01-2025 20:40:51
+Total Previous Judgment Files Found: 0
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2014 | Total Judgments Found: 732
+Processing Year: 2015 | Total Judgments Found: 1160
+Failed to save PDF on first attempt: Year:2003 | Name:Devoy -v- Ireland & the Attorney General | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2003\\Devoy -v- Ireland & the Attorney General.pdf'
+Failed to save PDF after sanitization: Year:2003 | Name:Devoy -v- Ireland & the Attorney General | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2003\\Devoy -v- Ireland & the Attorney General.pdf'
+Failed to save PDF on first attempt: Year:2004 | Name:Nwole (a minor) -v- Minister for Justice Equality & Law Reform & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2004\\Nwole (a minor) -v- Minister for Justice Equality & Law Reform & anor.pdf'
+Failed to save PDF after sanitization: Year:2004 | Name:Nwole (a minor) -v- Minister for Justice Equality & Law Reform & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2004\\Nwole (a minor) -v- Minister for Justice Equality & Law Reform & anor.pdf'
+Failed to save PDF on first attempt: Year:2008 | Name:Fitzharris -v- O'Keefe & Anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2008\\Fitzharris -v- O'Keefe & Anor.pdf"
+Failed to save PDF after sanitization: Year:2008 | Name:Fitzharris -v- O'Keefe & Anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2008\\Fitzharris -v- O'Keefe & Anor.pdf"
+Failed to save PDF on first attempt: Year:2005 | Name:Ronan -v- Coughlan & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2005\\Ronan -v- Coughlan & anor.pdf'
+Failed to save PDF after sanitization: Year:2005 | Name:Ronan -v- Coughlan & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2005\\Ronan -v- Coughlan & anor.pdf'
+Processing Year: 2016 | Total Judgments Found: 1147
+Failed to save PDF on first attempt: Year:2006 | Name:Howard -v- Irish Life & Permanent & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Howard -v- Irish Life & Permanent & Anor.pdf'
+Failed to save PDF after sanitization: Year:2006 | Name:Howard -v- Irish Life & Permanent & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Howard -v- Irish Life & Permanent & Anor.pdf'
+Failed to save PDF on first attempt: Year:2009 | Name:Drillfix Limited -v- Savage & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2009\\Drillfix Limited -v- Savage & anor.pdf'
+Failed to save PDF after sanitization: Year:2009 | Name:Drillfix Limited -v- Savage & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2009\\Drillfix Limited -v- Savage & anor.pdf'
+Failed to save PDF on first attempt: Year:2007 | Name:Glynn & anor -v- Owen & ors | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2007\\Glynn & anor -v- Owen & ors.pdf'
+Failed to save PDF after sanitization: Year:2007 | Name:Glynn & anor -v- Owen & ors | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2007\\Glynn & anor -v- Owen & ors.pdf'
+Processing Year: 2017 | Total Judgments Found: 1154
+Processing Year: 2018 | Total Judgments Found: 1217
+Failed to save PDF on first attempt: Year:2008 | Name:Director of Public Prosecutions -v- Finnegan | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2008\\Director of Public Prosecutions -v- Finnegan.pdf'
+Failed to save PDF after sanitization: Year:2008 | Name:Director of Public Prosecutions -v- Finnegan | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2008\\Director of Public Prosecutions -v- Finnegan.pdf'
+Processing Year: 2019 | Total Judgments Found: 1209
+Failed to save PDF on first attempt: Year:2007 | Name:Novartis AG -v- The Controller of Patents, Designs and Trademarks | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2007\\Novartis AG -v- The Controller of Patents, Designs and Trademarks.pdf'
+Failed to save PDF after sanitization: Year:2007 | Name:Novartis AG -v- The Controller of Patents, Designs and Trademarks | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2007\\Novartis AG -v- The Controller of Patents, Designs and Trademarks.pdf'
+Failed to save PDF on first attempt: Year:2008 | Name:Opperman Associates Ltd -v- Casey & Ors | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2008\\Opperman Associates Ltd -v- Casey & Ors.pdf'
+Failed to save PDF after sanitization: Year:2008 | Name:Opperman Associates Ltd -v- Casey & Ors | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2008\\Opperman Associates Ltd -v- Casey & Ors.pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Scally -v- Rhatigan | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Scally -v- Rhatigan.pdf'
+Failed to save PDF after sanitization: Year:2010 | Name:Scally -v- Rhatigan | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Scally -v- Rhatigan.pdf'
+Failed to save PDF on first attempt: Year:2006 | Name:Red Sail Frozen Foods Ltd & ors & Companies Act | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Red Sail Frozen Foods Ltd & ors & Companies Act.pdf'
+Failed to save PDF after sanitization: Year:2006 | Name:Red Sail Frozen Foods Ltd & ors & Companies Act | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Red Sail Frozen Foods Ltd & ors & Companies Act.pdf'
+Failed to save PDF on first attempt: Year:2006 | Name:Harding -v- Cork County Council & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Harding -v- Cork County Council & anor.pdf'
+Failed to save PDF after sanitization: Year:2006 | Name:Harding -v- Cork County Council & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2006\\Harding -v- Cork County Council & anor.pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Stephens -v- Archaeological Development Services Ltd | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Stephens -v- Archaeological Development Services Ltd.pdf'
+Failed to save PDF after sanitization: Year:2010 | Name:Stephens -v- Archaeological Development Services Ltd | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Stephens -v- Archaeological Development Services Ltd.pdf'
+Failed to save PDF on first attempt: Year:2006 | Name:O'Callaghan & ors -v- Mahon & ors | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2006\\O'Callaghan & ors -v- Mahon & ors.pdf"
+Failed to save PDF after sanitization: Year:2006 | Name:O'Callaghan & ors -v- Mahon & ors | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2006\\O'Callaghan & ors -v- Mahon & ors.pdf"
+Failed to save PDF on first attempt: Year:2010 | Name:Corrigan -v- Durkan & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Corrigan -v- Durkan & anor.pdf'
+Failed to save PDF after sanitization: Year:2010 | Name:Corrigan -v- Durkan & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Corrigan -v- Durkan & anor.pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Jarzebak -v- Governor of Cloverhill Prison & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Jarzebak -v- Governor of Cloverhill Prison & Anor.pdf'
+Failed to save PDF after sanitization: Year:2010 | Name:Jarzebak -v- Governor of Cloverhill Prison & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Jarzebak -v- Governor of Cloverhill Prison & Anor.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Parvaiz -v- The Commissioner of an Garda Siochana & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Parvaiz -v- The Commissioner of an Garda Siochana & Anor.pdf'
+Failed to save PDF after sanitization: Year:2016 | Name:Parvaiz -v- The Commissioner of an Garda Siochana & Anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Parvaiz -v- The Commissioner of an Garda Siochana & Anor.pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Weldon -v- Minister for Health & Children & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Weldon -v- Minister for Health & Children & anor.pdf'
+Failed to save PDF after sanitization: Year:2010 | Name:Weldon -v- Minister for Health & Children & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2010\\Weldon -v- Minister for Health & Children & anor.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Ashraf & ors -v- Minister for Justice and Equality | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2018\\Ashraf & ors -v- Minister for Justice and Equality.pdf'
+Failed to save PDF after sanitization: Year:2018 | Name:Ashraf & ors -v- Minister for Justice and Equality | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2018\\Ashraf & ors -v- Minister for Justice and Equality.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Ryan -v- Meath County Council | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Ryan -v- Meath County Council.pdf'
+Failed to save PDF after sanitization: Year:2016 | Name:Ryan -v- Meath County Council | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Ryan -v- Meath County Council.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Director of Public Prosecutrions -v- Kelly | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Director of Public Prosecutrions -v- Kelly.pdf'
+Failed to save PDF after sanitization: Year:2016 | Name:Director of Public Prosecutrions -v- Kelly | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2016\\Director of Public Prosecutrions -v- Kelly.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Ali Agha -v- Minister for Justice & Equality | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2019\\Ali Agha -v- Minister for Justice & Equality.pdf'
+Failed to save PDF after sanitization: Year:2019 | Name:Ali Agha -v- Minister for Justice & Equality | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2019\\Ali Agha -v- Minister for Justice & Equality.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Child and Family Agency -v- M.O'L & anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2019\\Child and Family Agency -v- M.O'L & anor.pdf"
+Failed to save PDF after sanitization: Year:2019 | Name:Child and Family Agency -v- M.O'L & anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2019\\Child and Family Agency -v- M.O'L & anor.pdf"
+Failed to save PDF on first attempt: Year:2018 | Name:Singh -v- The Minister for Business, Enterprise and Innovation & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2018\\Singh -v- The Minister for Business, Enterprise and Innovation & anor.pdf'
+Failed to save PDF after sanitization: Year:2018 | Name:Singh -v- The Minister for Business, Enterprise and Innovation & anor | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2018\\Singh -v- The Minister for Business, Enterprise and Innovation & anor.pdf'
+Failed to save PDF on first attempt: Year:2007 | Name:National Irish Bank -v- O'Connor & anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2007\\National Irish Bank -v- O'Connor & anor.pdf"
+Failed to save PDF after sanitization: Year:2007 | Name:National Irish Bank -v- O'Connor & anor | Error: [Errno 2] No such file or directory: "output\\judgments_downloads\\2007\\National Irish Bank -v- O'Connor & anor.pdf"
+Failed to save PDF on first attempt: Year:2011 | Name:Gerry Bredin Hardware Limited & Companies Acts | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2011\\Gerry Bredin Hardware Limited & Companies Acts.pdf'
+Failed to save PDF after sanitization: Year:2011 | Name:Gerry Bredin Hardware Limited & Companies Acts | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2011\\Gerry Bredin Hardware Limited & Companies Acts.pdf'
+Failed to save PDF on first attempt: Year:2011 | Name:Hegarty -v- Mercy University Hospital Cork | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2011\\Hegarty -v- Mercy University Hospital Cork.pdf'
+Failed to save PDF after sanitization: Year:2011 | Name:Hegarty -v- Mercy University Hospital Cork | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2011\\Hegarty -v- Mercy University Hospital Cork.pdf'
+Failed to save PDF on first attempt: Year:2012 | Name:U.S Limited & Companies Acts 1963 to 2009 | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2012\\U.S Limited & Companies Acts 1963 to 2009.pdf'
+Failed to save PDF after sanitization: Year:2012 | Name:U.S Limited & Companies Acts 1963 to 2009 | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2012\\U.S Limited & Companies Acts 1963 to 2009.pdf'
+Failed to save PDF on first attempt: Year:2014 | Name:Director of Public Prosecutions -v- Kennedy | Error: [Errno 2] No such file or directory: 'output\\judgments_downloads\\2014\\Director of Public Prosecutions -v- Kennedy.pdf'

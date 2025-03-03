@@ -1,0 +1,133 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right Move URL/File Processing</title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+</head>
+<style>
+    body.bg-cover {
+        background-image: url('{% static 'images/img1.jpg' %}');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 100vh;
+    }
+</style>
+<body class="bg-cover">
+    <div class="container-fluid d-flex justify-content-center align-items-center min-vh-100">
+        <div class="row w-100">
+            <div class="col-10 mx-auto">
+                <div class="bg-dark text-white p-4 rounded">
+                    <h1 class="text-center mb-4">Right Move Properties URL Processing</h1>
+                    <form id="processForm" method="post" enctype="multipart/form-data" novalidate>
+                        {% csrf_token %}
+                        <div class="mb-3">
+                            <label for="urlInput" class="form-label">Enter Rightmove URL(s):</label>
+                            <textarea class="form-control" id="urlInput" name="urlInput" rows="3" placeholder="Paste one or more Rightmove URLs (separated by line breaks)&#10;example:&#10;&nbsp;&nbsp;&nbsp;&nbsp;https://www.rightmove.co.uk/properties/144625019#/?channel=RES_LET" required></textarea>
+                            <div class="invalid-feedback">
+                                Please enter at least one valid Rightmove URL.
+                            </div>
+                        </div>
+                        {% if error_message %}
+                        <div class="alert alert-danger" id="errorMessage" style="white-space: pre-wrap;">
+                            {{ error_message|safe }}
+                        </div>
+                        {% endif %}
+                        <div class="d-flex justify-content-center mt-lg-auto">
+                            <button type="submit" class="btn btn-success me-2" id="runScript" disabled>Run Script</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center text-white position-absolute bottom-0 w-100 p-2">
+        <p class="mb-0 fs-5">Shah House &copy; 2024</p>
+    </footer>
+
+    {% if download_url %}
+    <form id="downloadForm" method="get" action="{{ download_url }}" class="d-none">
+        <button type="submit">Download</button>
+    </form>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var runScriptButton = document.getElementById('runScript');
+            // Reset button state after file download
+            runScriptButton.textContent = 'Run Script'; // Restore original button text
+
+            document.getElementById('downloadForm').submit();
+        });
+    </script>
+    {% endif %}
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            'use strict';
+
+            var urlInput = document.getElementById('urlInput');
+            var runScriptButton = document.getElementById('runScript');
+            //var validUrlPattern = /rightmove/;
+            var validUrlPattern = /rightmove\.co\.uk\/properties\/\d+/;
+            var errorMessage = document.getElementById('errorMessage');
+            var processingComplete = {{ processing_complete|default:"false"|lower }}; // Capture processing_complete flag from Django view
+
+            // Event listener for input in the URL textarea
+            urlInput.addEventListener('input', function() {
+                var urls = urlInput.value.split('\n').map(url => url.trim());
+                var atLeastOneValid = urls.some(url => validUrlPattern.test(url));
+
+                // Enable or disable the Run Script button based on valid URLs
+                if (atLeastOneValid) {
+                    urlInput.classList.remove('is-invalid');
+                    urlInput.classList.add('is-valid');
+                    runScriptButton.disabled = false;
+                    runScriptButton.textContent = 'Run Script';
+                    // Remove error message if present
+                    if (errorMessage) {
+                        errorMessage.remove();
+                    }
+                } else {
+                    urlInput.classList.remove('is-valid');
+                    urlInput.classList.add('is-invalid');
+                    runScriptButton.textContent = 'Run Script';
+                    runScriptButton.disabled = true;
+                }
+            });
+
+            // Check if processing is complete and adjust button text
+            if (processingComplete) {
+                runScriptButton.textContent = 'Run Script';
+            }
+
+            // Event listener for form submission (Run Script button)
+            document.getElementById('processForm').addEventListener('submit', function(event) {
+                var urls = urlInput.value.split('\n').map(url => url.trim());
+                var atLeastOneValid = urls.some(url => validUrlPattern.test(url));
+
+                // Prevent form submission if no valid URLs are entered
+                if (!atLeastOneValid) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    urlInput.classList.add('is-invalid');
+                } else {
+                    urlInput.classList.remove('is-invalid');
+                    runScriptButton.disabled = true;
+                    runScriptButton.textContent = 'Processing...'; // Change button text to indicate processing
+                }
+            });
+
+            // Event listener for download form submission
+            if (document.getElementById('downloadForm')) {
+                document.getElementById('downloadForm').addEventListener('submit', function() {
+                    // Reset button state after file download
+                    runScriptButton.textContent = 'Run Script'; // Restore original button text
+                });
+            }
+        });
+    </script>
+</body>
+</html>

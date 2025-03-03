@@ -1,0 +1,17 @@
+<!-- web_scraper/templates/home.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scraper</title>
+</head>
+<body>
+    <h1>Web Scraper</h1>
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" name="url" placeholder="Enter a URL">
+        <button type="submit">Run</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,60 @@
+Spider "products" Started at "24042024171240"
+
+Total Brands Exist: 16
+
+
+Total 559 items scraped from Brand 1888 MILLS-Hotel Sheets, Towels, Accessories
+
+
+Total 33 items scraped from Brand AMERICAN LUXURY
+
+
+Total 27 items scraped from Brand AVANTI LINENS
+
+
+Total 251 items scraped from Brand BARGOOSE TEXTILES
+
+
+Total 1 items scraped from Brand BEACON LINENS
+
+
+Total 208 items scraped from Brand BERKSHIRE HOSPITALITY
+
+This Brand "CATHGRO HOSPITALITY" has no Further Subcategories :https://www.towelwholesaler.com/solid-black-denim-bed-skirt-by-dan-river.html
+
+
+Total 14 items scraped from Brand CATHGRO HOSPITALITY
+
+
+Total 7 items scraped from Brand EXCELLENT ART 
+
+
+Total 2 items scraped from Brand HOMEPORT WORLDWIDE
+
+
+Total 141 items scraped from Brand HOTEL EMPORIUM-Guest Room Amenities
+
+
+Total 289 items scraped from Brand JS FIBER COMPANY
+
+This Brand "KARTRI SALES COMPANY" has no Further Subcategories :https://www.towelwholesaler.com/metro-white-coverlet-by-kartri.html
+
+
+Total 176 items scraped from Brand KARTRI SALES COMPANY
+
+
+Total 34 items scraped from Brand KTX SIMPLICITY BEDDING
+
+
+Total 1194 items scraped from Brand 1CONCIERRIEGEL 
+
+
+Total 528 items scraped from Brand THOMASTON MILLS
+
+
+Total 1020 items scraped from Brand WESTPOINT  MARTEX
+
+Spider "products" was started at "24042024171240"
+Spider "products" closed at "2024-04-24 172116"
+
+

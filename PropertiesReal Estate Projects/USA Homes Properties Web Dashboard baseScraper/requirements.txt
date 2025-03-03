@@ -1,0 +1,6 @@
+Django==4.2.2
+itemadapter==0.8.0
+mysql_connector_repackaged==0.3.1
+python-slugify==8.0.1
+Scrapy==2.9.0
+usaddress==0.5.10

@@ -1,0 +1,26 @@
+Spider "new_vehicles" Started at "2024-06-08 165411"
+
+Error Logs:
+
+No previous output files found
+End of Error Logs:
+
+
+Informative Logs:
+Total States found in the website : 51
+
+Total No of Dealers: "57" exists in the state : "Alabama|AL"
+
+State: "Alabama|AL", Dealer Name: "Sons Ford" has 127 vehicles
+State: "Alabama|AL", Dealer Name: "Donohoo Chevrolet" has 622 vehicles
+State: "Alabama|AL", Dealer Name: "Rush Truck Centers - Birmingham" has no vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - LOXLEY, AL" has no vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - HUEYTOWN, AL" has no vehicles
+State: "Alabama|AL", Dealer Name: "PENSKE USED TRUCKS - GADSDEN, AL" has no vehicles
+
+
+
+Vehicles are found: "749" , for spider "new_vehicles"
+Spider "new_vehicles" was started at "2024-06-08 165411"
+Spider "new_vehicles" closed at "2024-06-08 165528"
+18 rows inserted into file "output/New Commercial Trucks Details 2024-06-08 165411.csv"

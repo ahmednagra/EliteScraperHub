@@ -1,0 +1,2 @@
+System Key/Consumer Key==scout24_propertiesKey
+API Secret/Consumer Secret ==N2qzhTAPDfcXYUYm

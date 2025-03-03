@@ -1,0 +1,11 @@
+
+new task:
+- loom1: https://www.loom.com/share/3975c71158db4d529f858df249ba853b?sid=9860d7aa-3ca0-4680-a07e-4f088ccf1195
+
+- loom2: https://www.loom.com/share/892c4816b89e4fbda53d1041596a1c45?sid=aba3885b-1ff5-48eb-b6c5-34550dd08e67
+
+- naming details for JSON files: publicationRef.pdf.metadata.json
+
+- for 2024 PDF files, you will need to refer to the website to get the Publication Ref, Link, Tax head, and Year, but not Topic Summary and Tax Legislation, which you can leave these two columns.
+
+- i need 2 scripts at the end, new data will be scraped only on each run. not previous

@@ -1,0 +1,20 @@
+Same website as last time but with different requirements. 
+
+First goto this webpage:
+http://20.198.83.63:9090/dashboard/
+
+Then goto the link that says "Total SHG Formed"
+Then click on "Member Under SHG" for each of the 5 districts.
+
+Then click on each "SHG NAME" and download all the columns.
+
+For these 5 districts approximate number should be about (but is probably more since these numbers are not updated):
+
+
+The 5 districts I need data for are : Bhojpur , Gaya, Begusarai, Purnia, Jamui,
+
+
+246140 + 582421 + 329361 + 433742 + 232635 = 1,824,299 members
+
+
+All the usual caveats from last time applies. Specifically, the site is often not up, so please take your time, I just need all the data,

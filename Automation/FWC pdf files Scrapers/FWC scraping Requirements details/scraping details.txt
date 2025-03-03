@@ -1,0 +1,25 @@
+script to download all the documents in PDF and the data points in CSV from this link daily
+
+https://www.fwc.gov.au/document-search?options=SearchType_3%2CSortOrder_agreement-date-desc%2CDocFromDate_01%2F01%2F2020&q=*&pagesize=50
+(Use AUS location through VPN if issues in access)
+
+The script will run daily and will skip the already downloaded documents. It will download only new documents in next days.
+
+
+
+Fields to extract: 
+(use left lower case names in CSV file)
+
+
+agmnt_id / Agreement Number = AE524498 
+agmnt_title / Agreement name = Plasvacc Pty Ltd Enterprise Agreement 2023 
+matter_no = AG2024/489 
+operative_date = 10 May 2024 
+expiry_date / Nominal Expiry Date = 10 May 2026 
+approval_date / Date fo Approval = 3 May 2024 
+company_name abn / Company ABN = 49099547841 
+industry = Agricultural industry 
+
+Note: Open the link and search AE524498, you will see this specific item
+
+For each item download .PDF Should be named as agreement ID .PDF examples ae524498.pdf 

@@ -1,0 +1,13 @@
+Script Started at "02-07-2024 17:29:46"
+
+Arbetsförmedling & Rekrytering Has Total Companies : 3324
+Personaluthyrning Has Total Companies : 5830
+Personalfunktioner, Övrigt Has Total Companies : 97
+
+
+From Total Companies 9251 , Companies are scraped:0
+allabolag_scraper Total Duplicate Company found : 0
+
+
+Spider "allabolag_scraper" was started at "02-07-2024 172945"
+Spider "allabolag_scraper" closed at "2024-07-02 172954"

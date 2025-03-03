@@ -1,0 +1,4 @@
+Script Started at "26-06-2024 12:22:59"
+
+891 out of 892 Brands remaining to scrape.
+Starting to scrape the Brand: Aj Algazal

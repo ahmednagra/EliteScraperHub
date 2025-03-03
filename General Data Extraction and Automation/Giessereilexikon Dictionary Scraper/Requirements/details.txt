@@ -1,0 +1,7 @@
+https://www.giessereilexikon.com/en/foundry-lexicon/
+
+Scrape all terms with their explanation for both English and German versions. 
+
+The explanation video attached as well as the sample Excel sheet. 
+
+Note: make sure the English term must match the German term. Like a dictionary.

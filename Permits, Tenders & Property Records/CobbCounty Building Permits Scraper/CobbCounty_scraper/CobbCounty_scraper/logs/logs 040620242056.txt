@@ -1,0 +1,19 @@
+Spider "building_permits" Started at "040620242056"
+
+Spider "building_permits" Permits Scrapped : "0"
+Spider "building_permits" Skipped Building Permits  : "0"
+
+
+ Year range 2006 now start scraping
+Spider "building_permits" Permits Scrapped : "1341"
+Spider "building_permits" Skipped Building Permits  : "1339"
+Spider "building_permits" Total Permits Found on the website are: "1340"
+
+Spider "building_permits" was started at "040620242056"
+Spider "building_permits" closed at "040620242149"
+
+
+Spider Error:: 
+
+
+

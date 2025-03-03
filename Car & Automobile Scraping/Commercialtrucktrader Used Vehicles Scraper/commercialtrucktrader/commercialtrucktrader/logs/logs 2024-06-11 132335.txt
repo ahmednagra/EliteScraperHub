@@ -1,0 +1,9 @@
+Script Started at "11-06-2024 13:23:35"
+
+
+
+
+Vehicles are found: "0" , Used vehicle are scraped "0" for spider "year_wise_used_vehicles"
+
+Spider "year_wise_used_vehicles" was started at "2024-06-11 132335"
+Spider "year_wise_used_vehicles" closed at "2024-06-11 132441"

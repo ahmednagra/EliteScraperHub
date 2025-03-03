@@ -1,0 +1,21 @@
+I have list of SKU numbers on https://www.sweetcare.com/ae 
+
+need to check one by one
+
+attached is sample of listing SKU's
+
+please be sure to check UAE location
+
+some items have same SKU and same name but size is different , Need to get both in the outsheet
+
+
+Fields to get in XLSX:
+SKU
+Title
+Brand
+Price
+Availability
+Size
+Color
+{Any other variant option if exists}
+URL

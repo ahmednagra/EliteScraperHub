@@ -1,0 +1,463 @@
+2024-03-14 14:58:39 [scrapy.utils.log] INFO: Scrapy 2.11.0 started (bot: adforum_scraper)
+2024-03-14 14:58:39 [scrapy.utils.log] INFO: Versions: lxml 5.1.0.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 22.10.0, Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)], pyOpenSSL 23.3.0 (OpenSSL 3.1.4 24 Oct 2023), cryptography 41.0.7, Platform Windows-11-10.0.22631-SP0
+2024-03-14 14:58:39 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-03-14 14:58:39 [py.warnings] WARNING: C:\Users\Muhammad Ahmed\AppData\Roaming\Python\Python312\site-packages\scrapy\utils\request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2024-03-14 14:58:39 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+2024-03-14 14:58:39 [scrapy.extensions.telnet] INFO: Telnet Password: a8eecb0b20a0beff
+2024-03-14 14:58:39 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2024-03-14 14:58:39 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'adforum_scraper',
+ 'LOG_FILE': 'logs\\scrapy_20240314145838.log',
+ 'LOG_LEVEL': 10,
+ 'NEWSPIDER_MODULE': 'adforum_scraper.spiders',
+ 'RETRY_HTTP_CODES': [500, 502, 503, 504, 400, 403, 404, 408, 429, 10051],
+ 'RETRY_TIMES': 5,
+ 'SPIDER_MODULES': ['adforum_scraper.spiders']}
+2024-03-14 14:58:40 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2024-03-14 14:58:40 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2024-03-14 14:58:40 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2024-03-14 14:58:40 [scrapy.core.engine] INFO: Spider opened
+2024-03-14 14:58:40 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-03-14 14:58:40 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2024-03-14 14:58:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/talent/search?worktitle=Graphic&location=country:United%20States> (referer: None)
+2024-03-14 14:58:42 [adforum] ERROR: Total Products 3 against Keyword: Graphic and Country :United States
+2024-03-14 14:58:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=Graphic&location=country:United%20States)
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Mark Panik', 'Title': 'Graphics', 'Company': 'The Fabulous Group', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81786600-mark-panik'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Maya Wynant', 'Title': 'Art Director & Graphic Designer', 'Company': 'The Miller Group', 'Location': 'United States', 'Url': 'https://www.adforum.com/talent/82328553-maya-wynant'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Andre Sam', 'Title': 'Graphics', 'Company': 'Fusion92', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81798118-andre-sam'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Catherine Yoo', 'Title': '3D Graphics', 'Company': 'Not To Scale', 'Location': 'Washington, United States', 'Url': 'https://www.adforum.com/talent/81817115-catherine-yoo'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nelson Sousa', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707692-nelson-sousa'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'James Tobias', 'Title': 'Graphics', 'Company': 'Lodge 26', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81781550-james-tobias'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Hayes Brad', 'Title': '3D Graphics', 'Company': 'Laundry Design', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81839277-hayes-brad'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Arttu Koskela', 'Title': '3D Graphics', 'Company': '750mph', 'Location': 'Portland, United States', 'Url': 'https://www.adforum.com/talent/81842535-arttu-koskela'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Shane Csontos-Popko', 'Title': '3D Graphics', 'Company': 'Brand New School', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81843115-shane-csontos-popko'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Pete Coggeshall', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849005-pete-coggeshall'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Steve Burger', 'Title': '3D Graphics', 'Company': 'HSI', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/40928-steve-burger'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jens Gelharr', 'Title': 'Graphics', 'Company': 'Ogilvy Worldwide', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/51902-jens-gelharr'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Koyama Yas', 'Title': '3D Graphics', 'Company': 'Laundry Design', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81839278-koyama-yas'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alex Kline', 'Title': '3D Graphics', 'Company': 'The Mill LA', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81829882-alex-kline'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Birgit Rathsn', 'Title': 'Graphics', 'Company': 'MullenLowe Profero San Francisco', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81798119-birgit-rathsn'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alice Ngo', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707691-alice-ngo'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tristan North', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707696-tristan-north'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Leo Nguyen', 'Title': 'Graphics', 'Company': 'BBDO New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81801671-leo-nguyen'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Laundry', 'Title': 'Graphics', 'Company': "Pereira O'Dell", 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81803463-laundry'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Thomas Kernan', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849006-thomas-kernan'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nic Yiallouris', 'Title': '3D Graphics', 'Company': 'Caviar Content (US)', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81849640-nic-yiallouris'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jono Gaughan', 'Title': 'Graphics', 'Company': 'VMLY&R Kansas City', 'Location': 'Kansas City, United States', 'Url': 'https://www.adforum.com/talent/81816950-jono-gaughan'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Andrew Cohen', 'Title': '3D Graphics', 'Company': 'Exposed Brick', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/60524-andrew-cohen'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Pablo Kirschke', 'Title': '3D Graphics', 'Company': 'Supply & Demand', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/64052-pablo-kirschke'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'David Bernkopf', 'Title': '3D Graphics', 'Company': 'HSI', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41708523-david-bernkopf'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Manual Macha', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707695-manual-macha'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Abel Salazar', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849007-abel-salazar'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Koh Mike', 'Title': '3D Graphics', 'Company': 'Laundry Design', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81839275-koh-mike'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jesse Roff', 'Title': '3D Graphics', 'Company': 'Undefined Creative', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81827193-jesse-roff'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Christian Neilson', 'Title': '3D Graphics', 'Company': 'RESET Content', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81835026-christian-neilson'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Dan Bradham', 'Title': '3D Graphics', 'Company': 'Brand New School', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81826203-dan-bradham'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Paul Braddock', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/50456-paul-braddock'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nathaniel Morgan', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849008-nathaniel-morgan'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Keith Kamholz', 'Title': '3D Graphics', 'Company': 'HSI  - East Coast', 'Location': 'Minneapolis, United States', 'Url': 'https://www.adforum.com/talent/41709309-keith-kamholz'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Yili Orana', 'Title': '3D Graphics', 'Company': 'The Mill New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81843347-yili-orana'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Carmine Laietta', 'Title': '3D Graphics', 'Company': 'Duotone Audio Group', 'Location': 'Richmond, United States', 'Url': 'https://www.adforum.com/talent/81826204-carmine-laietta'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nick Freeman', 'Title': 'Graphics', 'Company': 'RF|Binder', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81819280-nick-freeman'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ryan Wilson', 'Title': 'Graphics', 'Company': 'Bonds', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/23372-ryan-wilson'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Marko Mandaric', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849009-marko-mandaric'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Wendy Kline', 'Title': '3D Graphics', 'Company': 'Rock Paper Scissors', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81849011-wendy-kline'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nicolas  Nasser', 'Title': '3D Graphics', 'Company': 'DDB New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81855397-nicolas-nasser'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Mike Di Nocco', 'Title': '3D Graphics', 'Company': 'Morton Jankel Zander (MJZ)', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81838913-mike-di-nocco'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Sprinkles Steve', 'Title': '3D Graphics', 'Company': 'Laundry Design', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81839276-sprinkles-steve'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Morten Kühl Christensen', 'Title': '3D Graphics', 'Company': 'Brand New School', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81843114-morten-kuhl-christensen'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Adam Leary', 'Title': '3D Graphics', 'Company': '750mph', 'Location': 'Portland, United States', 'Url': 'https://www.adforum.com/talent/81842534-adam-leary'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Glen Nonoren', 'Title': '3D Graphics', 'Company': 'Crossroads Films', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/40819-glen-nonoren'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Julián Guridi', 'Title': '3D Graphics', 'Company': 'media 8', 'Location': 'Miami, United States', 'Url': 'https://www.adforum.com/talent/81795377-julian-guridi'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Walter Lubinski', 'Title': '3D Graphics', 'Company': 'Razorfish', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/57629-walter-lubinski'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jorge Lega', 'Title': '3D Graphics', 'Company': '2C Creative', 'Location': 'North Miami, United States', 'Url': 'https://www.adforum.com/talent/81809767-jorge-lega'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Bhakar James', 'Title': '3D Graphics', 'Company': 'Stardust', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707693-bhakar-james'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Renee Haar', 'Title': 'Graphics Producer', 'Company': 'GrandArmy', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81834786-renee-haar'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jim King', 'Title': 'Graphic Designer', 'Company': 'Dwight Eschliman Photography', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/56371-jim-king'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Kevin Hughes', 'Title': 'Motion Graphics Designer', 'Company': 'Gocompare.com', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81808514-kevin-hughes'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Rick Ellis', 'Title': 'Motion Graphics Designer', 'Company': 'Workshop Creative', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81836408-rick-ellis'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Mike Landry', 'Title': 'Creative Director, Motion Graphics', 'Company': 'ArsenalCreative', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81827763-mike-landry'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Amber Navvrete', 'Title': 'Graphic Artist', 'Company': 'Fallon', 'Location': 'Minneapolis, United States', 'Url': 'https://www.adforum.com/talent/81792139-amber-navvrete'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alex Roses', 'Title': 'Motion Graphics', 'Company': 'Publicis Sapient', 'Location': 'Boston, United States', 'Url': 'https://www.adforum.com/talent/81787604-alex-roses'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Young Seo', 'Title': 'Graphic Designer', 'Company': 'R/GA', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81826154-young-seo'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Karo Jattke', 'Title': 'Graphic Designer', 'Company': 'McCaffery Gottlieb Lane LLC', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41703917-karo-jattke'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Matt Merkel', 'Title': 'Graphic Designer', 'Company': 'Powell & Partners Creative', 'Location': 'Charlotte, United States', 'Url': 'https://www.adforum.com/talent/41704833-matt-merkel'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Sam Lakas', 'Title': 'Graphic Designer', 'Company': 'Manasian, Inc.', 'Location': 'Waltham, United States', 'Url': 'https://www.adforum.com/talent/6699570-sam-lakas'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jim Zeman', 'Title': 'Graphic Designer', 'Company': 'Powell & Partners Creative', 'Location': 'Charlotte, United States', 'Url': 'https://www.adforum.com/talent/41697677-jim-zeman'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Bobby Van Dyke', 'Title': 'Graphic Designer', 'Company': 'Brainchild Creative', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41701644-bobby-van-dyke'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Frances Burruss', 'Title': 'Graphic Designer', 'Company': 'Longwater Advertising', 'Location': 'Savannah, United States', 'Url': 'https://www.adforum.com/talent/15596-frances-burruss'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Gigi Lam', 'Title': 'Graphic Designer', 'Company': 'DAE', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81774271-gigi-lam'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Liza Pagano', 'Title': 'Graphic Designer', 'Company': 'Razorfish', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/26384-liza-pagano'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Josh Gerken', 'Title': 'Graphic Designer', 'Company': 'Liggett Stashower', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/51583-josh-gerken'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Greg Park', 'Title': 'Motion Graphics', 'Company': 'MJZ', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81838589-greg-park'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Michael Marciano', 'Title': 'Motion Graphics', 'Company': 'Smuggler Films', 'Location': 'Boston, United States', 'Url': 'https://www.adforum.com/talent/81844310-michael-marciano'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Roswitha Rodrigues', 'Title': 'Graphic Design', 'Company': 'MARC USA / New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/8079-roswitha-rodrigues'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Joseph Bukovac', 'Title': 'Graphic Designer', 'Company': 'Giant Ideas', 'Location': 'Pittsburgh, United States', 'Url': 'https://www.adforum.com/talent/65748-joseph-bukovac'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Dan Hawk', 'Title': 'Graphic Designer', 'Company': 'Precision Shooting Equipment', 'Location': 'Tucson, United States', 'Url': 'https://www.adforum.com/talent/66974-dan-hawk'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Amy Runstrom', 'Title': 'Graphic/Web Designer', 'Company': 'M. Tavernini & Associates', 'Location': 'Marquette, United States', 'Url': 'https://www.adforum.com/talent/70920-amy-runstrom'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alida Pirani', 'Title': 'Graphic Designer', 'Company': 'Dentsu Next', 'Location': 'Brea, United States', 'Url': 'https://www.adforum.com/talent/71098-alida-pirani'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Zach Carnes', 'Title': 'Graphic Artist', 'Company': 'Eleven Sound', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/81849043-zach-carnes'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Melissa Andrews Andrews', 'Title': 'Graphic Design', 'Company': 'Clipping Path Studio', 'Location': 'United States', 'Url': 'https://www.adforum.com/talent/82227028-melissa-andrews-andrews'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Amy White', 'Title': 'Graphics Designer', 'Company': 'Designer House', 'Location': 'Old Forge, United States', 'Url': 'https://www.adforum.com/talent/82261800-amy-white'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Aaron Stewart', 'Title': 'Graphic Designer', 'Company': 'Instructoart', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/49812-aaron-stewart'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Barbara Scholen', 'Title': 'Graphic Designer', 'Company': 'STEVENSON Advertising Engineers', 'Location': 'Lynnwood, United States', 'Url': 'https://www.adforum.com/talent/59381-barbara-scholen'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jezreel Alcantara', 'Title': 'Graphic Designer', 'Company': 'Carat', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/55550-jezreel-alcantara'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Joseph Milne', 'Title': 'Graphic Designer', 'Company': 'Giant Ideas', 'Location': 'Pittsburgh, United States', 'Url': 'https://www.adforum.com/talent/57208-joseph-milne'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Brandon Scott', 'Title': 'Graphic Designer', 'Company': 'g Media Creative', 'Location': 'St. Louis, United States', 'Url': 'https://www.adforum.com/talent/60814-brandon-scott'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Talia Johnson', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/60908-talia-johnson'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Dusty Sumner', 'Title': 'Graphic Designer', 'Company': 'Barkley', 'Location': 'Kansas City, United States', 'Url': 'https://www.adforum.com/talent/61691-dusty-sumner'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Aaron Benoit', 'Title': 'Graphic Designer', 'Company': '72andSunny', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/81783367-aaron-benoit'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'David Watson', 'Title': 'Graphic Designer', 'Company': 'Logo Design Best', 'Location': 'Houston, United States', 'Url': 'https://www.adforum.com/talent/81834660-david-watson'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ryan Gilbert', 'Title': 'Motion Graphics', 'Company': 'Digitas Boston', 'Location': 'Boston, United States', 'Url': 'https://www.adforum.com/talent/81825727-ryan-gilbert'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Derek Bratek', 'Title': 'Graphic Designer', 'Company': '###KSV Communicators', 'Location': 'Burlington, United States', 'Url': 'https://www.adforum.com/talent/81796202-derek-bratek'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Andrew Hoeveler', 'Title': 'Motion Graphics', 'Company': 'TBWA\\Chiat\\Day Los Angeles', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/41712861-andrew-hoeveler'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tina St. Claire', 'Title': 'Graphic Designer', 'Company': 'RPA', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/41710271-tina-st-claire'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Charles Hoge', 'Title': 'Graphic Designer', 'Company': 'McCaffery Gottlieb Lane LLC', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41703916-charles-hoge'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Randy Sluder', 'Title': 'Graphic Designer', 'Company': 'Powell & Partners Creative', 'Location': 'Charlotte, United States', 'Url': 'https://www.adforum.com/talent/41697676-randy-sluder'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Louiselotte Brekelmans', 'Title': 'Graphic Designer', 'Company': 'Duval Guillaume', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41698667-louiselotte-brekelmans'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Vincent Rogozyk', 'Title': 'Graphic Artist', 'Company': 'Goodby Silverstein & Partners', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707711-vincent-rogozyk'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Chris Guy', 'Title': 'Motion Graphics', 'Company': 'We Are Unlimited', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/39080-chris-guy'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Mariko Ishihara', 'Title': 'Graphic Designer', 'Company': 'Fallon', 'Location': 'Minneapolis, United States', 'Url': 'https://www.adforum.com/talent/62877-mariko-ishihara'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jason Beattie', 'Title': 'Graphic Designer', 'Company': 'Kastner & Partners', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/62923-jason-beattie'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'T Miller', 'Title': 'Graphic Designer', 'Company': 'DDB San Francisco', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/65047-t-miller'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Neal Horstmeyer', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/6694404-neal-horstmeyer'})
+2024-03-14 14:58:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=1&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Rob Neitzke', 'Title': 'Graphic Designer', 'Company': 'Energy BBDO', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/65198-rob-neitzke'})
+2024-03-14 14:58:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search> (referer: https://www.adforum.com/talent/search?worktitle=Graphic&location=country:United%20States)
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Chris Rubino', 'Title': 'Graphic Designer', 'Company': 'RPA', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81785718-chris-rubino'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alex Mapar', 'Title': 'Graphic Artist', 'Company': 'Partners & Spade', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81790894-alex-mapar'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jorge Mosqueira', 'Title': 'Graphic Designer', 'Company': 'Artvertising', 'Location': 'Miami, United States', 'Url': 'https://www.adforum.com/talent/82206183-jorge-mosqueira'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Joe Bukovac', 'Title': 'Graphic Designer', 'Company': 'Giant Ideas', 'Location': 'Pittsburgh, United States', 'Url': 'https://www.adforum.com/talent/57184-joe-bukovac'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Earnie Merritt', 'Title': 'Graphic Designer', 'Company': 'Liggett Stashower', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/51578-earnie-merritt'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Niko Dellios', 'Title': 'Graphic Designer', 'Company': 'School', 'Location': 'Boulder, United States', 'Url': 'https://www.adforum.com/talent/81825367-niko-dellios'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tim Pratt', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/60904-tim-pratt'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Sarah Zachrich', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/60909-sarah-zachrich'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ryan Rhodes', 'Title': 'Graphic Designer', 'Company': 'McGarrah Jessee', 'Location': 'Austin, United States', 'Url': 'https://www.adforum.com/talent/64196-ryan-rhodes'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Paul Traylor', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/62955-paul-traylor'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Sarah Kearns', 'Title': 'Graphic Designer', 'Company': 'SA Graphix', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/63662-sarah-kearns'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Brad Sargeant', 'Title': 'Graphic Designer', 'Company': 'HonestMechanics', 'Location': 'Costa Mesa, United States', 'Url': 'https://www.adforum.com/talent/41702467-brad-sargeant'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Seth Hulewat', 'Title': 'Graphic Artist', 'Company': 'Wieden + Kennedy', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41708345-seth-hulewat'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Manu Zadok', 'Title': 'Graphic Artist', 'Company': 'Goodby Silverstein & Partners', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/41707710-manu-zadok'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tiffany Wise', 'Title': 'Graphic Designer', 'Company': 'b&a', 'Location': 'Dublin, United States', 'Url': 'https://www.adforum.com/talent/41703129-tiffany-wise'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Mikey Burton', 'Title': 'Graphic Designer', 'Company': 'Brokaw', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/6699578-mikey-burton'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Beulah Gentry', 'Title': 'Graphic Designer', 'Company': 'PowerFlite Communications', 'Location': 'Quincy, United States', 'Url': 'https://www.adforum.com/talent/41698483-beulah-gentry'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Greg Suzuki', 'Title': 'Graphic Designer', 'Company': 'AKQA', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/6697820-greg-suzuki'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Kevin Li', 'Title': 'Graphic Designer', 'Company': 'Saatchi & Saatchi NY', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/6694302-kevin-li'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Suzonne Bunch', 'Title': 'Graphic Designer', 'Company': 'Cornett', 'Location': 'Lexington, United States', 'Url': 'https://www.adforum.com/talent/6697349-suzonne-bunch'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Patrick Arrington', 'Title': 'Motion Graphics', 'Company': 'Caviar Content (US)', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81849641-patrick-arrington'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Manny Fabian', 'Title': 'Graphic Designer', 'Company': 'Turbulence', 'Location': 'Miami, United States', 'Url': 'https://www.adforum.com/talent/71298-manny-fabian'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ivan Vargas', 'Title': 'Graphic Designer', 'Company': 'PlanetOut Inc.', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/71820-ivan-vargas'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Cadin Batrack', 'Title': 'Graphic Designer', 'Company': 'Curtis Birch, Inc.', 'Location': 'Venice, United States', 'Url': 'https://www.adforum.com/talent/41697249-cadin-batrack'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Rebecca Cobb', 'Title': 'Graphic Designer', 'Company': 'McCann Erickson', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/57832-rebecca-cobb'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Christian Peralta', 'Title': 'Graphic Designer', 'Company': 'Mcnelis', 'Location': 'Santa Ana, United States', 'Url': 'https://www.adforum.com/talent/58924-christian-peralta'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alejandro Melguizo', 'Title': 'Graphic Designer', 'Company': 'Razorfish', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/57166-alejandro-melguizo'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Daniel Pipitone', 'Title': 'Graphic Designer', 'Company': 'Giant Ideas', 'Location': 'Pittsburgh, United States', 'Url': 'https://www.adforum.com/talent/57185-daniel-pipitone'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Keri Allison', 'Title': 'Graphic Designer', 'Company': 'Giant Ideas', 'Location': 'Pittsburgh, United States', 'Url': 'https://www.adforum.com/talent/57192-keri-allison'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ariel Eroles', 'Title': 'Graphic Designer', 'Company': 'Razorfish', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/57628-ariel-eroles'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alex Rinker', 'Title': 'Graphic Designer', 'Company': 'Kastner & Partners', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/62925-alex-rinker'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Dave Fogle', 'Title': 'Graphic Designer', 'Company': 'Becker Communications Inc', 'Location': 'United States', 'Url': 'https://www.adforum.com/talent/65044-dave-fogle'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Cathy Pritzl', 'Title': 'Graphic Artist', 'Company': 'The Pritzl Project', 'Location': 'Milwaukee, United States', 'Url': 'https://www.adforum.com/talent/59958-cathy-pritzl'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Kiyotaka Sumiyoshi', 'Title': 'Motion Graphics', 'Company': 'TYO Monster', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81837642-kiyotaka-sumiyoshi'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Louis Hess', 'Title': 'Graphic Designer', 'Company': 'EP+Co', 'Location': 'New York-Greenville, United States', 'Url': 'https://www.adforum.com/talent/81838936-louis-hess'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Robert Johnston', 'Title': 'Motion Graphics', 'Company': 'REVERSE', 'Location': 'Los Angeles, United States', 'Url': 'https://www.adforum.com/talent/81839097-robert-johnston'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Reggie Butler', 'Title': 'Graphic Artist', 'Company': 'Park Pictures', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81827984-reggie-butler'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Patrick McInerney', 'Title': 'Graphic Designer', 'Company': 'R/GA', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81826152-patrick-mcinerney'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Laura Zynda', 'Title': 'Graphic Designer', 'Company': 'GreenHouse', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/19988-laura-zynda'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tony Wann', 'Title': 'Motion Graphics', 'Company': 'Founder', 'Location': 'Dallas, United States', 'Url': 'https://www.adforum.com/talent/81798659-tony-wann'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Marco Bacich', 'Title': 'Graphic Designer', 'Company': 'BBDO New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/48398-marco-bacich'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Robert Konves', 'Title': 'Graphic Designer', 'Company': "Pereira O'Dell", 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81774022-robert-konves'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jason McKean', 'Title': 'Graphic Designer', 'Company': 'Leo Burnett Chicago', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81774577-jason-mckean'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Chris Rubino', 'Title': 'Graphic Designer', 'Company': 'RPA', 'Location': 'Santa Monica  , United States', 'Url': 'https://www.adforum.com/talent/81785707-chris-rubino'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Denwer Kerty', 'Title': 'Graphics Designer', 'Company': 'PhotoADKing', 'Location': 'US, United States', 'Url': 'https://www.adforum.com/talent/82261799-denwer-kerty'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jim Robertson', 'Title': 'Graphic Artist', 'Company': 'Wieden + Kennedy', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41708344-jim-robertson'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Ryan Kirkwood', 'Title': 'Graphic Artist', 'Company': 'Saatchi & Saatchi Los Angeles', 'Location': 'Torrance, United States', 'Url': 'https://www.adforum.com/talent/41702396-ryan-kirkwood'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Chad Bollenbach', 'Title': 'Graphic Designer', 'Company': 'Shine Advertising Co.', 'Location': 'Madison, United States', 'Url': 'https://www.adforum.com/talent/41700035-chad-bollenbach'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Katie Jennett', 'Title': 'Graphic Designer', 'Company': 'AdBiz Corporation', 'Location': 'Plattsburgh, United States', 'Url': 'https://www.adforum.com/talent/41700136-katie-jennett'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Murray Dameron', 'Title': 'Graphic Artist', 'Company': 'Creative That Sells', 'Location': 'Charlotte, United States', 'Url': 'https://www.adforum.com/talent/7525-murray-dameron'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Neil Horstmeyer', 'Title': 'Graphic Designer', 'Company': '352 Media Group', 'Location': 'Atlanta, United States', 'Url': 'https://www.adforum.com/talent/62957-neil-horstmeyer'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Shawn Curtin', 'Title': 'Graphic/Web Designer', 'Company': 'M. Tavernini & Associates', 'Location': 'Marquette, United States', 'Url': 'https://www.adforum.com/talent/70917-shawn-curtin'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Gregg Brokaw', 'Title': 'Graphic Designer', 'Company': 'Brokaw', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/68190-gregg-brokaw'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Andrew Marks', 'Title': 'Motion Graphics', 'Company': 'Johannes Leonardo', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81838918-andrew-marks'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Lesli Karavil', 'Title': 'Graphic Designer', 'Company': 'R/GA', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/39925-lesli-karavil'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jay Green', 'Title': 'Graphics Services', 'Company': 'Grey New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81801307-jay-green'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Barry Rowell', 'Title': 'Graphic Designer', 'Company': 'MDC Group', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/48200-barry-rowell'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nick DiNapoli', 'Title': 'Graphic Designer', 'Company': 'BBDO New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/48399-nick-dinapoli'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Gary Lechuk', 'Title': 'Graphic Designer', 'Company': 'Liggett Stashower', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/51575-gary-lechuk'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Murray John', 'Title': 'Graphic Designer', 'Company': 'Energy BBDO', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/60362-murray-john'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Michael Knaggs', 'Title': 'Graphic Designer', 'Company': 'McCann Erickson', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/57833-michael-knaggs'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Scott Gursky', 'Title': 'Graphic Designer', 'Company': 'Pop & Company', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/49811-scott-gursky'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Brizida Ahrnsbrak', 'Title': 'Graphic Designer', 'Company': 'TDA_Boulder', 'Location': 'Boulder, United States', 'Url': 'https://www.adforum.com/talent/41714737-brizida-ahrnsbrak'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Janellie Nunes', 'Title': 'Graphic Designer', 'Company': 'PlanetWoot, Inc.', 'Location': 'Huntington Beach, United States', 'Url': 'https://www.adforum.com/talent/47217048-janellie-nunes'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jessi Chang', 'Title': 'Graphic Artist', 'Company': 'The Ballpark', 'Location': 'Santa Monica, United States', 'Url': 'https://www.adforum.com/talent/6696438-jessi-chang'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Liz Sheppard', 'Title': 'Graphic Designer', 'Company': 'Crossbow Studio', 'Location': 'Philadelphia, United States', 'Url': 'https://www.adforum.com/talent/41703507-liz-sheppard'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Emily Andros', 'Title': 'Owner / Sr. Graphics Designer', 'Company': 'The Marketing Department', 'Location': 'Houston, United States', 'Url': 'https://www.adforum.com/talent/41700045-emily-andros'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'William Trible', 'Title': 'Graphic & Production Artist', 'Company': 'Madison+Main', 'Location': 'Richmond, United States', 'Url': 'https://www.adforum.com/talent/41704876-william-trible'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Anthony infamous', 'Title': 'senior graphic & consultant', 'Company': 'Grandswing productions', 'Location': 'atlanta, United States', 'Url': 'https://www.adforum.com/talent/81829641-anthony-infamous'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nem Perez', 'Title': 'Motion Graphics Artist', 'Company': 'Yellow Shoes', 'Location': ', United States', 'Url': 'https://www.adforum.com/talent/81853140-nem-perez'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'David Chrisman', 'Title': 'Sr. Graphic Designer', 'Company': 'STEVENSON Advertising Engineers', 'Location': 'Lynnwood, United States', 'Url': 'https://www.adforum.com/talent/59379-david-chrisman'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jaehyuk Choi', 'Title': 'Motion Graphic Designer', 'Company': 'Mssngpeces', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81820176-jaehyuk-choi'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Lindsey Stuart', 'Title': 'Senior Graphic Designer', 'Company': 'DDB Chicago', 'Location': 'Chicago, United States', 'Url': 'https://www.adforum.com/talent/81785969-lindsey-stuart'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jonathan Bell', 'Title': 'Freelance Photographer & Graphic Designer', 'Company': 'Michigan State University College of Communication Arts and Sciences', 'Location': 'Greater Detroit Area, United States', 'Url': 'https://www.adforum.com/talent/81892283-jonathan-bell'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'S. Rebecca Harrison', 'Title': 'Sr. Graphics Designer', 'Company': 'The Marketing Department', 'Location': 'The Woodlands, United States', 'Url': 'https://www.adforum.com/talent/41710953-s-rebecca-harrison'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Jung Eun Han', 'Title': 'Motion Graphics Designer', 'Company': 'TBWA\\Chiat\\Day', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/82249227-jung-eun-han'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alejandro Roses', 'Title': 'Lead Motion Graphics', 'Company': 'Publicis Sapient', 'Location': 'Boston, United States', 'Url': 'https://www.adforum.com/talent/81811475-alejandro-roses'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Dennis Azana', 'Title': '3D Motion Graphics Animator', 'Company': 'The Voice', 'Location': 'Fairfield, United States', 'Url': 'https://www.adforum.com/talent/81818616-dennis-azana'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tyler Jarrett', 'Title': 'Title Graphics Producer', 'Company': 'BBDO New York', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/41713514-tyler-jarrett'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Chloe Karayiannis', 'Title': '3D/2D Motion Graphics Designer', 'Company': 'Freelance', 'Location': 'United States', 'Url': 'https://www.adforum.com/talent/81900160-chloe-karayiannis'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tom Walker', 'Title': 'Graphic Designer and Animator', 'Company': 'adam&eveDDB', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/27119-tom-walker'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Henry Smith', 'Title': 'Freelance Graphic Designer', 'Company': 'Graphic Design Solution', 'Location': 'Tulsa, United States', 'Url': 'https://www.adforum.com/talent/82261801-henry-smith'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Kai Yu', 'Title': 'Motion Graphics Animator', 'Company': 'Biscuit Filmworks USA', 'Location': 'San Francisco, United States', 'Url': 'https://www.adforum.com/talent/81799627-kai-yu'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Carlie Wirebaugh', 'Title': 'Graphic Design Intern', 'Company': 'Michigan State University RHS', 'Location': 'Greater Detroit Area, United States', 'Url': 'https://www.adforum.com/talent/81892750-carlie-wirebaugh'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'John Hamann', 'Title': 'Senior Graphic Artist', 'Company': 'Media Development, Inc.', 'Location': 'Quincy, United States', 'Url': 'https://www.adforum.com/talent/11221-john-hamann'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Nicholas Carpenter', 'Title': 'Motion Graphic Designer', 'Company': 'Struck', 'Location': 'United States', 'Url': 'https://www.adforum.com/talent/82234447-nicholas-carpenter'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alessandra Divizia', 'Title': 'Art Direction | Illustration | Graphic Design -', 'Company': 'Momentum Worldwide', 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/81863347-alessandra-divizia'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Tonya Lutz', 'Title': 'Brand Manager, Art & Graphic products', 'Company': 'Faber-Castell', 'Location': 'Cleveland, United States', 'Url': 'https://www.adforum.com/talent/81874842-tonya-lutz'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Victor Basile', 'Title': 'Senior VP, Director of Print Graphic Services', 'Company': "D'Arcy, Inc.", 'Location': 'New York, United States', 'Url': 'https://www.adforum.com/talent/38-victor-basile'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Alisa Smith', 'Title': 'Visual Artist, Freelancer graphic designer, Blogger', 'Company': 'Explosit', 'Location': 'Adak, United States', 'Url': 'https://www.adforum.com/talent/82261802-alisa-smith'})
+2024-03-14 14:58:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.adforum.com/find/loadmore?idx=people&l=100&p=2&worktitle=Graphic&location=country:United%20States&o=_score%7Cdesc&rtpl=people.list.search>
+OrderedDict({'Name': 'Luke Finnell', 'Title': 'Director of Graphics and Content at the Nike N7 Youth Movement', 'Company': 'Nike', 'Location': 'Portland, Oregon Area, United States', 'Url': 'https://www.adforum.com/talent/81886845-luke-finnell'})
+2024-03-14 14:58:44 [scrapy.core.engine] INFO: Closing spider (finished)
+2024-03-14 14:58:44 [scrapy.extensions.feedexport] INFO: Stored csv feed (191 items) in: output/Ahs Company Products 14032024145839.csv
+2024-03-14 14:58:44 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2636,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 93727,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'elapsed_time_seconds': 4.128062,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2024, 3, 14, 9, 58, 44, 566496, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 1192735,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 191,
+ 'log_count/DEBUG': 195,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 11,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2024, 3, 14, 9, 58, 40, 438434, tzinfo=datetime.timezone.utc)}
+2024-03-14 14:58:44 [scrapy.core.engine] INFO: Spider closed (finished)

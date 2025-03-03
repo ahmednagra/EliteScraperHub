@@ -1,0 +1,21 @@
+Website http://20.198.83.63:9090/dashboard/
+
+Then follow these steps: on the left drop-down pick "Farmer Master Report". "Bihar" is automatically selected. Then pick any 1 of the 8 years, click on "View Report" on the left.
+
+[A few cautions: page takes a while to load, plus at night in India its' often down for maintenance]
+
+
+Now you are at a page with all 38 districts of Bihar for the given year (lets say 2016-2017). So now click on a district in the main page, let's say "Arwal"
+
+
+This takes you to a page which shows all the blocks or sub-districts of Arwal district. Now (for each block) just need to click on the column with header "No. of farmers engaged for 2016-2017"
+
+
+This takes you to the page with all the data i want to download
+
+Scrape this data in CSV
+
+
+So the process needs to be repeated for each of the 534 blocks * 8 years = 4272 pages.
+
+

@@ -1,0 +1,197 @@
+Spider "direct_text_tiles" Started at "24042024171315"
+
+Total Brands Exist: 70
+
+
+Total 268/ 268 items scraped from Brand 1Concier
+
+
+Total 3/ 3 items scraped from Brand ACTIVA
+
+
+Total 367/ 367 items scraped from Brand ADI American Dawn
+No product found in Brand :"AMS Laundry Bags", Url :https://directtextilestore.com/AMS-Commercial-Laundry-Bags-in-Bulk 
+
+
+Total 1/ 1 items scraped from Brand Aromatherapy
+
+
+Total 21/ 21 items scraped from Brand Beck's Classic Manufacturing
+
+
+Total 63/ 63 items scraped from Brand BLC Textiles
+
+
+Total 33/ 33 items scraped from Brand Bulwark
+
+
+Total 1/ 1 items scraped from Brand Cellapy
+
+
+Total 43/ 43 items scraped from Brand Clara Clark
+
+
+Total 50/ 50 items scraped from Brand Classic Turkish Towels
+
+
+Total 1/ 1 items scraped from Brand Colgate
+
+
+Total 44/ 44 items scraped from Brand Dickies
+
+
+Total 86/ 86 items scraped from Brand Direct Textile Store 101
+
+
+Total 4/ 4 items scraped from Brand Direct Textile Store 104
+
+
+Total 11/ 11 items scraped from Brand Direct Textile Store 105
+
+
+Total 50/ 50 items scraped from Brand Direct Textile Store Amenities
+
+
+Total 1/ 1 items scraped from Brand Direct Textile Store First Aid
+
+
+Total 4/ 4 items scraped from Brand Dove
+
+
+Total 1/ 1 items scraped from Brand EcoEssence
+
+
+Total 28/ 28 items scraped from Brand Emerald
+
+
+Total 2/ 2 items scraped from Brand EO
+
+
+Total 90/ 90 items scraped from Brand ERB Safety Products
+
+
+Total 167/ 167 items scraped from Brand Fame Fabrics
+
+
+Total 155/ 155 items scraped from Brand Fashion Seal Healthcare
+
+
+Total 154/ 154 items scraped from Brand Ganesh Mills  Oxford Super Blend
+
+
+Total 64/ 64 items scraped from Brand Golden Mills
+
+
+Total 23/ 23 items scraped from Brand Green Lifestyle
+
+
+Total 2/ 2 items scraped from Brand H2O Therapy
+
+
+Total 1/ 1 items scraped from Brand Hamilton Beach
+
+
+Total 6/ 6 items scraped from Brand Horace Small
+
+
+Total 77/ 77 items scraped from Brand ienjoy home
+
+
+Total 33/ 33 items scraped from Brand Intralin
+No product found in Brand :"JRS Amenities", Url :https://directtextilestore.com/JRS-Amenities 
+
+
+Total 63/ 63 items scraped from Brand JS Fiber
+
+
+Total 92/ 92 items scraped from Brand Kartri
+
+
+Total 113/ 113 items scraped from Brand KSE
+
+
+Total 52/ 52 items scraped from Brand Landau
+
+
+Total 42/ 42 items scraped from Brand Leading Edge Products
+
+
+Total 40/ 40 items scraped from Brand M+A Matting
+
+
+Total 1/ 1 items scraped from Brand MainStays
+
+
+Total 1/ 1 items scraped from Brand OceanSpa
+
+
+Total 4/ 4 items scraped from Brand Pavy
+
+
+Total 1/ 1 items scraped from Brand PetrA-1
+
+
+Total 221/ 221 items scraped from Brand Pinnacle Textile Industries
+
+
+Total 1/ 1 items scraped from Brand ProNature®
+
+
+Total 10/ 10 items scraped from Brand Protect Ease
+
+
+Total 243/ 243 items scraped from Brand R&B Wire
+
+
+Total 1/ 1 items scraped from Brand RDI
+
+
+Total 102/ 102 items scraped from Brand Red Kap
+
+
+Total 39/ 39 items scraped from Brand Reed Manufacturing
+
+
+Total 4/ 4 items scraped from Brand RJ Schinner
+
+
+Total 8/ 8 items scraped from Brand Royal Blue International
+
+
+Total 74/ 74 items scraped from Brand SanMar
+
+
+Total 38/ 38 items scraped from Brand Standard Textile
+
+
+Total 14/ 14 items scraped from Brand Still Water Pillows
+
+
+Total 10/ 10 items scraped from Brand SW Safety
+
+
+Total 6/ 6 items scraped from Brand Terra Pure
+
+
+Total 24/ 24 items scraped from Brand Thomaston Mills
+
+
+Total 8/ 8 items scraped from Brand Villa Di Borghese Collection
+
+
+Total 3/ 3 items scraped from Brand Welspun Hospitality 101
+
+
+Total 93/ 93 items scraped from Brand Whitmor
+
+
+Total 13/ 13 items scraped from Brand World Amenities
+
+Spider "direct_text_tiles" was started at "24042024171315"
+Spider "direct_text_tiles" closed at "2024-04-24 171533"
+
+
+Spider Error:: 
+
+
+

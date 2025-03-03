@@ -1,0 +1,26 @@
+[INIT] Script started at 25-01-2025 21:42:46
+Total Previous Judgment Files Found: 535
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2014 | Total Judgments Found: 732
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2015 | Total Judgments Found: 1160
+Processing Year: 2016 | Total Judgments Found: 1147
+Processing Year: 2018 | Total Judgments Found: 1217
+Processing Year: 2017 | Total Judgments Found: 1154
+Processing Year: 2020 | Total Judgments Found: 1041
+Processing Year: 2019 | Total Judgments Found: 1209
+Failed to save PDF on first attempt: Year:2019 | Name:B (a minor) suing by his mother and next friend X -v- The Board of Management of St. Q's College
+C (a minor) suing by his mother and next friend  | Error: [Errno 22] Invalid argument: "output\\judgments_downloads\\2019\\B (a minor) suing by his mother and next friend X -v- The Board of Management of St. Q's College\nC (a minor) suing by his mother and next friend .pdf"
+Failed to save PDF on first attempt: Year:2019 | Name:O'Connor -v- Kelly & Ors
+O'Connor -v- Property Registration Authority of Ireland | Error: [Errno 22] Invalid argument: "output\\judgments_downloads\\2019\\O'Connor -v- Kelly & Ors\nO'Connor -v- Property Registration Authority of Ireland.pdf"
+Failed to save PDF on first attempt: Year:2019 | Name:Re: Frank McNamara (a debtor); Re: Teresa McNamara ( a debtor) | Error: [Errno 22] Invalid argument: 'output\\judgments_downloads\\2019\\Re: Frank McNamara (a debtor); Re: Teresa McNamara ( a debtor).pdf'

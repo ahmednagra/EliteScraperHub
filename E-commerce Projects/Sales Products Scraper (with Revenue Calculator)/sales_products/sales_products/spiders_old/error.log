@@ -1,0 +1,10 @@
+2023-08-25 15:09:18,742 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:09:21,356 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:14:38,246 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:14:38,796 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:14:56,882 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:16:11,995 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:16:21,923 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:21:22,171 - ERROR - Cost Of Sold Goods Element not found
+2023-08-25 15:46:58,553 - ERROR - Error in parsing from Parse Detail Method output\telekom Products.csv, EAN: : 'charmap' codec can't encode character '\ufeff' in position 68: character maps to <undefined>
+2023-08-25 15:52:15,475 - ERROR - Error in parsing from Parse Method output\telekom Products.csv: dict contains fields not in fieldnames: 'SKU'

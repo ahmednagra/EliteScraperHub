@@ -1,0 +1,238 @@
+[INIT] Script started at 24-12-2024 00:33:59
+Total Records found in the file determination_database are :824
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/14tacd2017-capital-acquisitions-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/12tacd2017-capital-gains-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/24tacd2019-%E2%80%93-income-tax-payeprsi-and-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-09tacd2019-%E2%80%93-local-property-tax
+Publication Ref: 64TACD2019  not has valid URL
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/26tacd2019-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/34tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/37tacd2019-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/39tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/40tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/42tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/43tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/44tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/46tacd2019-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/48tacd2019-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/57tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/50tacd2019-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/58tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/66tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/67tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/69tacd2019-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/70tacd2019-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/20tacd2020-vrt-
+Publication Ref: 70TACD2021  not has valid URL
+Publication Ref: 71TACD2021  not has valid URL
+Publication Ref: 72TACD2021  not has valid URL
+Publication Ref: 73TACD2021  not has valid URL
+Publication Ref: 74TACD2021  not has valid URL
+Publication Ref: 75TACD2021  not has valid URL
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/62tacd2020-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/61tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/63tacd2020-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/64tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/65tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/69tacd2020-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/70tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/67tacd2019-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/71tacd2020-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/72tacd2020-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/74tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/17tacd2020-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/135tacd2020-paye-prsi-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/177tacd2020-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/15tacd2021-capital-acquisitions-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-67tacd2021-capital-gains-tax
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/84tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/85tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/73tacd2020-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/87tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/89tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/90tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/99tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/185tacd2020-capital-gains-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/102tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/103tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/108tacd2021-income-tax-prsi-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/86tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/109tacd2021-paye-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/110tacd2021-income-tax-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/111tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/88tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/112tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/113tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/114tacd2021-dwt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/115tacd2021-income-tax-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/121tacd2921-income-tax
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/128tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/134tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/138tacd2021-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/01tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/08tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/125tacd2021-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/131tacd2021-paye-prem-prsi-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/09tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/10tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/12tacd2022-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/03tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/06tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/07tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/20tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/22tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/25tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/26tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/27tacd2022-corporation-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/28tacd2022-prem-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/31tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/02tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/33tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/15tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/35tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/37tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/38tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/39tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/40tacd2022-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/29tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/41tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/42tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/43tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/44tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/45tacd2022-paye-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/36tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/55tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/56tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/57tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/59tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/61tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/64tacd2022-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/54tacd2022-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/65tacd20222-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/66tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/58tacd2022-c-e-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/60tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/68tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/69tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/63tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/32tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/70tacd2022-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/71tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/71tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/73tacd2022-crss-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/82tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/84tacd2022-it-usc-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/86tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/67tacd2022-income-tax-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/89tacd2022-%E2%80%93-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/94tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/95tacd2022-paye-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/97tacd2022-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/98tacd2022-crss-covid-relief-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/100tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/101tacd2022-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/102tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/103tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/93tacd2022-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/104tacd2022-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/115tacd2022-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/116tacd2022-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/96tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/117tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-129tacd2022-%E2%80%93-value-added-tax
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/99tacd2022-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-130tacd2022-%E2%80%93-income-tax
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-128tacd2022-%E2%80%93-paye
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-131tacd2022-%E2%80%93-paye
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/133tacd2022-income-tax-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/119tacd2022-income-tax-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-127tacd2022-%E2%80%93-income-tax-capital-gains-tax
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/138tacd2022-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/120tacd2022-vat-customs-and-excise-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/118tacd2022-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/137tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/141tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/140tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/147tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/143tacd2022-corporation-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/-126tacd2022-%E2%80%93-paye-prsi
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/155tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/135tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/160tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/161tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/154tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/156tacd2022-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/136tacd2022-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/10tacd2023-crss-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/158tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/11tacd2023-income-tax-vat-prem-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/15tacd2023-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/165tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/17tacd2023-crss-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/163tacd2022-paye-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/18tacd2023-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/20tacd2023-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/21tacd2023-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/27tacd2023-cat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/29tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/30tacd2023-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/32tacd2023-%E2%80%93-income-tax-pswt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/16tacd2023-income-tax-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/142tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/46tacd2023-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/51tacd2023-eii-relief-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/141tacd2022-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/53tacd2023-stamp-duty-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/23tacd2023-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/90tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/81tacd2023-%E2%80%93-income-paye-usc
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/59tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/100tacd2023-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/97tacd2023-paye-usc-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/112tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/119tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/108tacd2023-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/60tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/120tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/124tacd2023-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/120tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/101tacd2023-vat-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/126tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/129tacd2023-rct-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/96tacd2023-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/155tacd2023-prem-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/148tacd2023-artist-exemption-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/161tacd2023-income-tax-dwt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/164tacd2023-vrt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/130tacd2023-crss-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/165tacd2023-income-tax-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/135tacd2023-income-tax-cgt-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/153tacd2023-artist-exemption-
+Records Not Exist at detail page URL:https://www.taxappeals.ie/en/determinations/136tacd2023-stamp-duty-
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/194tacd2024-artists-exemption
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/192tacd2024-artists-exemption
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/13tacd2024-help-to-buy-scheme
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/14tacd2024-income-tax-cat
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/09tacd2024-help-to-buy-scheme
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/15tacd2024-income-tax-lpt
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/142tacd2024-customs-excise
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/150tacd2024-lpt
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/01tacd2024-income-tax-rct
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/02tacd2024-income-tax-vat
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/07tacd2024-spccc
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/123tacd2024-income-tax-vat
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/187tacd2024-vacant-homes-tax
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/89tacd2024-capital-gains-tax-income-tax
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/83tacd2024-customs-and-excise
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/85tacd2024-ct-dwt-prem
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/86tacd2024-customs-excise
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/72tacd2024-rct
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/43tacd2024-income-tax-usc
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/76tacd2024-corporation-tax-income-tax
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/53tacd2024-cgt-income-tax
+Tax Head Mismatch URL:https://www.taxappeals.ie/en/determinations/54tacd2024-customs-and-excise
+
+
+Total Items Scraped:821
+Spider Started from :24-12-2024 00:33:59
+Spider Stopped at :24-12-2024 00:49:58
